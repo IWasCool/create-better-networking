@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Parametrlər",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Parametrlər",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Parametrlər",
+  "create_better_networking.configuration.showNetworkIdInHud": "Şəbəkə ID-sini HUD-da göstər",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Şəbəkənin adı olmadıqda onun ID-sini mübadilə buferinin vurğulama göstəricisində göstər",
+  "create_better_networking.frequency.copied": "%s şəbəkəsi mübadilə buferinə köçürüldü",
+  "create_better_networking.frequency.pasted": "%s şəbəkəsi tətbiq edildi",
+  "create_better_networking.frequency.saved": "Şəbəkə: %s",
+  "create_better_networking.frequency.controls": "Köçürmək üçün Shift + sol klik; yapışdırmaq üçün sol klik. Şəbəkəyə ad vermək üçün buferə yalnız #network: Link Series olan qeyd əlavə edin.",
+  "create_better_networking.frequency.highlight_status": "Şəbəkə %s  •  %s blok vurğulandı",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blok vurğulandı",
+  "create_better_networking.frequency.empty": "Saxlanmış tezlik yoxdur. Köçürmək üçün qoşulmuş bloka Shift + sol klik edin.",
+  "create_better_networking.frequency.inactive": "Bu zavod göstəricisinin paneli fəal deyil",
+  "create_better_networking.frequency.protected": "Bu şəbəkəni dəyişmək icazəniz yoxdur",
+  "create_better_networking.frequency.same": "Bu blok artıq bu tezlikdən istifadə edir",
+  "create_better_networking.frequency.cleared": "Buferdəki şəbəkə təmizləndi"
+}

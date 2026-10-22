@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Podešavanja",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Podešavanja",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Podešavanja",
+  "create_better_networking.configuration.showNetworkIdInHud": "Prikaži ID mreže u HUD-u",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Prikaži ID mreže u prikazu isticanja ostave kada mreža nema naziv",
+  "create_better_networking.frequency.copied": "Mreža %s je kopirana u ostavu",
+  "create_better_networking.frequency.pasted": "Primenjena je mreža %s",
+  "create_better_networking.frequency.saved": "Mreža: %s",
+  "create_better_networking.frequency.controls": "Shift + levi klik za kopiranje; levi klik za lepljenje. Za imenovanje mreže dodaj u ostavu unos koji sadrži samo #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Mreža %s  •  Istaknuti blokovi: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Istaknuti blokovi: %s",
+  "create_better_networking.frequency.empty": "Nema sačuvane frekvencije. Za kopiranje koristi Shift + levi klik na povezanom bloku.",
+  "create_better_networking.frequency.inactive": "Ta ploča fabričkog pokazivača nije aktivna",
+  "create_better_networking.frequency.protected": "Nemaš dozvolu za promenu te mreže",
+  "create_better_networking.frequency.same": "Taj blok već koristi ovu frekvenciju",
+  "create_better_networking.frequency.cleared": "Mreža ostave je obrisana"
+}

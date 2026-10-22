@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – პარამეტრები",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – პარამეტრები",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – პარამეტრები",
+  "create_better_networking.configuration.showNetworkIdInHud": "ქსელის ID-ის ჩვენება HUD-ში",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "ქსელის ID-ის ჩვენება დაფის მონიშვნის HUD-ში, როცა ქსელს სახელი არ აქვს",
+  "create_better_networking.frequency.copied": "ქსელი %s დაკოპირდა დაფაზე",
+  "create_better_networking.frequency.pasted": "ქსელი %s გამოყენებულია",
+  "create_better_networking.frequency.saved": "ქსელი: %s",
+  "create_better_networking.frequency.controls": "Shift + მარცხენა დაწკაპუნება კოპირებისთვის; მარცხენა დაწკაპუნება ჩასასმელად. ქსელის დასასახელებლად დაამატეთ დაფაზე ჩანაწერი, რომელიც შეიცავს მხოლოდ #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "ქსელი %s  •  მონიშნულია %s ბლოკი",
+  "create_better_networking.frequency.highlight_status_hidden": "მონიშნულია %s ბლოკი",
+  "create_better_networking.frequency.empty": "სიხშირე შენახული არ არის. დასაკოპირებლად გამოიყენეთ Shift + მარცხენა დაწკაპუნება დაკავშირებულ ბლოკზე.",
+  "create_better_networking.frequency.inactive": "ქარხნის საზომის ეს პანელი არააქტიურია",
+  "create_better_networking.frequency.protected": "ამ ქსელის შეცვლის უფლება არ გაქვთ",
+  "create_better_networking.frequency.same": "ეს ბლოკი უკვე იყენებს ამ სიხშირეს",
+  "create_better_networking.frequency.cleared": "დაფის ქსელი გასუფთავებულია"
+}

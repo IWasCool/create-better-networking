@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "إعدادات Create: Better Networking",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "إعدادات Create: Better Networking",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "إعدادات Create: Better Networking",
+  "create_better_networking.configuration.showNetworkIdInHud": "إظهار معرّف الشبكة في الواجهة",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "إظهار معرّف الشبكة في واجهة تمييز الحافظة عندما لا يكون للشبكة اسم",
+  "create_better_networking.frequency.copied": "نُسخت الشبكة %s إلى الحافظة",
+  "create_better_networking.frequency.pasted": "طُبّقت الشبكة %s",
+  "create_better_networking.frequency.saved": "الشبكة: %s",
+  "create_better_networking.frequency.controls": "Shift + النقر الأيسر للنسخ؛ النقر الأيسر للصق. لتسمية شبكة، أضف إلى الحافظة إدخالًا يحتوي فقط على #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "الشبكة %s  •  عدد الكتل المميّزة: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "عدد الكتل المميّزة: %s",
+  "create_better_networking.frequency.empty": "لا يوجد تردد محفوظ. استخدم Shift + النقر الأيسر على كتلة متصلة لنسخ ترددها.",
+  "create_better_networking.frequency.inactive": "لوحة مقياس المصنع هذه غير نشطة",
+  "create_better_networking.frequency.protected": "ليس لديك إذن لتغيير هذه الشبكة",
+  "create_better_networking.frequency.same": "تستخدم هذه الكتلة هذا التردد بالفعل",
+  "create_better_networking.frequency.cleared": "مُسحت شبكة الحافظة"
+}

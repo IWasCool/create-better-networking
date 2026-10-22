@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Nustatymai",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Nustatymai",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Nustatymai",
+  "create_better_networking.configuration.showNetworkIdInHud": "Rodyti tinklo ID HUD sąsajoje",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Rodyti tinklo ID iškarpinės paryškinimo rodinyje, kai tinklas neturi pavadinimo",
+  "create_better_networking.frequency.copied": "Tinklas %s nukopijuotas į iškarpinę",
+  "create_better_networking.frequency.pasted": "Tinklas %s pritaikytas",
+  "create_better_networking.frequency.saved": "Tinklas: %s",
+  "create_better_networking.frequency.controls": "Shift + kairysis spustelėjimas kopijuoja; kairysis spustelėjimas įklijuoja. Norėdami pavadinti tinklą, į iškarpinę pridėkite įrašą, kuriame būtų tik #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Tinklas %s  •  paryškinta blokų: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Paryškinta blokų: %s",
+  "create_better_networking.frequency.empty": "Nėra išsaugoto dažnio. Norėdami nukopijuoti, spustelėkite prijungtą bloką laikydami Shift.",
+  "create_better_networking.frequency.inactive": "Šis gamyklos matuoklio skydelis neaktyvus",
+  "create_better_networking.frequency.protected": "Neturite leidimo keisti šio tinklo",
+  "create_better_networking.frequency.same": "Šis blokas jau naudoja šį dažnį",
+  "create_better_networking.frequency.cleared": "Iškarpinės tinklas išvalytas"
+}

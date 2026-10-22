@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – SETTINGZ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – SETTINGZ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – SETTINGZ",
+  "create_better_networking.configuration.showNetworkIdInHud": "SHOW NETWORK ID IN HUD PLZ",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "SHOW NETWORK ID IN CLIPBORD GLOWY HUD WEN NETWORK HAZ NO NAME",
+  "create_better_networking.frequency.copied": "COPIED NETWORK %s TO CLIPBORD, YAY",
+  "create_better_networking.frequency.pasted": "NETWORK %s IZ NOW ON",
+  "create_better_networking.frequency.saved": "NETWORK: %s",
+  "create_better_networking.frequency.controls": "SHIFT-LEFT-CLICK TO COPY; LEFT-CLICK TO PASTE. TO GIV NETWORK A NAME, PUT ONLY #network: Link Series IN A CLIPBORD LINE.",
+  "create_better_networking.frequency.highlight_status": "NETWORK %s  •  %s BLOKZ R GLOWY",
+  "create_better_networking.frequency.highlight_status_hidden": "%s BLOKZ R GLOWY",
+  "create_better_networking.frequency.empty": "NO FREKWENCY SAVED. SHIFT-LEFT-CLICK A LINKED BLOK TO GET ONE.",
+  "create_better_networking.frequency.inactive": "DAT FACTORY GAUGE PANEL IZ SLEEPIN",
+  "create_better_networking.frequency.protected": "U CANT CHANGE DAT NETWORK",
+  "create_better_networking.frequency.same": "DAT BLOK ALREADY HAZ DIS FREKWENCY",
+  "create_better_networking.frequency.cleared": "CLIPBORD NETWORK WENT BYEBYE"
+}

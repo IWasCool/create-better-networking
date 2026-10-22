@@ -1,0 +1,13 @@
+import groovy.json.JsonSlurper
+
+// Resolve the exact Create release used for development without committing a third-party JAR.
+def compileMods = new JsonSlurper().parse(file('gradle/mod-dependencies.json'))
+
+dependencies {
+    compileMods.each { mod ->
+        compileOnly(mod.maven) { transitive = false }
+    }
+    compileOnly 'org.spongepowered:mixin:0.8.5'
+    annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
+    compileOnly "net.createmod.ponder:ponder-neoforge:${ponder_version}+mc${minecraft_version}"
+}

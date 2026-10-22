@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – T’ujeletik",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – T’ujeletik",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – T’ujeletik",
+  "create_better_networking.configuration.showNetworkIdInHud": "Tsak’ ta ilel ID red ta HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Tsak’ ta ilel ID red ta vun k’alal mu’yuk sbi li rede",
+  "create_better_networking.frequency.copied": "La slok’ta red %s ta vun",
+  "create_better_networking.frequency.pasted": "La st’un red %s",
+  "create_better_networking.frequency.saved": "Red: %s",
+  "create_better_networking.frequency.controls": "Shift + ts’et voton sventa xalok’ta; ts’et voton sventa xats’ak. Sventa sbiel li rede, ts’ibo ta vun ja’ no’ox #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Red %s  •  %s kuboetik ta ilel",
+  "create_better_networking.frequency.highlight_status_hidden": "%s kuboetik ta ilel",
+  "create_better_networking.frequency.empty": "Mu’yuk frecuencia k’ejbil. Shift + ts’et voton ta kubo tsobol sventa xalok’ta.",
+  "create_better_networking.frequency.inactive": "Mu ta x-a’tej li panel sventa fábricae",
+  "create_better_networking.frequency.protected": "Mu xu’ xajel li rede",
+  "create_better_networking.frequency.same": "Li kubo li’e ta sk’an li frecuencia li’e xa",
+  "create_better_networking.frequency.cleared": "La stup’ red ta vun"
+}

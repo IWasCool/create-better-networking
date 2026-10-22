@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configurações",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configurações",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configurações",
+  "create_better_networking.configuration.showNetworkIdInHud": "Mostrar o ID da rede no HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Mostrar o ID da rede no indicador de destaque da prancheta quando a rede não tiver nome",
+  "create_better_networking.frequency.copied": "Rede %s copiada para a prancheta",
+  "create_better_networking.frequency.pasted": "Rede %s aplicada",
+  "create_better_networking.frequency.saved": "Rede: %s",
+  "create_better_networking.frequency.controls": "Shift + clique esquerdo para copiar; clique esquerdo para colar. Para nomear uma rede, adicione à prancheta uma entrada contendo apenas #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rede %s  •  %s blocos destacados",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocos destacados",
+  "create_better_networking.frequency.empty": "Nenhuma frequência salva. Use Shift + clique esquerdo em um bloco conectado para copiar uma.",
+  "create_better_networking.frequency.inactive": "Esse painel do indicador de fábrica está inativo",
+  "create_better_networking.frequency.protected": "Você não tem permissão para alterar essa rede",
+  "create_better_networking.frequency.same": "Esse bloco já usa esta frequência",
+  "create_better_networking.frequency.cleared": "Rede da prancheta apagada"
+}

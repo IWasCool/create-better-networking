@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking の設定",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking の設定",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking の設定",
+  "create_better_networking.configuration.showNetworkIdInHud": "HUDにネットワークIDを表示",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "ネットワークに名前がない場合、クリップボードの強調表示HUDにネットワークIDを表示します",
+  "create_better_networking.frequency.copied": "ネットワーク %s をクリップボードにコピーしました",
+  "create_better_networking.frequency.pasted": "ネットワーク %s を適用しました",
+  "create_better_networking.frequency.saved": "ネットワーク：%s",
+  "create_better_networking.frequency.controls": "Shift＋左クリックでコピー、左クリックで貼り付けます。ネットワークに名前を付けるには、#network: Link Series だけを含む項目をクリップボードに追加してください。",
+  "create_better_networking.frequency.highlight_status": "ネットワーク %s  •  %s 個のブロックを強調表示",
+  "create_better_networking.frequency.highlight_status_hidden": "%s 個のブロックを強調表示",
+  "create_better_networking.frequency.empty": "周波数が保存されていません。接続済みのブロックをShift＋左クリックするとコピーできます。",
+  "create_better_networking.frequency.inactive": "この工場ゲージのパネルは無効です",
+  "create_better_networking.frequency.protected": "このネットワークを変更する権限がありません",
+  "create_better_networking.frequency.same": "このブロックはすでにこの周波数を使用しています",
+  "create_better_networking.frequency.cleared": "クリップボードのネットワークを消去しました"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Optiones",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Optiones",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Optiones",
+  "create_better_networking.configuration.showNetworkIdInHud": "Signum retis in HUD ostendere",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Signum retis in conspectu tabulae ostendere, si rete nomen non habet",
+  "create_better_networking.frequency.copied": "Rete %s in tabulam descriptum est",
+  "create_better_networking.frequency.pasted": "Rete %s adhibitum est",
+  "create_better_networking.frequency.saved": "Rete: %s",
+  "create_better_networking.frequency.controls": "Shift et ictus sinister ad describendum; ictus sinister ad inserendum. Ad rete nominandum, adde in tabula inscriptionem quae tantum #network: Link Series continet.",
+  "create_better_networking.frequency.highlight_status": "Rete %s  •  %s cubi illustrati",
+  "create_better_networking.frequency.highlight_status_hidden": "%s cubi illustrati",
+  "create_better_networking.frequency.empty": "Nulla frequentia servata est. Shift et ictu sinistro in cubum conexum frequentiam describe.",
+  "create_better_networking.frequency.inactive": "Haec tabula mensoria officinae non agit",
+  "create_better_networking.frequency.protected": "Tibi hoc rete mutare non licet",
+  "create_better_networking.frequency.same": "Hic cubus iam hac frequentia utitur",
+  "create_better_networking.frequency.cleared": "Rete tabulae deletum est"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Cài đặt",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Cài đặt",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Cài đặt",
+  "create_better_networking.configuration.showNetworkIdInHud": "Hiện ID mạng trên HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Hiện ID mạng trong phần hiển thị tô sáng của bảng ghi khi mạng không có tên",
+  "create_better_networking.frequency.copied": "Đã sao chép mạng %s vào bảng ghi",
+  "create_better_networking.frequency.pasted": "Đã áp dụng mạng %s",
+  "create_better_networking.frequency.saved": "Mạng: %s",
+  "create_better_networking.frequency.controls": "Shift + nhấp chuột trái để sao chép; nhấp chuột trái để dán. Để đặt tên mạng, thêm một mục vào bảng ghi chỉ chứa #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Mạng %s  •  Đã tô sáng %s khối",
+  "create_better_networking.frequency.highlight_status_hidden": "Đã tô sáng %s khối",
+  "create_better_networking.frequency.empty": "Chưa lưu tần số nào. Dùng Shift + nhấp chuột trái vào khối đã kết nối để sao chép.",
+  "create_better_networking.frequency.inactive": "Bảng đồng hồ nhà máy này chưa hoạt động",
+  "create_better_networking.frequency.protected": "Bạn không có quyền thay đổi mạng này",
+  "create_better_networking.frequency.same": "Khối này đã sử dụng tần số này",
+  "create_better_networking.frequency.cleared": "Đã xóa mạng trên bảng ghi"
+}

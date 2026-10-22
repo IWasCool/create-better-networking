@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Socruithe",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Socruithe",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Socruithe",
+  "create_better_networking.configuration.showNetworkIdInHud": "Taispeáin aitheantas an líonra sa HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Taispeáin aitheantas an líonra i radharc aibhsithe an ghearrthaisce nuair nach bhfuil ainm ar an líonra",
+  "create_better_networking.frequency.copied": "Cóipeáladh líonra %s chuig an ngearrthaisce",
+  "create_better_networking.frequency.pasted": "Cuireadh líonra %s i bhfeidhm",
+  "create_better_networking.frequency.saved": "Líonra: %s",
+  "create_better_networking.frequency.controls": "Shift + cliceáil ar chlé chun cóipeáil; cliceáil ar chlé chun greamú. Chun líonra a ainmniú, cuir iontráil sa ghearrthaisce nach bhfuil inti ach #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Líonra %s  •  %s bloc aibhsithe",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloc aibhsithe",
+  "create_better_networking.frequency.empty": "Níl minicíocht sábháilte. Úsáid Shift + cliceáil ar chlé ar bhloc nasctha chun ceann a chóipeáil.",
+  "create_better_networking.frequency.inactive": "Tá an painéal tomhsaire monarchan sin neamhghníomhach",
+  "create_better_networking.frequency.protected": "Níl cead agat an líonra sin a athrú",
+  "create_better_networking.frequency.same": "Tá an bhloc sin ag úsáid na minicíochta seo cheana",
+  "create_better_networking.frequency.cleared": "Glanadh líonra an ghearrthaisce"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Pengaturan",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Pengaturan",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Pengaturan",
+  "create_better_networking.configuration.showNetworkIdInHud": "Tampilkan ID jaringan di HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Tampilkan ID jaringan di tampilan sorotan papan klip saat jaringan tidak memiliki nama",
+  "create_better_networking.frequency.copied": "Jaringan %s disalin ke papan klip",
+  "create_better_networking.frequency.pasted": "Jaringan %s diterapkan",
+  "create_better_networking.frequency.saved": "Jaringan: %s",
+  "create_better_networking.frequency.controls": "Shift + klik kiri untuk menyalin; klik kiri untuk menempel. Untuk menamai jaringan, tambahkan entri papan klip yang hanya berisi #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Jaringan %s  •  %s blok disorot",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blok disorot",
+  "create_better_networking.frequency.empty": "Tidak ada frekuensi tersimpan. Gunakan Shift + klik kiri pada blok terhubung untuk menyalinnya.",
+  "create_better_networking.frequency.inactive": "Panel pengukur pabrik itu tidak aktif",
+  "create_better_networking.frequency.protected": "Anda tidak memiliki izin untuk mengubah jaringan itu",
+  "create_better_networking.frequency.same": "Blok itu sudah menggunakan frekuensi ini",
+  "create_better_networking.frequency.cleared": "Jaringan papan klip dihapus"
+}

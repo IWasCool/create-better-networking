@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Налады",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Налады",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Налады",
+  "create_better_networking.configuration.showNetworkIdInHud": "Паказваць ID сеткі ў інтэрфейсе",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Паказваць ID сеткі ў інтэрфейсе падсвятлення планшэта, калі сетка не мае назвы",
+  "create_better_networking.frequency.copied": "Сетка %s скапіявана ў планшэт",
+  "create_better_networking.frequency.pasted": "Ужыта сетка %s",
+  "create_better_networking.frequency.saved": "Сетка: %s",
+  "create_better_networking.frequency.controls": "Shift + левая кнопка мышы — капіяваць; левая кнопка — уставіць. Каб назваць сетку, дадайце ў планшэт запіс толькі з #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Сетка %s  •  Падсвечана блокаў: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Падсвечана блокаў: %s",
+  "create_better_networking.frequency.empty": "Частата не захавана. Націсніце Shift і левую кнопку мышы на падлучаным блоку, каб скапіяваць яе.",
+  "create_better_networking.frequency.inactive": "Гэтая панэль завадскога індыкатара неактыўная",
+  "create_better_networking.frequency.protected": "Вы не маеце дазволу змяняць гэтую сетку",
+  "create_better_networking.frequency.same": "Гэты блок ужо выкарыстоўвае гэтую частату",
+  "create_better_networking.frequency.cleared": "Сетка ў планшэце ачышчана"
+}

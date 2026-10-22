@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – nasin",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – nasin",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – nasin",
+  "create_better_networking.configuration.showNetworkIdInHud": "o pana e nimi lili pi kulupu ilo lon sitelen",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "kulupu ilo li jo ala e nimi la o pana e nimi lili ona lon sitelen pi lipu poki",
+  "create_better_networking.frequency.copied": "kulupu ilo %s li lon lipu poki",
+  "create_better_networking.frequency.pasted": "kulupu ilo %s li kama kepeken",
+  "create_better_networking.frequency.saved": "kulupu ilo: %s",
+  "create_better_networking.frequency.controls": "o luka e nena Shift e nena soto tawa kama jo. o luka e nena soto tawa pana. sina wile nimi e kulupu ilo la o pana e sitelen #network: Link Series taso lon lipu poki.",
+  "create_better_networking.frequency.highlight_status": "kulupu ilo %s  •  kiwen %s li suno",
+  "create_better_networking.frequency.highlight_status_hidden": "kiwen %s li suno",
+  "create_better_networking.frequency.empty": "lipu poki li jo ala e nasin wan. o luka e nena Shift e nena soto lon kiwen pi kulupu ilo tawa kama jo.",
+  "create_better_networking.frequency.inactive": "ilo sona pi tomo pali ni li pali ala",
+  "create_better_networking.frequency.protected": "sina ken ala ante e kulupu ilo ni",
+  "create_better_networking.frequency.same": "kiwen ni li kepeken nasin wan ni lon tenpo pini",
+  "create_better_networking.frequency.cleared": "kulupu ilo li weka tan lipu poki"
+}

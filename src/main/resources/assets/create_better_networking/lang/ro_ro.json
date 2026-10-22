@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configurare",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configurare",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configurare",
+  "create_better_networking.configuration.showNetworkIdInHud": "Arată ID-ul rețelei în HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Arată ID-ul rețelei în afișajul de evidențiere al clipboardului când rețeaua nu are nume",
+  "create_better_networking.frequency.copied": "Rețeaua %s a fost copiată în clipboard",
+  "create_better_networking.frequency.pasted": "Rețeaua %s a fost aplicată",
+  "create_better_networking.frequency.saved": "Rețea: %s",
+  "create_better_networking.frequency.controls": "Shift + clic stânga pentru copiere; clic stânga pentru lipire. Pentru a numi o rețea, adaugă în clipboard o intrare care conține doar #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rețea %s  •  %s blocuri evidențiate",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocuri evidențiate",
+  "create_better_networking.frequency.empty": "Nicio frecvență salvată. Folosește Shift + clic stânga pe un bloc conectat pentru a copia una.",
+  "create_better_networking.frequency.inactive": "Acel panou al indicatorului de fabrică este inactiv",
+  "create_better_networking.frequency.protected": "Nu ai permisiunea de a modifica acea rețea",
+  "create_better_networking.frequency.same": "Acel bloc folosește deja această frecvență",
+  "create_better_networking.frequency.cleared": "Rețeaua din clipboard a fost ștearsă"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Тохиргоо",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Тохиргоо",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Тохиргоо",
+  "create_better_networking.configuration.showNetworkIdInHud": "Сүлжээний ID-г HUD-д харуулах",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Сүлжээ нэргүй бол түр санах ойн тодруулгын HUD-д сүлжээний ID-г харуулах",
+  "create_better_networking.frequency.copied": "%s сүлжээг түр санах ойд хууллаа",
+  "create_better_networking.frequency.pasted": "%s сүлжээг хэрэглэв",
+  "create_better_networking.frequency.saved": "Сүлжээ: %s",
+  "create_better_networking.frequency.controls": "Хуулахдаа Shift + зүүн товч; буулгахдаа зүүн товч дарна. Сүлжээнд нэр өгөхийн тулд түр санах ойд зөвхөн #network: Link Series агуулсан бичлэг нэмнэ үү.",
+  "create_better_networking.frequency.highlight_status": "Сүлжээ %s  •  %s блок тодруулав",
+  "create_better_networking.frequency.highlight_status_hidden": "%s блок тодруулав",
+  "create_better_networking.frequency.empty": "Хадгалсан давтамж алга. Холбогдсон блок дээр Shift + зүүн товч дарж хуулна уу.",
+  "create_better_networking.frequency.inactive": "Энэ үйлдвэрийн хэмжүүрийн самбар идэвхгүй байна",
+  "create_better_networking.frequency.protected": "Та энэ сүлжээг өөрчлөх эрхгүй",
+  "create_better_networking.frequency.same": "Энэ блок энэ давтамжийг аль хэдийн ашиглаж байна",
+  "create_better_networking.frequency.cleared": "Түр санах ойн сүлжээг арилгалаа"
+}

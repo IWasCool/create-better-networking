@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Settings",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Settings",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Settings",
+  "create_better_networking.configuration.showNetworkIdInHud": "Uri l-ID tan-netwerk fil-HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Uri l-ID tan-netwerk fil-wiri tal-enfasi tal-clipboard meta n-netwerk ma jkollux isem",
+  "create_better_networking.frequency.copied": "In-netwerk %s ġie kkupjat fil-clipboard",
+  "create_better_networking.frequency.pasted": "In-netwerk %s ġie applikat",
+  "create_better_networking.frequency.saved": "Netwerk: %s",
+  "create_better_networking.frequency.controls": "Shift + klikk tax-xellug biex tikkopja; klikk tax-xellug biex tippejstja. Biex issemmi netwerk, żid entrata fil-clipboard li fiha biss #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Netwerk %s  •  %s blokki enfasizzati",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokki enfasizzati",
+  "create_better_networking.frequency.empty": "Ebda frekwenza salvata. Uża Shift + klikk tax-xellug fuq blokka konnessa biex tikkopja waħda.",
+  "create_better_networking.frequency.inactive": "Dak il-pannell tal-kejl tal-fabbrika mhuwiex attiv",
+  "create_better_networking.frequency.protected": "M’għandekx permess tibdel dak in-netwerk",
+  "create_better_networking.frequency.same": "Dik il-blokka diġà tuża din il-frekwenza",
+  "create_better_networking.frequency.cleared": "In-netwerk tal-clipboard tħassar"
+}

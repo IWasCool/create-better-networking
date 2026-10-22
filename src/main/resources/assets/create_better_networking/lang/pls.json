@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Juadinchieꞌe",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Juadinchieꞌe",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Juadinchieꞌe",
+  "create_better_networking.configuration.showNetworkIdInHud": "Tsjaagu ID red ngaìn HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Tsjaagu ID red ngaìn tabla ixin red chúndaꞌa kexreen",
+  "create_better_networking.frequency.copied": "Red %s sinchengaxin ngaìn tabla",
+  "create_better_networking.frequency.pasted": "Red %s nchaú",
+  "create_better_networking.frequency.saved": "Red: %s",
+  "create_better_networking.frequency.controls": "Shift + boton kjun íxin sinchengaxin; boton kjun íxin sinchendo. Ngaìn tabla sinchetse enlaase íxin kexreen red: #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Red %s  •  %s kuubo tsjaagu",
+  "create_better_networking.frequency.highlight_status_hidden": "%s kuubo tsjaagu",
+  "create_better_networking.frequency.empty": "Chúndaꞌa frecuencia juathenchjiꞌan. Shift + boton kjun ngaìn kuubo íxin sinchengaxin.",
+  "create_better_networking.frequency.inactive": "Paneel fábrica tsjaꞌa",
+  "create_better_networking.frequency.protected": "Sinchekjamanga red chruꞌa",
+  "create_better_networking.frequency.same": "Kuubo tèꞌè chúnda frecuencia tèꞌè",
+  "create_better_networking.frequency.cleared": "Red ngaìn tabla rùxranthe"
+}

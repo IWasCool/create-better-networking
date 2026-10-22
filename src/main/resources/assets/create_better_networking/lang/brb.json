@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Instellinge",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Instellinge",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Instellinge",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netwerk-ID in den HUD tone",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Toon den netwerk-ID in de markering van ’t klembord as ’t netwerk ginnen naam hee",
+  "create_better_networking.frequency.copied": "Netwerk %s naor ’t klembord gekopieerd",
+  "create_better_networking.frequency.pasted": "Netwerk %s toegepast",
+  "create_better_networking.frequency.saved": "Netwerk: %s",
+  "create_better_networking.frequency.controls": "Shift-linksklik om te kopiëre; linksklik om te plakke. Geef ’t netwerk nen naam deur ’n klembordregel toe te voege mee alleen #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Netwerk %s  •  %s blokke gemarkeerd",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokke gemarkeerd",
+  "create_better_networking.frequency.empty": "Gin frequentie opgeslage. Shift-linksklik op ’n verbonnen blok om d’r een te kopiëre.",
+  "create_better_networking.frequency.inactive": "Da fabrieksmeterpaneel is nie actief",
+  "create_better_networking.frequency.protected": "Ge hebt gin toestemming om da netwerk te verandere",
+  "create_better_networking.frequency.same": "Da blok gebruukt dees frequentie al",
+  "create_better_networking.frequency.cleared": "Netwerk op ’t klembord gewist"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Instellen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Instellen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Instellen",
+  "create_better_networking.configuration.showNetworkIdInHud": "Nettwark-ID in’t HUD wiesen",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "De Nettwark-ID in de Markeersicht vun’t Klemmboord wiesen, wenn dat Nettwark keen Naam hett",
+  "create_better_networking.frequency.copied": "Nettwark %s op’t Klemmboord kopeert",
+  "create_better_networking.frequency.pasted": "Nettwark %s övernahmen",
+  "create_better_networking.frequency.saved": "Nettwark: %s",
+  "create_better_networking.frequency.controls": "Umschalt-Linksklick för’t Koperen; Linksklick för’t Infögen. För en Nettwarknaam en Indrag op’t Klemmboord mit blot #network: Link Series tofögen.",
+  "create_better_networking.frequency.highlight_status": "Nettwark %s  •  %s Blöck markeert",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Blöck markeert",
+  "create_better_networking.frequency.empty": "Keen Frequenz spiekert. Mit Umschalt-Linksklick op en verbunnen Block een koperen.",
+  "create_better_networking.frequency.inactive": "Dat Fabrik-Anwiesfeld is nich aktiv",
+  "create_better_networking.frequency.protected": "Du hest keen Verlööf, dat Nettwark to ännern",
+  "create_better_networking.frequency.same": "De Block bruukt disse Frequenz al",
+  "create_better_networking.frequency.cleared": "Nettwark op’t Klemmboord löscht"
+}

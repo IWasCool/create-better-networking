@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "sƃᴉɟuoƆ ƃuᴉʞɹoʍʇǝN ɹǝʇʇǝ𐐒 :ǝʇɐǝɹƆ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "sƃᴉɟuoƆ ƃuᴉʞɹoʍʇǝN ɹǝʇʇǝ𐐒 :ǝʇɐǝɹƆ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "sƃᴉɟuoƆ ƃuᴉʞɹoʍʇǝN ɹǝʇʇǝ𐐒 :ǝʇɐǝɹƆ",
+  "create_better_networking.configuration.showNetworkIdInHud": "ᗡ∩H uᴉ ᗡI ʞɹoʍʇǝN ʍoɥS",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "ǝɯɐu ou sɐɥ ʞɹoʍʇǝu ǝɥʇ uǝɥʍ ᗡ∩H ʇɥƃᴉlɥƃᴉɥ pɹɐoqdᴉlɔ ǝɥʇ uᴉ ᗡI ʞɹoʍʇǝu ǝɥʇ ʍoɥS",
+  "create_better_networking.frequency.copied": "pɹɐoqdᴉlɔ oʇ %1$s ʞɹoʍʇǝu pǝᴉdoƆ",
+  "create_better_networking.frequency.pasted": "%1$s ʞɹoʍʇǝu pǝᴉldd∀",
+  "create_better_networking.frequency.saved": "%1$s :ʞɹoʍʇǝN",
+  "create_better_networking.frequency.controls": ".#network: Link Series ʎluo ƃuᴉuᴉɐʇuoɔ ʎɹʇuǝ pɹɐoqdᴉlɔ ɐ ppɐ ,ʞɹoʍʇǝu ɐ ǝɯɐu o⊥ .ǝʇsɐd oʇ ʞɔᴉlɔ-ʇɟǝl ;ʎdoɔ oʇ ʞɔᴉlɔ-ʇɟǝl-ʇɟᴉɥS",
+  "create_better_networking.frequency.highlight_status": "pǝʇɥƃᴉlɥƃᴉɥ sʞɔolq %2$s  •  %1$s ʞɹoʍʇǝN",
+  "create_better_networking.frequency.highlight_status_hidden": "pǝʇɥƃᴉlɥƃᴉɥ sʞɔolq %1$s",
+  "create_better_networking.frequency.empty": ".ǝuo ʎdoɔ oʇ ʞɔolq pǝʞuᴉl ɐ ʞɔᴉlɔ-ʇɟǝl-ʇɟᴉɥS .pǝʌɐs ʎɔuǝnbǝɹɟ oN",
+  "create_better_networking.frequency.inactive": "ǝʌᴉʇɔɐuᴉ sᴉ lǝuɐd ǝƃnɐƃ ʎɹoʇɔɐɟ ʇɐɥ⊥",
+  "create_better_networking.frequency.protected": "ʞɹoʍʇǝu ʇɐɥʇ ǝƃuɐɥɔ oʇ uoᴉssᴉɯɹǝd ǝʌɐɥ ʇou op no⅄",
+  "create_better_networking.frequency.same": "ʎɔuǝnbǝɹɟ sᴉɥʇ sǝsn ʎpɐǝɹlɐ ʞɔolq ʇɐɥ⊥",
+  "create_better_networking.frequency.cleared": "pǝɹɐǝlɔ ʞɹoʍʇǝu pɹɐoqdᴉlƆ"
+}

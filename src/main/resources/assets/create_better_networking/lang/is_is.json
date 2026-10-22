@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Stillingar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Stillingar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Stillingar",
+  "create_better_networking.configuration.showNetworkIdInHud": "Sýna auðkenni nets í HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Sýna auðkenni nets í auðkenningarsýn klemmuspjaldsins þegar netið er nafnlaust",
+  "create_better_networking.frequency.copied": "Net %s afritað á klemmuspjald",
+  "create_better_networking.frequency.pasted": "Net %s tekið í notkun",
+  "create_better_networking.frequency.saved": "Net: %s",
+  "create_better_networking.frequency.controls": "Shift-vinstrismelltu til að afrita; vinstrismelltu til að líma. Gefðu neti nafn með færslu á klemmuspjaldinu sem inniheldur aðeins #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Net %s  •  %s kubbar auðkenndir",
+  "create_better_networking.frequency.highlight_status_hidden": "%s kubbar auðkenndir",
+  "create_better_networking.frequency.empty": "Engin tíðni vistuð. Shift-vinstrismelltu á tengdan kubb til að afrita tíðni.",
+  "create_better_networking.frequency.inactive": "Þetta verksmiðjumælaborð er óvirkt",
+  "create_better_networking.frequency.protected": "Þú hefur ekki heimild til að breyta þessu neti",
+  "create_better_networking.frequency.same": "Þessi kubbur notar nú þegar þessa tíðni",
+  "create_better_networking.frequency.cleared": "Net klemmuspjaldsins hreinsað"
+}

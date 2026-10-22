@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Captain’s Orders",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Captain’s Orders",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Captain’s Orders",
+  "create_better_networking.configuration.showNetworkIdInHud": "Show the network’s mark on the lookout",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Show the network’s mark on the clipboard lookout when the network sails without a name",
+  "create_better_networking.frequency.copied": "Copied network %s to yer clipboard",
+  "create_better_networking.frequency.pasted": "Set sail with network %s",
+  "create_better_networking.frequency.saved": "Fleet: %s",
+  "create_better_networking.frequency.controls": "Shift-left-click to copy; left-click to paste, matey. To christen a network, add a clipboard entry containin’ only #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Fleet %s  •  %s blocks spotted",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocks spotted",
+  "create_better_networking.frequency.empty": "No frequency stowed. Shift-left-click a linked block to plunder one.",
+  "create_better_networking.frequency.inactive": "That factory gauge panel be asleep",
+  "create_better_networking.frequency.protected": "Ye have no leave to change that network",
+  "create_better_networking.frequency.same": "That block already sails on this frequency",
+  "create_better_networking.frequency.cleared": "Clipboard network sent to Davy Jones"
+}

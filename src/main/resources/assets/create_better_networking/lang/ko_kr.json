@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking 설정",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking 설정",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking 설정",
+  "create_better_networking.configuration.showNetworkIdInHud": "HUD에 네트워크 ID 표시",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "네트워크 이름이 없을 때 클립보드 강조 표시 HUD에 네트워크 ID를 표시합니다",
+  "create_better_networking.frequency.copied": "네트워크 %s을(를) 클립보드에 복사했습니다",
+  "create_better_networking.frequency.pasted": "네트워크 %s을(를) 적용했습니다",
+  "create_better_networking.frequency.saved": "네트워크: %s",
+  "create_better_networking.frequency.controls": "Shift + 좌클릭으로 복사하고 좌클릭으로 붙여넣습니다. 네트워크 이름을 지정하려면 #network: Link Series만 포함된 항목을 클립보드에 추가하세요.",
+  "create_better_networking.frequency.highlight_status": "네트워크 %s  •  블록 %s개 강조 표시",
+  "create_better_networking.frequency.highlight_status_hidden": "블록 %s개 강조 표시",
+  "create_better_networking.frequency.empty": "저장된 주파수가 없습니다. 연결된 블록을 Shift + 좌클릭하여 복사하세요.",
+  "create_better_networking.frequency.inactive": "이 공장 계기판은 비활성 상태입니다",
+  "create_better_networking.frequency.protected": "이 네트워크를 변경할 권한이 없습니다",
+  "create_better_networking.frequency.same": "이 블록은 이미 이 주파수를 사용하고 있습니다",
+  "create_better_networking.frequency.cleared": "클립보드의 네트워크를 지웠습니다"
+}

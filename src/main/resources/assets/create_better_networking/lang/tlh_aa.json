@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – DuHmey",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – DuHmey",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – DuHmey",
+  "create_better_networking.configuration.showNetworkIdInHud": "HUD-Daq pat Degh yIcha’",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "pong Hutlhchugh pat, ghItlh nav HaStaDaq pat Degh yIcha’",
+  "create_better_networking.frequency.copied": "ghItlh navDaq pat %s velqa’ chenmoHlu’",
+  "create_better_networking.frequency.pasted": "pat %s lo’lu’",
+  "create_better_networking.frequency.saved": "pat: %s",
+  "create_better_networking.frequency.controls": "velqa’ DachenmoHmeH Shift poS leQ je yI’uy; DalanmeH poS leQ yI’uy. pat DapongmeH ghItlh navDaq #network: Link Series neH yIghItlh.",
+  "create_better_networking.frequency.highlight_status": "pat %s  •  %s buqmey wov",
+  "create_better_networking.frequency.highlight_status_hidden": "%s buqmey wov",
+  "create_better_networking.frequency.empty": "Se’ polbe’lu’. velqa’ DachenmoHmeH rarbogh buqDaq Shift poS leQ je yI’uy.",
+  "create_better_networking.frequency.inactive": "laSvargh juvmeH jan HaSta chu’be’lu’",
+  "create_better_networking.frequency.protected": "patvetlh Dachaw’be’lu’ DaneHbe’mo’ bIchoHlaHbe’",
+  "create_better_networking.frequency.same": "Se’vam lo’taH buqvam",
+  "create_better_networking.frequency.cleared": "ghItlh nav pat teqlu’"
+}

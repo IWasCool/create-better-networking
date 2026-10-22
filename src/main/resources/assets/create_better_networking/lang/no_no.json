@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Innstillinger",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Innstillinger",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Innstillinger",
+  "create_better_networking.configuration.showNetworkIdInHud": "Vis nettverks-ID i HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Vis nettverks-ID i utklippstavlens markeringsvisning når nettverket ikke har et navn",
+  "create_better_networking.frequency.copied": "Nettverk %s kopiert til utklippstavlen",
+  "create_better_networking.frequency.pasted": "Nettverk %s tatt i bruk",
+  "create_better_networking.frequency.saved": "Nettverk: %s",
+  "create_better_networking.frequency.controls": "Skift-venstreklikk for å kopiere; venstreklikk for å lime inn. Gi et nettverk navn ved å legge til en utklippstavleoppføring med bare #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Nettverk %s  •  %s blokker markert",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokker markert",
+  "create_better_networking.frequency.empty": "Ingen frekvens lagret. Skift-venstreklikk på en tilkoblet blokk for å kopiere en.",
+  "create_better_networking.frequency.inactive": "Det fabrikkmålerpanelet er inaktivt",
+  "create_better_networking.frequency.protected": "Du har ikke tillatelse til å endre det nettverket",
+  "create_better_networking.frequency.same": "Den blokken bruker allerede denne frekvensen",
+  "create_better_networking.frequency.cleared": "Utklippstavlens nettverk tømt"
+}

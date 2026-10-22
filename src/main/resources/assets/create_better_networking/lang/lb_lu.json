@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Astellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Astellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Astellungen",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netzwierk-ID am HUD weisen",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "D’Netzwierk-ID an der Ervirhiewungsusiicht vum Clipboard weisen, wann d’Netzwierk keen Numm huet",
+  "create_better_networking.frequency.copied": "Netzwierk %s an de Clipboard kopéiert",
+  "create_better_networking.frequency.pasted": "Netzwierk %s ugewannt",
+  "create_better_networking.frequency.saved": "Netzwierk: %s",
+  "create_better_networking.frequency.controls": "Shift + Lénksklick fir ze kopéieren; Lénksklick fir anzefügen. Fir en Netzwierk ze benennen, füüg e Clipboard-Andrag mat nëmmen #network: Link Series derbäi.",
+  "create_better_networking.frequency.highlight_status": "Netzwierk %s  •  %s Bléck ervirgehuewen",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Bléck ervirgehuewen",
+  "create_better_networking.frequency.empty": "Keng Frequenz gespäichert. Shift + Lénksklick op e verbonne Block fir eng ze kopéieren.",
+  "create_better_networking.frequency.inactive": "Dee Fabrikmooss-Panel ass inaktiv",
+  "create_better_networking.frequency.protected": "Du hues keng Erlabnis fir dat Netzwierk z’änneren",
+  "create_better_networking.frequency.same": "Dee Block benotzt dës Frequenz schonn",
+  "create_better_networking.frequency.cleared": "Clipboard-Netzwierk geläscht"
+}

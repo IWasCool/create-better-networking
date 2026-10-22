@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Agordoj",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Agordoj",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Agordoj",
+  "create_better_networking.configuration.showNetworkIdInHud": "Montri retan identigilon en la HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Montri la retan identigilon en la emfaza ekrano de la tondujo kiam la reto ne havas nomon",
+  "create_better_networking.frequency.copied": "Reto %s kopiita al la tondujo",
+  "create_better_networking.frequency.pasted": "Reto %s aplikita",
+  "create_better_networking.frequency.saved": "Reto: %s",
+  "create_better_networking.frequency.controls": "Majuskl-klaku maldekstre por kopii; klaku maldekstre por alglui. Por nomi reton, aldonu tondujan eron enhavantan nur #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Reto %s  •  %s blokoj emfazitaj",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokoj emfazitaj",
+  "create_better_networking.frequency.empty": "Neniu frekvenco konservita. Majuskl-klaku maldekstre sur konektita bloko por kopii unu.",
+  "create_better_networking.frequency.inactive": "Tiu panelo de fabrika mezurilo estas neaktiva",
+  "create_better_networking.frequency.protected": "Vi ne rajtas ŝanĝi tiun reton",
+  "create_better_networking.frequency.same": "Tiu bloko jam uzas ĉi tiun frekvencon",
+  "create_better_networking.frequency.cleared": "Reto de la tondujo viŝita"
+}

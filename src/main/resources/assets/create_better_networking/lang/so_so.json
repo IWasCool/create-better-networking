@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Dejinta",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Dejinta",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Dejinta",
+  "create_better_networking.configuration.showNetworkIdInHud": "Ku muuji aqoonsiga shabakadda HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Ku muuji aqoonsiga shabakadda muuqaalka iftiiminta sabuuradda marka shabakadu aanay magac lahayn",
+  "create_better_networking.frequency.copied": "Shabakadda %s ayaa loo guuriyey sabuuradda",
+  "create_better_networking.frequency.pasted": "Shabakadda %s ayaa la adeegsaday",
+  "create_better_networking.frequency.saved": "Shabakad: %s",
+  "create_better_networking.frequency.controls": "Shift + guji bidix si aad u koobiyeyso; guji bidix si aad u dhejiso. Si aad shabakadda magac ugu bixiso, sabuuradda ku dar qoraal ka kooban keliya #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Shabakad %s  •  %s baloog ayaa la iftiimiyey",
+  "create_better_networking.frequency.highlight_status_hidden": "%s baloog ayaa la iftiimiyey",
+  "create_better_networking.frequency.empty": "Soo noqnoqosho lama kaydin. Shift + guji bidix baloog ku xiran si aad u koobiyeyso.",
+  "create_better_networking.frequency.inactive": "Qaybtan cabbiraha warshaddu ma shaqaynayso",
+  "create_better_networking.frequency.protected": "Fasax uma lihid inaad beddesho shabakaddan",
+  "create_better_networking.frequency.same": "Balooggan ayaa hore u isticmaalaya soo noqnoqoshadan",
+  "create_better_networking.frequency.cleared": "Shabakaddii sabuuradda waa la tirtiray"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Көйләүләр",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Көйләүләр",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Көйләүләр",
+  "create_better_networking.configuration.showNetworkIdInHud": "Челтәр ID-сын HUD-та күрсәтү",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Челтәрнең исеме булмаса, аның ID-сын алмашу тактасының яктырту күрсәткечендә күрсәтү",
+  "create_better_networking.frequency.copied": "%s челтәре алмашу тактасына күчерелде",
+  "create_better_networking.frequency.pasted": "%s челтәре кулланылды",
+  "create_better_networking.frequency.saved": "Челтәр: %s",
+  "create_better_networking.frequency.controls": "Күчерү өчен Shift + сул төймә; кую өчен сул төймә. Челтәргә исем бирү өчен тактага бары тик #network: Link Series язмасын өстәгез.",
+  "create_better_networking.frequency.highlight_status": "Челтәр %s  •  %s блок яктыртылды",
+  "create_better_networking.frequency.highlight_status_hidden": "%s блок яктыртылды",
+  "create_better_networking.frequency.empty": "Ешлык сакланмаган. Күчерү өчен тоташкан блокта Shift һәм сул төймәгә басыгыз.",
+  "create_better_networking.frequency.inactive": "Бу завод күрсәткече панеле актив түгел",
+  "create_better_networking.frequency.protected": "Бу челтәрне үзгәртергә рөхсәтегез юк",
+  "create_better_networking.frequency.same": "Бу блок инде шушы ешлыкны куллана",
+  "create_better_networking.frequency.cleared": "Алмашу тактасындагы челтәр чистартылды"
+}

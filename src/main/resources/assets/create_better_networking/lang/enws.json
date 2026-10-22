@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ordinances",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ordinances",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ordinances",
+  "create_better_networking.configuration.showNetworkIdInHud": "Show the network’s sign upon the HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Show the network’s sign upon the clipboard’s glowing display when the network hath no name",
+  "create_better_networking.frequency.copied": "Network %s hath been copied to thy clipboard",
+  "create_better_networking.frequency.pasted": "Network %s hath been applied",
+  "create_better_networking.frequency.saved": "Network: %s",
+  "create_better_networking.frequency.controls": "Shift-left-click to copy; left-click to paste. To bestow a name upon a network, add a clipboard entry bearing only #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Network %s  •  %s blocks illuminated",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocks illuminated",
+  "create_better_networking.frequency.empty": "No frequency hath been kept. Shift-left-click a linked block to copy one.",
+  "create_better_networking.frequency.inactive": "That factory gauge panel doth lie idle",
+  "create_better_networking.frequency.protected": "Thou hast no leave to alter that network",
+  "create_better_networking.frequency.same": "That block doth already use this frequency",
+  "create_better_networking.frequency.cleared": "Thy clipboard’s network hath been cleared"
+}

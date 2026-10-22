@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Nastavení",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Nastavení",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Nastavení",
+  "create_better_networking.configuration.showNetworkIdInHud": "Zobrazovat ID sítě v HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Zobrazovat ID sítě v přehledu zvýraznění schránky, pokud síť nemá název",
+  "create_better_networking.frequency.copied": "Síť %s zkopírována do schránky",
+  "create_better_networking.frequency.pasted": "Použita síť %s",
+  "create_better_networking.frequency.saved": "Síť: %s",
+  "create_better_networking.frequency.controls": "Shift + levé tlačítko pro kopírování; levé tlačítko pro vložení. Chcete-li síť pojmenovat, přidejte do schránky záznam obsahující pouze #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Síť %s  •  Zvýrazněné bloky: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Zvýrazněné bloky: %s",
+  "create_better_networking.frequency.empty": "Není uložena žádná frekvence. Zkopírujte ji pomocí Shift + levého tlačítka na připojeném bloku.",
+  "create_better_networking.frequency.inactive": "Tento panel továrního ukazatele není aktivní",
+  "create_better_networking.frequency.protected": "Nemáte oprávnění tuto síť měnit",
+  "create_better_networking.frequency.same": "Tento blok již používá tuto frekvenci",
+  "create_better_networking.frequency.cleared": "Síť ve schránce vymazána"
+}

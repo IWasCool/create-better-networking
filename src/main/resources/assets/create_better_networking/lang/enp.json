@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Settings",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Settings",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Settings",
+  "create_better_networking.configuration.showNetworkIdInHud": "Show the web’s mark in the heads-up view",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Show the web’s mark in the clipboard’s lit-block view when the web has no name",
+  "create_better_networking.frequency.copied": "Web %s written to clipboard",
+  "create_better_networking.frequency.pasted": "Web %s put to work",
+  "create_better_networking.frequency.saved": "Web: %s",
+  "create_better_networking.frequency.controls": "Shift-left-click to write down; left-click to put in. To name a web, add a clipboard line holding only #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Web %s  •  %s blocks lit up",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocks lit up",
+  "create_better_networking.frequency.empty": "No waveband kept. Shift-left-click a linked block to write one down.",
+  "create_better_networking.frequency.inactive": "That workshop gauge board is asleep",
+  "create_better_networking.frequency.protected": "You are not allowed to change that web",
+  "create_better_networking.frequency.same": "That block already works on this waveband",
+  "create_better_networking.frequency.cleared": "Clipboard web wiped clean"
+}

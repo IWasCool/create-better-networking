@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Көйләүҙәр",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Көйләүҙәр",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Көйләүҙәр",
+  "create_better_networking.configuration.showNetworkIdInHud": "Селтәр ID-һын HUD-та күрһәтеү",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Селтәрҙең исеме булмаһа, уның ID-һын алмашыу таҡтаһының яҡтыртыу күрһәткесендә күрһәтеү",
+  "create_better_networking.frequency.copied": "%s селтәре алмашыу таҡтаһына күсерелде",
+  "create_better_networking.frequency.pasted": "%s селтәре ҡулланылды",
+  "create_better_networking.frequency.saved": "Селтәр: %s",
+  "create_better_networking.frequency.controls": "Күсереү өсөн Shift + һул төймә; ҡуйыу өсөн һул төймә. Селтәргә исем биреү өсөн таҡтаға тик #network: Link Series яҙмаһын өҫтәгеҙ.",
+  "create_better_networking.frequency.highlight_status": "Селтәр %s  •  %s блок яҡтыртылды",
+  "create_better_networking.frequency.highlight_status_hidden": "%s блок яҡтыртылды",
+  "create_better_networking.frequency.empty": "Йышлыҡ һаҡланмаған. Күсереү өсөн тоташҡан блокта Shift һәм һул төймәгә баҫығыҙ.",
+  "create_better_networking.frequency.inactive": "Был завод күрһәткесе панеле әүҙем түгел",
+  "create_better_networking.frequency.protected": "Был селтәрҙе үҙгәртергә рөхсәтегеҙ юҡ",
+  "create_better_networking.frequency.same": "Был блок ошо йышлыҡты ҡуллана инде",
+  "create_better_networking.frequency.cleared": "Алмашыу таҡтаһындағы селтәр таҙартылды"
+}

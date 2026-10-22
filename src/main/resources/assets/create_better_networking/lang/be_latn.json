@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Nałady",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Nałady",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Nałady",
+  "create_better_networking.configuration.showNetworkIdInHud": "Pakazvać ID sietki ŭ interfiejsie",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Pakazvać ID sietki ŭ interfiejsie padsviatliennia płanšeta, kali sietka nie maje nazvy",
+  "create_better_networking.frequency.copied": "Sietka %s skapijavana ŭ płanšet",
+  "create_better_networking.frequency.pasted": "Užyta sietka %s",
+  "create_better_networking.frequency.saved": "Sietka: %s",
+  "create_better_networking.frequency.controls": "Shift + lievaja knopka myšy — kapijavać; lievaja knopka — ustavić. Kab nazvać sietku, dadajcie ŭ płanšet zapis tolki z #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Sietka %s  •  Padsviečana błokaŭ: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Padsviečana błokaŭ: %s",
+  "create_better_networking.frequency.empty": "Častata nie zachavana. Nacisnicie Shift i lievuju knopku myšy na padłučanym błoku, kab skapijavać jaje.",
+  "create_better_networking.frequency.inactive": "Hetaja panel zavadskoha indykatara nieaktyŭnaja",
+  "create_better_networking.frequency.protected": "Vy nie majecie dazvołu zmianiać hetuju sietku",
+  "create_better_networking.frequency.same": "Hety błok užo vykarystoŭvaje hetuju častatu",
+  "create_better_networking.frequency.cleared": "Sietka ŭ płanšecie ačyščana"
+}

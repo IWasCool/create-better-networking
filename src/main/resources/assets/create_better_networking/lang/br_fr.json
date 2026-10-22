@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Arventennoù",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Arventennoù",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Arventennoù",
+  "create_better_networking.configuration.showNetworkIdInHud": "Diskouez ID ar rouedad en HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Diskouez ID ar rouedad e gwel usskediñ ar golver pa n’en deus ket ar rouedad anv",
+  "create_better_networking.frequency.copied": "Rouedad %s eilet er golver",
+  "create_better_networking.frequency.pasted": "Rouedad %s arloet",
+  "create_better_networking.frequency.saved": "Rouedad: %s",
+  "create_better_networking.frequency.controls": "Shift + klik kleiz evit eilañ; klik kleiz evit pegañ. Evit envel ur rouedad, ouzhpennit un enmoned er golver gant #network: Link Series hepken.",
+  "create_better_networking.frequency.highlight_status": "Rouedad %s  •  %s bloc’h usskedet",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloc’h usskedet",
+  "create_better_networking.frequency.empty": "Frekañs ebet enrollet. Shift + klik kleiz war ur bloc’h kevreet evit eilañ unan.",
+  "create_better_networking.frequency.inactive": "Dioberiant eo panell muzulier ar greizenn-se",
+  "create_better_networking.frequency.protected": "N’ho peus ket an aotre da gemmañ ar rouedad-se",
+  "create_better_networking.frequency.same": "Implijout a ra ar bloc’h-se ar frekañs-mañ dija",
+  "create_better_networking.frequency.cleared": "Rouedad ar golver diverket"
+}

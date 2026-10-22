@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ètò",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ètò",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ètò",
+  "create_better_networking.configuration.showNetworkIdInHud": "Fi ID nẹ́tíwọ́ọ̀kì hàn nínú HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Fi ID nẹ́tíwọ́ọ̀kì hàn nínú àfihàn ìtànná pátákó ìkọ̀wé nígbà tí nẹ́tíwọ́ọ̀kì kò ní orúkọ",
+  "create_better_networking.frequency.copied": "A ti da nẹ́tíwọ́ọ̀kì %s kọ sí pátákó ìkọ̀wé",
+  "create_better_networking.frequency.pasted": "A ti lo nẹ́tíwọ́ọ̀kì %s",
+  "create_better_networking.frequency.saved": "Nẹ́tíwọ́ọ̀kì: %s",
+  "create_better_networking.frequency.controls": "Shift + tẹ òsì láti dàkọ; tẹ òsì láti lẹ̀ mọ́. Láti sọ nẹ́tíwọ́ọ̀kì lórúkọ, fi àkọsílẹ̀ tó ní #network: Link Series nìkan kún pátákó ìkọ̀wé.",
+  "create_better_networking.frequency.highlight_status": "Nẹ́tíwọ́ọ̀kì %s  •  A ti tan ìmọ́lẹ̀ sí bulọ́ọ̀kù %s",
+  "create_better_networking.frequency.highlight_status_hidden": "A ti tan ìmọ́lẹ̀ sí bulọ́ọ̀kù %s",
+  "create_better_networking.frequency.empty": "Kò sí ìgbóhùnsáfẹ́fẹ́ tí a fi pamọ́. Lo Shift + tẹ òsì lórí bulọ́ọ̀kù tó so pọ̀ láti dàkọ rẹ̀.",
+  "create_better_networking.frequency.inactive": "Pánẹ́ẹ̀lì ìwọ̀n ilé iṣẹ́ yìí kò ṣiṣẹ́",
+  "create_better_networking.frequency.protected": "O kò ní àṣẹ láti yí nẹ́tíwọ́ọ̀kì yìí padà",
+  "create_better_networking.frequency.same": "Bulọ́ọ̀kù yìí ti ń lo ìgbóhùnsáfẹ́fẹ́ yìí tẹ́lẹ̀",
+  "create_better_networking.frequency.cleared": "A ti pa nẹ́tíwọ́ọ̀kì pátákó ìkọ̀wé rẹ́"
+}

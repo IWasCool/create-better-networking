@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configuració",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configuració",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configuració",
+  "create_better_networking.configuration.showNetworkIdInHud": "Mostra l’ID de la xarxa en el HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Mostra l’ID de la xarxa en l’indicador de ressaltat del porta-retalls quan la xarxa no tinga nom",
+  "create_better_networking.frequency.copied": "S’ha copiat la xarxa %s al porta-retalls",
+  "create_better_networking.frequency.pasted": "S’ha aplicat la xarxa %s",
+  "create_better_networking.frequency.saved": "Xarxa: %s",
+  "create_better_networking.frequency.controls": "Maj + clic esquerre per a copiar; clic esquerre per a apegar. Per a posar nom a una xarxa, afig al porta-retalls una entrada que només continga #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Xarxa %s  •  %s blocs ressaltats",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocs ressaltats",
+  "create_better_networking.frequency.empty": "No hi ha cap freqüència guardada. Fes Maj + clic esquerre en un bloc connectat per a copiar-ne una.",
+  "create_better_networking.frequency.inactive": "Este panell de l’indicador de fàbrica està inactiu",
+  "create_better_networking.frequency.protected": "No tens permís per a canviar esta xarxa",
+  "create_better_networking.frequency.same": "Este bloc ja utilitza esta freqüència",
+  "create_better_networking.frequency.cleared": "S’ha esborrat la xarxa del porta-retalls"
+}

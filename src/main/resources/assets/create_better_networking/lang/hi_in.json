@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – सेटिंग",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – सेटिंग",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – सेटिंग",
+  "create_better_networking.configuration.showNetworkIdInHud": "HUD में नेटवर्क ID दिखाएँ",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "नेटवर्क का नाम न होने पर क्लिपबोर्ड के हाइलाइट HUD में नेटवर्क ID दिखाएँ",
+  "create_better_networking.frequency.copied": "नेटवर्क %s क्लिपबोर्ड पर कॉपी किया गया",
+  "create_better_networking.frequency.pasted": "नेटवर्क %s लागू किया गया",
+  "create_better_networking.frequency.saved": "नेटवर्क: %s",
+  "create_better_networking.frequency.controls": "कॉपी करने के लिए Shift + बायाँ क्लिक; चिपकाने के लिए बायाँ क्लिक। नेटवर्क का नाम रखने के लिए क्लिपबोर्ड पर केवल #network: Link Series वाली प्रविष्टि जोड़ें।",
+  "create_better_networking.frequency.highlight_status": "नेटवर्क %s  •  %s ब्लॉक हाइलाइट किए गए",
+  "create_better_networking.frequency.highlight_status_hidden": "%s ब्लॉक हाइलाइट किए गए",
+  "create_better_networking.frequency.empty": "कोई आवृत्ति सहेजी नहीं गई। कॉपी करने के लिए जुड़े हुए ब्लॉक पर Shift + बायाँ क्लिक करें।",
+  "create_better_networking.frequency.inactive": "यह फ़ैक्टरी गेज पैनल निष्क्रिय है",
+  "create_better_networking.frequency.protected": "आपको इस नेटवर्क को बदलने की अनुमति नहीं है",
+  "create_better_networking.frequency.same": "यह ब्लॉक पहले से इस आवृत्ति का उपयोग करता है",
+  "create_better_networking.frequency.cleared": "क्लिपबोर्ड का नेटवर्क साफ़ किया गया"
+}

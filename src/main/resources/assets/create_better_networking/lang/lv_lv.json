@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Iestatījumi",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Iestatījumi",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Iestatījumi",
+  "create_better_networking.configuration.showNetworkIdInHud": "Rādīt tīkla ID HUD saskarnē",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Rādīt tīkla ID starpliktuves izcelšanas skatā, ja tīklam nav nosaukuma",
+  "create_better_networking.frequency.copied": "Tīkls %s nokopēts starpliktuvē",
+  "create_better_networking.frequency.pasted": "Tīkls %s piemērots",
+  "create_better_networking.frequency.saved": "Tīkls: %s",
+  "create_better_networking.frequency.controls": "Shift + kreisais klikšķis kopē; kreisais klikšķis ielīmē. Lai nosauktu tīklu, starpliktuvē pievieno ierakstu, kurā ir tikai #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Tīkls %s  •  izcelti bloki: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Izcelti bloki: %s",
+  "create_better_networking.frequency.empty": "Nav saglabātas frekvences. Lai kopētu, noklikšķini uz savienota bloka, turot Shift.",
+  "create_better_networking.frequency.inactive": "Šis rūpnīcas mērierīces panelis ir neaktīvs",
+  "create_better_networking.frequency.protected": "Tev nav atļaujas mainīt šo tīklu",
+  "create_better_networking.frequency.same": "Šis bloks jau izmanto šo frekvenci",
+  "create_better_networking.frequency.cleared": "Starpliktuves tīkls notīrīts"
+}

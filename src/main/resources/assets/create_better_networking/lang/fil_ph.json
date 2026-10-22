@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Mga Setting",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Mga Setting",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Mga Setting",
+  "create_better_networking.configuration.showNetworkIdInHud": "Ipakita ang ID ng network sa HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Ipakita ang ID ng network sa pagpapatingkad ng clipboard kapag walang pangalan ang network",
+  "create_better_networking.frequency.copied": "Nakopya ang network na %s sa clipboard",
+  "create_better_networking.frequency.pasted": "Inilapat ang network na %s",
+  "create_better_networking.frequency.saved": "Network: %s",
+  "create_better_networking.frequency.controls": "Shift + kaliwang klik para kopyahin; kaliwang klik para idikit. Para pangalanan ang network, magdagdag sa clipboard ng talang naglalaman lamang ng #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Network %s  •  %s bloke ang pinatingkad",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloke ang pinatingkad",
+  "create_better_networking.frequency.empty": "Walang nakatabing frequency. Gamitin ang Shift + kaliwang klik sa nakakonektang bloke para kumopya.",
+  "create_better_networking.frequency.inactive": "Hindi aktibo ang panel ng panukat ng pabrika na iyon",
+  "create_better_networking.frequency.protected": "Wala kang pahintulot na baguhin ang network na iyon",
+  "create_better_networking.frequency.same": "Ginagamit na ng blokeng iyon ang frequency na ito",
+  "create_better_networking.frequency.cleared": "Nabura ang network sa clipboard"
+}

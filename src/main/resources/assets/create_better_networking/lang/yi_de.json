@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — אײַנשטעלונגען",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — אײַנשטעלונגען",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — אײַנשטעלונגען",
+  "create_better_networking.configuration.showNetworkIdInHud": "ווײַזן נעץ־ID אינעם HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "ווײַזן דעם נעץ־ID אינעם הויכליכט־באַווײַז פֿונעם קלעמבער ווען די נעץ האָט נישט קיין נאָמען",
+  "create_better_networking.frequency.copied": "נעץ %s איז קאָפּירט געוואָרן צום קלעמבער",
+  "create_better_networking.frequency.pasted": "נעץ %s איז אָנגענומען געוואָרן",
+  "create_better_networking.frequency.saved": "נעץ: %s",
+  "create_better_networking.frequency.controls": "Shift און לינקער קליק צו קאָפּירן; לינקער קליק צו אַרײַנקלעבן. צו געבן אַ נעץ אַ נאָמען, לייגט צו אַ שורה מיט בלויז #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "נעץ %s  •  %s בלאָקן הויכגעליכט",
+  "create_better_networking.frequency.highlight_status_hidden": "%s בלאָקן הויכגעליכט",
+  "create_better_networking.frequency.empty": "קיין פֿרעקווענץ איז נישט אָפּגעהיט. ניצט Shift און לינקן קליק אויף אַ פֿאַרבונדן בלאָק צו קאָפּירן.",
+  "create_better_networking.frequency.inactive": "דאָס פֿאַבריק־מעסטער־טאַפל איז נישט אַקטיוו",
+  "create_better_networking.frequency.protected": "איר האָט נישט קיין דערלויבעניש צו ענדערן די נעץ",
+  "create_better_networking.frequency.same": "דער בלאָק ניצט שוין די פֿרעקווענץ",
+  "create_better_networking.frequency.cleared": "די נעץ אינעם קלעמבער איז אויסגעמעקט"
+}

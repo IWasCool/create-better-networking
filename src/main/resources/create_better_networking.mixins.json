@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ourcreationstudios.create_better_networking.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FactoryPanelBlockItemMixin",
+    "FactoryPanelBlockEntityMixin",
+    "LogisticallyLinkedBehaviourMixin"
+  ],
+  "client": [
+    "LogisticallyLinkedClientHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

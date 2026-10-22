@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Ustawienia",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Ustawienia",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Ustawienia",
+  "create_better_networking.configuration.showNetworkIdInHud": "Pokazuj ID sieci w HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Pokazuj ID sieci na wyświetlaczu podświetlania schowka, gdy sieć nie ma nazwy",
+  "create_better_networking.frequency.copied": "Skopiowano sieć %s do schowka",
+  "create_better_networking.frequency.pasted": "Zastosowano sieć %s",
+  "create_better_networking.frequency.saved": "Sieć: %s",
+  "create_better_networking.frequency.controls": "Shift + lewy przycisk myszy — kopiuj; lewy przycisk myszy — wklej. Aby nazwać sieć, dodaj do schowka wpis zawierający tylko #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Sieć %s  •  Podświetlone bloki: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Podświetlone bloki: %s",
+  "create_better_networking.frequency.empty": "Nie zapisano częstotliwości. Użyj Shift + lewego przycisku myszy na połączonym bloku, aby ją skopiować.",
+  "create_better_networking.frequency.inactive": "Ten panel wskaźnika fabrycznego jest nieaktywny",
+  "create_better_networking.frequency.protected": "Nie masz uprawnień do zmiany tej sieci",
+  "create_better_networking.frequency.same": "Ten blok już używa tej częstotliwości",
+  "create_better_networking.frequency.cleared": "Wyczyszczono sieć w schowku"
+}

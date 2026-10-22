@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Einstellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Einstellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Einstellungen",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netzwerk-ID im HUD anzeigen",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Die Netzwerk-ID in der Markierungsansicht vom Klemmbrett anzeigen, wenn das Netzwerk keinen Namen hat",
+  "create_better_networking.frequency.copied": "Netzwerk %s aufs Klemmbrett kopiert",
+  "create_better_networking.frequency.pasted": "Netzwerk %s übernommen",
+  "create_better_networking.frequency.saved": "Netzwerk: %s",
+  "create_better_networking.frequency.controls": "Umschalt-Linksklick zum Kopieren; Linksklick zum Einfügen. Zum Benennen vom Netzwerk einen Klemmbretteintrag mit nur #network: Link Series hinzufügen.",
+  "create_better_networking.frequency.highlight_status": "Netzwerk %s  •  %s Blöcke markiert",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Blöcke markiert",
+  "create_better_networking.frequency.empty": "Keine Frequenz gespeichert. Mit Umschalt-Linksklick auf einen verbundenen Block eine kopieren.",
+  "create_better_networking.frequency.inactive": "Dieses Fabrikanzeigenfeld ist nicht aktiv",
+  "create_better_networking.frequency.protected": "Du hast keine Berechtigung, dieses Netzwerk zu ändern",
+  "create_better_networking.frequency.same": "Dieser Block verwendet schon diese Frequenz",
+  "create_better_networking.frequency.cleared": "Netzwerk am Klemmbrett gelöscht"
+}

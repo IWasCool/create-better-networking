@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Настройки",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Настройки",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Настройки",
+  "create_better_networking.configuration.showNetworkIdInHud": "Показване на ID на мрежата в HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Показване на ID на мрежата в изгледа за осветяване на клипборда, когато мрежата няма име",
+  "create_better_networking.frequency.copied": "Мрежата %s е копирана в клипборда",
+  "create_better_networking.frequency.pasted": "Приложена е мрежата %s",
+  "create_better_networking.frequency.saved": "Мрежа: %s",
+  "create_better_networking.frequency.controls": "Shift + ляв клик за копиране; ляв клик за поставяне. За да именувате мрежа, добавете в клипборда запис, съдържащ само #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Мрежа %s  •  Осветени блокове: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Осветени блокове: %s",
+  "create_better_networking.frequency.empty": "Няма запазена честота. Използвайте Shift + ляв клик върху свързан блок, за да копирате честота.",
+  "create_better_networking.frequency.inactive": "Този панел на фабричния индикатор е неактивен",
+  "create_better_networking.frequency.protected": "Нямате разрешение да променяте тази мрежа",
+  "create_better_networking.frequency.same": "Този блок вече използва тази честота",
+  "create_better_networking.frequency.cleared": "Мрежата в клипборда е изчистена"
+}

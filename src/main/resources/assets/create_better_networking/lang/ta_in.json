@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – அமைப்புகள்",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – அமைப்புகள்",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – அமைப்புகள்",
+  "create_better_networking.configuration.showNetworkIdInHud": "HUD இல் பிணைய ID ஐக் காட்டு",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "பிணையத்திற்குப் பெயர் இல்லாதபோது பிடிப்புப்பலகையின் முன்னிலைப்படுத்தும் HUD இல் பிணைய ID ஐக் காட்டு",
+  "create_better_networking.frequency.copied": "%s பிணையம் பிடிப்புப்பலகையில் நகலெடுக்கப்பட்டது",
+  "create_better_networking.frequency.pasted": "%s பிணையம் பயன்படுத்தப்பட்டது",
+  "create_better_networking.frequency.saved": "பிணையம்: %s",
+  "create_better_networking.frequency.controls": "நகலெடுக்க Shift + இடது கிளிக்; ஒட்ட இடது கிளிக். பிணையத்திற்குப் பெயரிட பிடிப்புப்பலகையில் #network: Link Series மட்டும் உள்ள பதிவைச் சேர்க்கவும்.",
+  "create_better_networking.frequency.highlight_status": "பிணையம் %s  •  %s தொகுதிகள் முன்னிலைப்படுத்தப்பட்டன",
+  "create_better_networking.frequency.highlight_status_hidden": "%s தொகுதிகள் முன்னிலைப்படுத்தப்பட்டன",
+  "create_better_networking.frequency.empty": "அதிர்வெண் எதுவும் சேமிக்கப்படவில்லை. இணைக்கப்பட்ட தொகுதியை Shift + இடது கிளிக் செய்து நகலெடுக்கவும்.",
+  "create_better_networking.frequency.inactive": "இந்தத் தொழிற்சாலை அளவிப் பலகம் செயலற்றது",
+  "create_better_networking.frequency.protected": "இந்தப் பிணையத்தை மாற்ற உங்களுக்கு அனுமதி இல்லை",
+  "create_better_networking.frequency.same": "இந்தத் தொகுதி ஏற்கெனவே இந்த அதிர்வெண்ணைப் பயன்படுத்துகிறது",
+  "create_better_networking.frequency.cleared": "பிடிப்புப்பலகையின் பிணையம் அழிக்கப்பட்டது"
+}

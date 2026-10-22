@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configurazione",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configurazione",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configurazione",
+  "create_better_networking.configuration.showNetworkIdInHud": "Mostra l’ID della rete nell’HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Mostra l’ID della rete nell’indicatore di evidenziazione degli appunti quando la rete non ha un nome",
+  "create_better_networking.frequency.copied": "Rete %s copiata negli appunti",
+  "create_better_networking.frequency.pasted": "Rete %s applicata",
+  "create_better_networking.frequency.saved": "Rete: %s",
+  "create_better_networking.frequency.controls": "Maiusc + clic sinistro per copiare; clic sinistro per incollare. Per dare un nome a una rete, aggiungi agli appunti una voce contenente solo #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rete %s  •  %s blocchi evidenziati",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocchi evidenziati",
+  "create_better_networking.frequency.empty": "Nessuna frequenza salvata. Usa Maiusc + clic sinistro su un blocco collegato per copiarne una.",
+  "create_better_networking.frequency.inactive": "Quel pannello dell’indicatore di fabbrica è inattivo",
+  "create_better_networking.frequency.protected": "Non hai il permesso di modificare quella rete",
+  "create_better_networking.frequency.same": "Quel blocco usa già questa frequenza",
+  "create_better_networking.frequency.cleared": "Rete degli appunti cancellata"
+}

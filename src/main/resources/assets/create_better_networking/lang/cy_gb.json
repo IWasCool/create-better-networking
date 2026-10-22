@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Gosodiadau",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Gosodiadau",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Gosodiadau",
+  "create_better_networking.configuration.showNetworkIdInHud": "Dangos ID y rhwydwaith yn yr HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Dangos ID y rhwydwaith yng ngolwg amlygu’r clipfwrdd pan nad oes enw gan y rhwydwaith",
+  "create_better_networking.frequency.copied": "Copïwyd rhwydwaith %s i’r clipfwrdd",
+  "create_better_networking.frequency.pasted": "Defnyddiwyd rhwydwaith %s",
+  "create_better_networking.frequency.saved": "Rhwydwaith: %s",
+  "create_better_networking.frequency.controls": "Shift + clic chwith i gopïo; clic chwith i ludo. I enwi rhwydwaith, ychwanegwch gofnod clipfwrdd sy’n cynnwys dim ond #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rhwydwaith %s  •  %s bloc wedi’u hamlygu",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloc wedi’u hamlygu",
+  "create_better_networking.frequency.empty": "Dim amledd wedi’i gadw. Defnyddiwch Shift + clic chwith ar floc cysylltiedig i gopïo un.",
+  "create_better_networking.frequency.inactive": "Mae’r panel mesurydd ffatri hwnnw’n anweithredol",
+  "create_better_networking.frequency.protected": "Nid oes gennych ganiatâd i newid y rhwydwaith hwnnw",
+  "create_better_networking.frequency.same": "Mae’r bloc hwnnw eisoes yn defnyddio’r amledd hwn",
+  "create_better_networking.frequency.cleared": "Cliriwyd rhwydwaith y clipfwrdd"
+}

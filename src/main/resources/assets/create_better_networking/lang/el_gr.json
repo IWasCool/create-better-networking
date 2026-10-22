@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ρυθμίσεις",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ρυθμίσεις",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ρυθμίσεις",
+  "create_better_networking.configuration.showNetworkIdInHud": "Εμφάνιση ID δικτύου στο HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Εμφάνιση του ID δικτύου στην ένδειξη επισήμανσης του προχείρου όταν το δίκτυο δεν έχει όνομα",
+  "create_better_networking.frequency.copied": "Το δίκτυο %s αντιγράφηκε στο πρόχειρο",
+  "create_better_networking.frequency.pasted": "Εφαρμόστηκε το δίκτυο %s",
+  "create_better_networking.frequency.saved": "Δίκτυο: %s",
+  "create_better_networking.frequency.controls": "Shift + αριστερό κλικ για αντιγραφή· αριστερό κλικ για επικόλληση. Για να ονομάσετε ένα δίκτυο, προσθέστε στο πρόχειρο μια καταχώριση που περιέχει μόνο #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Δίκτυο %s  •  %s επισημασμένοι κύβοι",
+  "create_better_networking.frequency.highlight_status_hidden": "%s επισημασμένοι κύβοι",
+  "create_better_networking.frequency.empty": "Δεν έχει αποθηκευτεί συχνότητα. Χρησιμοποιήστε Shift + αριστερό κλικ σε συνδεδεμένο κύβο για αντιγραφή.",
+  "create_better_networking.frequency.inactive": "Αυτό το πλαίσιο εργοστασιακού μετρητή είναι ανενεργό",
+  "create_better_networking.frequency.protected": "Δεν έχετε άδεια να αλλάξετε αυτό το δίκτυο",
+  "create_better_networking.frequency.same": "Αυτός ο κύβος χρησιμοποιεί ήδη αυτήν τη συχνότητα",
+  "create_better_networking.frequency.cleared": "Το δίκτυο του προχείρου διαγράφηκε"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Roghainnean",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Roghainnean",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Roghainnean",
+  "create_better_networking.configuration.showNetworkIdInHud": "Seall ID an lìonraidh san HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Seall ID an lìonraidh ann an sealladh soillseachaidh na stòr-bhùird nuair nach eil ainm air an lìonra",
+  "create_better_networking.frequency.copied": "Chaidh lìonra %s a lethbhreacadh dhan stòr-bhòrd",
+  "create_better_networking.frequency.pasted": "Chaidh lìonra %s a chur an sàs",
+  "create_better_networking.frequency.saved": "Lìonra: %s",
+  "create_better_networking.frequency.controls": "Shift + briogadh clì gus lethbhreac a dhèanamh; briogadh clì gus a chur ann. Gus lìonra ainmeachadh, cuir innteart san stòr-bhòrd anns nach eil ach #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Lìonra %s  •  %s blocaichean air an soillseachadh",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocaichean air an soillseachadh",
+  "create_better_networking.frequency.empty": "Chan eil tricead air a shàbhaladh. Cleachd Shift + briogadh clì air bloca ceangailte gus lethbhreac a dhèanamh.",
+  "create_better_networking.frequency.inactive": "Tha pannal tomhais an fhactaraidh sin neo-ghnìomhach",
+  "create_better_networking.frequency.protected": "Chan eil cead agad an lìonra sin atharrachadh",
+  "create_better_networking.frequency.same": "Tha am bloca sin a’ cleachdadh an tricead seo mu thràth",
+  "create_better_networking.frequency.cleared": "Chaidh lìonra na stòr-bhùird fhalamhachadh"
+}

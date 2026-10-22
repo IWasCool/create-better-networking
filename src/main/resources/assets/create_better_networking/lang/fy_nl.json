@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ynstellingen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ynstellingen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ynstellingen",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netwurk-ID yn de HUD sjen litte",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Lit de netwurk-ID yn de markearringswerjefte fan it klamboerd sjen as it netwurk gjin namme hat",
+  "create_better_networking.frequency.copied": "Netwurk %s nei it klamboerd kopiearre",
+  "create_better_networking.frequency.pasted": "Netwurk %s tapast",
+  "create_better_networking.frequency.saved": "Netwurk: %s",
+  "create_better_networking.frequency.controls": "Shift-lofterklik om te kopiearjen; lofterklik om te plakken. Jou in netwurk in namme troch in klamboerdregel mei allinnich #network: Link Series ta te foegjen.",
+  "create_better_networking.frequency.highlight_status": "Netwurk %s  •  %s blokken markearre",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokken markearre",
+  "create_better_networking.frequency.empty": "Gjin frekwinsje bewarre. Shift-lofterklik op in ferbûn blok om ien te kopiearjen.",
+  "create_better_networking.frequency.inactive": "Dat fabryksmeterpaniel is net aktyf",
+  "create_better_networking.frequency.protected": "Do hast gjin tastimming om dat netwurk te feroarjen",
+  "create_better_networking.frequency.same": "Dat blok brûkt dizze frekwinsje al",
+  "create_better_networking.frequency.cleared": "Klamboerdnetwurk wiske"
+}

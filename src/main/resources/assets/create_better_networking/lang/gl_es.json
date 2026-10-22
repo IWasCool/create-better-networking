@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.showNetworkIdInHud": "Amosar o ID da rede no HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Amosar o ID da rede no indicador de resaltado do portapapeis cando a rede non teña nome",
+  "create_better_networking.frequency.copied": "Rede %s copiada ao portapapeis",
+  "create_better_networking.frequency.pasted": "Rede %s aplicada",
+  "create_better_networking.frequency.saved": "Rede: %s",
+  "create_better_networking.frequency.controls": "Maiús + clic esquerdo para copiar; clic esquerdo para pegar. Para nomear unha rede, engade ao portapapeis unha entrada que conteña só #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rede %s  •  %s bloques resaltados",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloques resaltados",
+  "create_better_networking.frequency.empty": "Non hai ningunha frecuencia gardada. Usa Maiús + clic esquerdo nun bloque conectado para copiar unha.",
+  "create_better_networking.frequency.inactive": "Ese panel do indicador de fábrica está inactivo",
+  "create_better_networking.frequency.protected": "Non tes permiso para cambiar esa rede",
+  "create_better_networking.frequency.same": "Ese bloque xa usa esta frecuencia",
+  "create_better_networking.frequency.cleared": "Rede do portapapeis borrada"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Tlatlapehpenilistli",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Tlatlapehpenilistli",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Tlatlapehpenilistli",
+  "create_better_networking.configuration.showNetworkIdInHud": "Kinēxtīs ID tlen mātlatl īpan HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Kinēxtīs ID tlen mātlatl īpan āmatlapalwilli tla mātlatl axkipiya ītōkah",
+  "create_better_networking.frequency.copied": "Okikopīnki mātlatl %s īpan āmatlapalwilli",
+  "create_better_networking.frequency.pasted": "Omotekwih mātlatl %s",
+  "create_better_networking.frequency.saved": "Mātlatl: %s",
+  "create_better_networking.frequency.controls": "Shift + ōpōchtlan klik inik tikkopīnas; ōpōchtlan klik inik tiksālōs. Inik tiktōkāyōtīs mātlatl, xikihkwilo īpan āmatlapalwilli san #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Mātlatl %s  •  %s xamixtli motlāwiltiah",
+  "create_better_networking.frequency.highlight_status_hidden": "%s xamixtli motlāwiltiah",
+  "create_better_networking.frequency.empty": "Axonkah frecuencia tlen mokiahkokwih. Shift + ōpōchtlan klik īpan xamixtli tlasalōlli inik tikkopīnas.",
+  "create_better_networking.frequency.inactive": "Ni tekitilōyān ītlachiyālis āmatl axtekiti",
+  "create_better_networking.frequency.protected": "Axmitskāwilia inik tikpatlas ni mātlatl",
+  "create_better_networking.frequency.same": "Ni xamixtli yokitekwia ni frecuencia",
+  "create_better_networking.frequency.cleared": "Omoiīxpoloh mātlatl īpan āmatlapalwilli"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Einschdellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Einschdellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Einschdellungen",
+  "create_better_networking.configuration.showNetworkIdInHud": "Neddzwerg-ID im HUD anzeeschn",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Die Neddzwerg-ID in der Margierungsansichd vom Glemmbrädd anzeeschn, wenn das Neddzwerg keen Naam hadd",
+  "create_better_networking.frequency.copied": "Neddzwerg %s uffs Glemmbrädd gobierd",
+  "create_better_networking.frequency.pasted": "Neddzwerg %s iwwer nomm",
+  "create_better_networking.frequency.saved": "Neddzwerg: %s",
+  "create_better_networking.frequency.controls": "Umschald-Lingsglick zum Gobiern; Lingsglick zum Einfüschn. Zum Neddzwerg benennen een Eindraach midd bloß #network: Link Series ins Glemmbrädd machn.",
+  "create_better_networking.frequency.highlight_status": "Neddzwerg %s  •  %s Blögg margierd",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Blögg margierd",
+  "create_better_networking.frequency.empty": "Geene Fregwenz geschbeicherd. Midd Umschald-Lingsglick uff een verbundnen Blog eene gobiern.",
+  "create_better_networking.frequency.inactive": "Das Fabriganzeeschefeld is ni agdiv",
+  "create_better_networking.frequency.protected": "Du darfsd das Neddzwerg ni ändern",
+  "create_better_networking.frequency.same": "Der Blog nuddzd die Fregwenz schon",
+  "create_better_networking.frequency.cleared": "Neddzwerg uffm Glemmbrädd gelöscht"
+}

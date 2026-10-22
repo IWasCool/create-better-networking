@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Nastavjenja",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Nastavjenja",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Nastavjenja",
+  "create_better_networking.configuration.showNetworkIdInHud": "Pokazati ID sěti v HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Pokazati ID sěti v prikazu podsvětljenja zapisnika, kogda sět ne ima imena",
+  "create_better_networking.frequency.copied": "Sět %s kopirovana v zapisnik",
+  "create_better_networking.frequency.pasted": "Sět %s priměnjena",
+  "create_better_networking.frequency.saved": "Sět: %s",
+  "create_better_networking.frequency.controls": "Shift + lěvy klik za kopirovanje; lěvy klik za vlěpjenje. Za nazvanje sěti dodaj v zapisnik zapis s jedino #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Sět %s  •  Podsvětljenih blokov: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Podsvětljenih blokov: %s",
+  "create_better_networking.frequency.empty": "Nijedna frekvencija ne jest shranjena. Shift + lěvy klik na spojenom bloku za kopirovanje.",
+  "create_better_networking.frequency.inactive": "Toj panel fabričnogo ukazatelja jest neaktivny",
+  "create_better_networking.frequency.protected": "Ne imaješ dozvoljenja měnjati tu sět",
+  "create_better_networking.frequency.same": "Toj blok uže koristi tutu frekvenciju",
+  "create_better_networking.frequency.cleared": "Sět zapisnika očiščena"
+}

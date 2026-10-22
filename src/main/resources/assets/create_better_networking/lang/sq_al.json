@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Cilësimet",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Cilësimet",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Cilësimet",
+  "create_better_networking.configuration.showNetworkIdInHud": "Shfaq ID-në e rrjetit në HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Shfaq ID-në e rrjetit në pamjen e theksimit të kujtesës kur rrjeti nuk ka emër",
+  "create_better_networking.frequency.copied": "Rrjeti %s u kopjua në kujtesë",
+  "create_better_networking.frequency.pasted": "Rrjeti %s u zbatua",
+  "create_better_networking.frequency.saved": "Rrjeti: %s",
+  "create_better_networking.frequency.controls": "Shift + klik i majtë për të kopjuar; klik i majtë për të ngjitur. Për të emërtuar një rrjet, shto në kujtesë një hyrje që përmban vetëm #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rrjeti %s  •  %s blloqe të theksuara",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blloqe të theksuara",
+  "create_better_networking.frequency.empty": "Nuk ka frekuencë të ruajtur. Përdor Shift + klik të majtë mbi një bllok të lidhur për ta kopjuar.",
+  "create_better_networking.frequency.inactive": "Ky panel i matësit të fabrikës është joaktiv",
+  "create_better_networking.frequency.protected": "Nuk ke leje ta ndryshosh këtë rrjet",
+  "create_better_networking.frequency.same": "Ky bllok e përdor tashmë këtë frekuencë",
+  "create_better_networking.frequency.cleared": "Rrjeti në kujtesë u pastrua"
+}

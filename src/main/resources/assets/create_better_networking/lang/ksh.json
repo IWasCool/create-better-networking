@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Enschtällonge",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Enschtällonge",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Enschtällonge",
+  "create_better_networking.configuration.showNetworkIdInHud": "Näzwärk-ID em HUD zeije",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "De Näzwärk-ID en de Makeer-Aansich vum Klämmbrett zeije, wann et Näzwärk keine Name hät",
+  "create_better_networking.frequency.copied": "Näzwärk %s op et Klämmbrett kopeet",
+  "create_better_networking.frequency.pasted": "Näzwärk %s övernomme",
+  "create_better_networking.frequency.saved": "Näzwärk: %s",
+  "create_better_networking.frequency.controls": "Umschalt-Linkskleck för ze kopeere; Linkskleck för enzefööje. För e Näzwärk ze benänne, donn ene Endraach met bloß #network: Link Series op et Klämmbrett.",
+  "create_better_networking.frequency.highlight_status": "Näzwärk %s  •  %s Blöck makeet",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Blöck makeet",
+  "create_better_networking.frequency.empty": "Kein Frequenz jeschpeichert. Met Umschalt-Linkskleck op ene verbunde Block ein kopeere.",
+  "create_better_networking.frequency.inactive": "Dat Fabrik-Aanzeijefäld es nit aktiv",
+  "create_better_networking.frequency.protected": "Do häs kein Erlävnis, dat Näzwärk ze ändere",
+  "create_better_networking.frequency.same": "Dä Block bruch die Frequenz ald",
+  "create_better_networking.frequency.cleared": "Näzwärk om Klämmbrett fottjemaat"
+}

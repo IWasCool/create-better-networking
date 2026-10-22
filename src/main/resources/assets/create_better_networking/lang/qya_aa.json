@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Cilmi",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Cilmi",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Cilmi",
+  "create_better_networking.configuration.showNetworkIdInHud": "Á tana raimëo tehta HUD-ssë",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Á tana raimëo tehta hyalimpanossë írë i raimë lá harya essë",
+  "create_better_networking.frequency.copied": "Raimë %s encarina hyalimpanossë",
+  "create_better_networking.frequency.pasted": "Raimë %s yúyanwa",
+  "create_better_networking.frequency.saved": "Raimë: %s",
+  "create_better_networking.frequency.controls": "Shift ar hyarya tolma renien; hyarya tolma panyan. Raimë estien, á tecë hyalimpanossë #network: Link Series erinqua.",
+  "create_better_networking.frequency.highlight_status": "Raimë %s  •  %s ronwar calimë",
+  "create_better_networking.frequency.highlight_status_hidden": "%s ronwar calimë",
+  "create_better_networking.frequency.empty": "Rimbala lá renina. Shift ar hyarya tolma ná napan ronwa limina renien.",
+  "create_better_networking.frequency.inactive": "Ta tanwa carmava ná senda",
+  "create_better_networking.frequency.protected": "Lá polilyë vista ta raimë",
+  "create_better_networking.frequency.same": "Ta ronwa yúya sí rimbala sina",
+  "create_better_networking.frequency.cleared": "Raimë hyalimpano hainanwa"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Nastavitve",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Nastavitve",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Nastavitve",
+  "create_better_networking.configuration.showNetworkIdInHud": "Pokaži ID omrežja v HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Pokaži ID omrežja v prikazu označevanja odložišča, ko omrežje nima imena",
+  "create_better_networking.frequency.copied": "Omrežje %s je kopirano v odložišče",
+  "create_better_networking.frequency.pasted": "Omrežje %s je uporabljeno",
+  "create_better_networking.frequency.saved": "Omrežje: %s",
+  "create_better_networking.frequency.controls": "Shift + levi klik za kopiranje; levi klik za lepljenje. Če želiš poimenovati omrežje, v odložišče dodaj vnos, ki vsebuje samo #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Omrežje %s  •  Označeni bloki: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Označeni bloki: %s",
+  "create_better_networking.frequency.empty": "Ni shranjene frekvence. Za kopiranje uporabi Shift + levi klik na povezanem bloku.",
+  "create_better_networking.frequency.inactive": "Ta plošča tovarniškega merilnika ni aktivna",
+  "create_better_networking.frequency.protected": "Nimaš dovoljenja za spreminjanje tega omrežja",
+  "create_better_networking.frequency.same": "Ta blok že uporablja to frekvenco",
+  "create_better_networking.frequency.cleared": "Omrežje v odložišču je izbrisano"
+}

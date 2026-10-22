@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Поставки",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Поставки",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Поставки",
+  "create_better_networking.configuration.showNetworkIdInHud": "Прикажи ID на мрежата во HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Прикажи ID на мрежата во приказот за истакнување на таблата кога мрежата нема име",
+  "create_better_networking.frequency.copied": "Мрежата %s е копирана во таблата",
+  "create_better_networking.frequency.pasted": "Применета е мрежата %s",
+  "create_better_networking.frequency.saved": "Мрежа: %s",
+  "create_better_networking.frequency.controls": "Shift + лев клик за копирање; лев клик за вметнување. За именување мрежа, додај запис во таблата што содржи само #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Мрежа %s  •  Истакнати блокови: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Истакнати блокови: %s",
+  "create_better_networking.frequency.empty": "Нема зачувана фреквенција. Користи Shift + лев клик на поврзан блок за да копираш фреквенција.",
+  "create_better_networking.frequency.inactive": "Тој панел на фабричкиот показател е неактивен",
+  "create_better_networking.frequency.protected": "Немаш дозвола за менување на таа мрежа",
+  "create_better_networking.frequency.same": "Тој блок веќе ја користи оваа фреквенција",
+  "create_better_networking.frequency.cleared": "Мрежата во таблата е исчистена"
+}

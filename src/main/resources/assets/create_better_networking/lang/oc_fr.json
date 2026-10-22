@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configuracion",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configuracion",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configuracion",
+  "create_better_networking.configuration.showNetworkIdInHud": "Afichar l’ID del ret dins l’HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Afichar l’ID del ret dins la vista de susbrilhança del quichapapièrs quand lo ret a pas de nom",
+  "create_better_networking.frequency.copied": "Ret %s copiat dins lo quichapapièrs",
+  "create_better_networking.frequency.pasted": "Ret %s aplicat",
+  "create_better_networking.frequency.saved": "Ret : %s",
+  "create_better_networking.frequency.controls": "Maj + clic esquèrre per copiar ; clic esquèrre per pegar. Per nomenar un ret, ajustatz una entrada al quichapapièrs que contenga sonque #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Ret %s  •  %s blòts en susbrilhança",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blòts en susbrilhança",
+  "create_better_networking.frequency.empty": "Cap de frequéncia enregistrada. Fasètz Maj + clic esquèrre sus un blòt connectat per ne copiar una.",
+  "create_better_networking.frequency.inactive": "Aqueste panèl del mesurador d’usina es inactiu",
+  "create_better_networking.frequency.protected": "Avètz pas la permission de modificar aqueste ret",
+  "create_better_networking.frequency.same": "Aqueste blòt utiliza ja aquesta frequéncia",
+  "create_better_networking.frequency.cleared": "Ret del quichapapièrs escafat"
+}

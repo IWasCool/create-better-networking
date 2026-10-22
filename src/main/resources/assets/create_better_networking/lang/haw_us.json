@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Nā hoʻonohonoho",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Nā hoʻonohonoho",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Nā hoʻonohonoho",
+  "create_better_networking.configuration.showNetworkIdInHud": "Hōʻike i ka ID o ka pūnaewele ma ka HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Hōʻike i ka ID o ka pūnaewele ma ka hōʻike hoʻokalakala o ka papa kope ke inoa ʻole ka pūnaewele",
+  "create_better_networking.frequency.copied": "Ua kope ʻia ka pūnaewele %s i ka papa kope",
+  "create_better_networking.frequency.pasted": "Ua hoʻohana ʻia ka pūnaewele %s",
+  "create_better_networking.frequency.saved": "Pūnaewele: %s",
+  "create_better_networking.frequency.controls": "Shift + kaomi hema e kope; kaomi hema e hoʻopili. No ka inoa ʻana i ka pūnaewele, e hoʻohui i kahi memo ma ka papa kope me #network: Link Series wale nō.",
+  "create_better_networking.frequency.highlight_status": "Pūnaewele %s  •  %s poloka i hoʻokalakala ʻia",
+  "create_better_networking.frequency.highlight_status_hidden": "%s poloka i hoʻokalakala ʻia",
+  "create_better_networking.frequency.empty": "ʻAʻohe alapine i mālama ʻia. Shift + kaomi hema ma kahi poloka i pili e kope.",
+  "create_better_networking.frequency.inactive": "ʻAʻole hana kēia papa ana hale hana",
+  "create_better_networking.frequency.protected": "ʻAʻole ʻae ʻia ʻoe e hoʻololi i kēia pūnaewele",
+  "create_better_networking.frequency.same": "Ke hoʻohana nei kēia poloka i kēia alapine",
+  "create_better_networking.frequency.cleared": "Ua holoi ʻia ka pūnaewele o ka papa kope"
+}

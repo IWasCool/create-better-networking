@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.showNetworkIdInHud": "Amosar l’ID de la red nel HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Amosar l’ID de la red nel resaltáu del portapapelis cuandu la red no tenga nombri",
+  "create_better_networking.frequency.copied": "Red %s copiada al portapapelis",
+  "create_better_networking.frequency.pasted": "Red %s aplicada",
+  "create_better_networking.frequency.saved": "Red: %s",
+  "create_better_networking.frequency.controls": "Mayús + clic izquierdu pa copiar; clic izquierdu pa pegar. Pa dar nombri a una red, añadi una entrada al portapapelis con namás #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Red %s  •  %s bloquis resaltaos",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloquis resaltaos",
+  "create_better_networking.frequency.empty": "No hay denguna frecuencia guardada. Usa Mayús + clic izquierdu nun bloqui conectáu pa copiar una.",
+  "create_better_networking.frequency.inactive": "Esi panel del indicador de fábrica ta inactivu",
+  "create_better_networking.frequency.protected": "No tienis permisu pa cambiar esa red",
+  "create_better_networking.frequency.same": "Esi bloqui ya usa esta frecuencia",
+  "create_better_networking.frequency.cleared": "Red del portapapelis borrada"
+}

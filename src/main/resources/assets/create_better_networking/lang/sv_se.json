@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Inställningar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Inställningar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Inställningar",
+  "create_better_networking.configuration.showNetworkIdInHud": "Visa nätverks-ID i HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Visa nätverks-ID i urklippets markeringsvy när nätverket saknar namn",
+  "create_better_networking.frequency.copied": "Nätverk %s kopierat till urklipp",
+  "create_better_networking.frequency.pasted": "Nätverk %s tillämpat",
+  "create_better_networking.frequency.saved": "Nätverk: %s",
+  "create_better_networking.frequency.controls": "Skift-vänsterklicka för att kopiera; vänsterklicka för att klistra in. Namnge ett nätverk genom att lägga till en urklippspost med endast #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Nätverk %s  •  %s block markerade",
+  "create_better_networking.frequency.highlight_status_hidden": "%s block markerade",
+  "create_better_networking.frequency.empty": "Ingen frekvens sparad. Skift-vänsterklicka på ett anslutet block för att kopiera en.",
+  "create_better_networking.frequency.inactive": "Den fabriksmätarpanelen är inaktiv",
+  "create_better_networking.frequency.protected": "Du har inte behörighet att ändra det nätverket",
+  "create_better_networking.frequency.same": "Det blocket använder redan den här frekvensen",
+  "create_better_networking.frequency.cleared": "Urklippets nätverk rensat"
+}

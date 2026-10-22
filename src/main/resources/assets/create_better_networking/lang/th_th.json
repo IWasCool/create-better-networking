@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – การตั้งค่า",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – การตั้งค่า",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – การตั้งค่า",
+  "create_better_networking.configuration.showNetworkIdInHud": "แสดง ID เครือข่ายใน HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "แสดง ID เครือข่ายในหน้าจอเน้นบล็อกของคลิปบอร์ดเมื่อเครือข่ายไม่มีชื่อ",
+  "create_better_networking.frequency.copied": "คัดลอกเครือข่าย %s ไปยังคลิปบอร์ดแล้ว",
+  "create_better_networking.frequency.pasted": "ใช้เครือข่าย %s แล้ว",
+  "create_better_networking.frequency.saved": "เครือข่าย: %s",
+  "create_better_networking.frequency.controls": "Shift + คลิกซ้ายเพื่อคัดลอก; คลิกซ้ายเพื่อวาง หากต้องการตั้งชื่อเครือข่าย ให้เพิ่มรายการในคลิปบอร์ดที่มีเพียง #network: Link Series",
+  "create_better_networking.frequency.highlight_status": "เครือข่าย %s  •  เน้นบล็อก %s บล็อก",
+  "create_better_networking.frequency.highlight_status_hidden": "เน้นบล็อก %s บล็อก",
+  "create_better_networking.frequency.empty": "ยังไม่ได้บันทึกความถี่ ใช้ Shift + คลิกซ้ายที่บล็อกที่เชื่อมต่อเพื่อคัดลอก",
+  "create_better_networking.frequency.inactive": "แผงมาตรวัดโรงงานนี้ไม่ได้ใช้งาน",
+  "create_better_networking.frequency.protected": "คุณไม่มีสิทธิ์เปลี่ยนเครือข่ายนี้",
+  "create_better_networking.frequency.same": "บล็อกนี้ใช้ความถี่นี้อยู่แล้ว",
+  "create_better_networking.frequency.cleared": "ล้างเครือข่ายในคลิปบอร์ดแล้ว"
+}

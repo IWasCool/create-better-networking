@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "تنظیمات Create: Better Networking",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "تنظیمات Create: Better Networking",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "تنظیمات Create: Better Networking",
+  "create_better_networking.configuration.showNetworkIdInHud": "نمایش شناسهٔ شبکه در HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "نمایش شناسهٔ شبکه در رابط برجسته‌سازی تخته‌گیره، وقتی شبکه نام ندارد",
+  "create_better_networking.frequency.copied": "شبکهٔ %s در تخته‌گیره کپی شد",
+  "create_better_networking.frequency.pasted": "شبکهٔ %s اعمال شد",
+  "create_better_networking.frequency.saved": "شبکه: %s",
+  "create_better_networking.frequency.controls": "Shift + کلیک چپ برای کپی؛ کلیک چپ برای چسباندن. برای نام‌گذاری شبکه، یادداشتی در تخته‌گیره اضافه کنید که فقط شامل #network: Link Series باشد.",
+  "create_better_networking.frequency.highlight_status": "شبکهٔ %s  •  %s بلوک برجسته شده",
+  "create_better_networking.frequency.highlight_status_hidden": "%s بلوک برجسته شده",
+  "create_better_networking.frequency.empty": "هیچ بسامدی ذخیره نشده است. برای کپی، روی یک بلوک متصل Shift + کلیک چپ کنید.",
+  "create_better_networking.frequency.inactive": "این صفحهٔ سنجهٔ کارخانه غیرفعال است",
+  "create_better_networking.frequency.protected": "شما اجازهٔ تغییر این شبکه را ندارید",
+  "create_better_networking.frequency.same": "این بلوک از قبل از این بسامد استفاده می‌کند",
+  "create_better_networking.frequency.cleared": "شبکهٔ تخته‌گیره پاک شد"
+}

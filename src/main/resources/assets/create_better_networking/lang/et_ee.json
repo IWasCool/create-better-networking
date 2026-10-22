@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Seaded",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Seaded",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Seaded",
+  "create_better_networking.configuration.showNetworkIdInHud": "Näita võrgu ID-d HUD-is",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Näita võrgu ID-d lõikelaua esiletõstmise kuval, kui võrgul pole nime",
+  "create_better_networking.frequency.copied": "Võrk %s kopeeriti lõikelauale",
+  "create_better_networking.frequency.pasted": "Võrk %s rakendati",
+  "create_better_networking.frequency.saved": "Võrk: %s",
+  "create_better_networking.frequency.controls": "Shift + vasakklõps kopeerimiseks; vasakklõps kleepimiseks. Võrgu nimetamiseks lisa lõikelauale kirje, mis sisaldab ainult #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Võrk %s  •  %s plokki esile tõstetud",
+  "create_better_networking.frequency.highlight_status_hidden": "%s plokki esile tõstetud",
+  "create_better_networking.frequency.empty": "Sagedust pole salvestatud. Kopeerimiseks tee ühendatud plokil Shift + vasakklõps.",
+  "create_better_networking.frequency.inactive": "See tehase mõõdikupaneel pole aktiivne",
+  "create_better_networking.frequency.protected": "Sul pole õigust seda võrku muuta",
+  "create_better_networking.frequency.same": "See plokk kasutab juba seda sagedust",
+  "create_better_networking.frequency.cleared": "Lõikelaua võrk kustutati"
+}

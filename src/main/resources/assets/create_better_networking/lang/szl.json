@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Nasztalowania",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Nasztalowania",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Nasztalowania",
+  "create_better_networking.configuration.showNetworkIdInHud": "Pokoż ID neców we HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Pokoż ID neców we widoku podświytlanio schowka, kej nece niy majōm miana",
+  "create_better_networking.frequency.copied": "Nece %s skopiyrowane do schowka",
+  "create_better_networking.frequency.pasted": "Nece %s zastosowane",
+  "create_better_networking.frequency.saved": "Nece: %s",
+  "create_better_networking.frequency.controls": "Shift + lewy knefel myszy, coby skopiyrować; lewy knefel, coby wrazić. Coby mianować nece, przidej do schowka wpis ino ze #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Nece %s  •  Podświytlōne bloki: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Podświytlōne bloki: %s",
+  "create_better_networking.frequency.empty": "Niy ma zapisanyj czynstotliwości. Użyj Shift i lewego knefla na skuplowanym bloku, coby skopiyrować.",
+  "create_better_networking.frequency.inactive": "Tyn panel fabrycznego pokazowacza je niyaktywny",
+  "create_better_networking.frequency.protected": "Niy mosz przizwolynio na zmianã tych neców",
+  "create_better_networking.frequency.same": "Tyn blok już używo tyj czynstotliwości",
+  "create_better_networking.frequency.cleared": "Nece we schowku wymazane"
+}

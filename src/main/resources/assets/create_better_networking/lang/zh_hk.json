@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking 設定",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking 設定",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking 設定",
+  "create_better_networking.configuration.showNetworkIdInHud": "在 HUD 中顯示網路 ID",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "網路沒有名稱時，在剪貼簿的醒目提示中顯示網路 ID",
+  "create_better_networking.frequency.copied": "已將網路 %s 複製到剪貼簿",
+  "create_better_networking.frequency.pasted": "已套用網路 %s",
+  "create_better_networking.frequency.saved": "網路：%s",
+  "create_better_networking.frequency.controls": "Shift + 左鍵複製；左鍵貼上。若要為網路命名，請在剪貼簿新增一筆僅包含 #network: Link Series 的記錄。",
+  "create_better_networking.frequency.highlight_status": "網路 %s  •  已標示 %s 個方塊",
+  "create_better_networking.frequency.highlight_status_hidden": "已標示 %s 個方塊",
+  "create_better_networking.frequency.empty": "尚未儲存頻率。對已連接的方塊按 Shift + 左鍵即可複製。",
+  "create_better_networking.frequency.inactive": "該工廠儀表面板尚未啟用",
+  "create_better_networking.frequency.protected": "你沒有變更該網路的權限",
+  "create_better_networking.frequency.same": "該方塊已在使用此頻率",
+  "create_better_networking.frequency.cleared": "已清除剪貼簿中的網路"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Inpostasion",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Inpostasion",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Inpostasion",
+  "create_better_networking.configuration.showNetworkIdInHud": "Mostra l’ID de ła rete inte l’HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Mostra l’ID de ła rete inte ła vista de evidensasion dei apunti co ła rete no ga nome",
+  "create_better_networking.frequency.copied": "Rete %s copiada inte i apunti",
+  "create_better_networking.frequency.pasted": "Rete %s aplicada",
+  "create_better_networking.frequency.saved": "Rete: %s",
+  "create_better_networking.frequency.controls": "Maiusc + clic de sanca par copiar; clic de sanca par incołar. Par dar un nome a na rete, zonta na voxe inte i apunti che ghe sia soło #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rete %s  •  %s blochi evidensiài",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blochi evidensiài",
+  "create_better_networking.frequency.empty": "Nisuna frecuensa salvà. Dòpara Maiusc + clic de sanca so un bloco cołegà par copiarghene una.",
+  "create_better_networking.frequency.inactive": "Quel paneło del misurador de fàbrica el xe inativo",
+  "create_better_networking.frequency.protected": "No te ghè el permiso de canbiar queła rete",
+  "create_better_networking.frequency.same": "Quel bloco el dòpara za sta frecuensa",
+  "create_better_networking.frequency.cleared": "Rete dei apunti scancełà"
+}

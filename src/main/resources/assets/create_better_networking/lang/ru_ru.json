@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Настройки",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Настройки",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Настройки",
+  "create_better_networking.configuration.showNetworkIdInHud": "Показывать ID сети в интерфейсе",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Показывать ID сети в интерфейсе подсветки планшета, если у сети нет имени",
+  "create_better_networking.frequency.copied": "Сеть %s скопирована в планшет",
+  "create_better_networking.frequency.pasted": "Применена сеть %s",
+  "create_better_networking.frequency.saved": "Сеть: %s",
+  "create_better_networking.frequency.controls": "Shift + ЛКМ — копировать; ЛКМ — вставить. Чтобы назвать сеть, добавьте в планшет запись, содержащую только #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Сеть %s  •  Подсвечено блоков: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Подсвечено блоков: %s",
+  "create_better_networking.frequency.empty": "Частота не сохранена. Нажмите Shift + ЛКМ по подключённому блоку, чтобы скопировать её.",
+  "create_better_networking.frequency.inactive": "Эта панель заводского индикатора неактивна",
+  "create_better_networking.frequency.protected": "У вас нет разрешения изменять эту сеть",
+  "create_better_networking.frequency.same": "Этот блок уже использует эту частоту",
+  "create_better_networking.frequency.cleared": "Сеть в планшете очищена"
+}

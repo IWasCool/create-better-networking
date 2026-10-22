@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configuration",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configuration",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configuration",
+  "create_better_networking.configuration.showNetworkIdInHud": "Afficher l’identifiant du réseau dans l’ATH",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Afficher l’identifiant du réseau dans l’ATH de surbrillance du presse-papiers lorsque le réseau n’a pas de nom",
+  "create_better_networking.frequency.copied": "Réseau %s copié dans le presse-papiers",
+  "create_better_networking.frequency.pasted": "Réseau %s appliqué",
+  "create_better_networking.frequency.saved": "Réseau : %s",
+  "create_better_networking.frequency.controls": "Maj + clic gauche pour copier ; clic gauche pour coller. Pour nommer un réseau, ajoutez une entrée au presse-papiers contenant uniquement #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Réseau %s  •  %s blocs en surbrillance",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocs en surbrillance",
+  "create_better_networking.frequency.empty": "Aucune fréquence enregistrée. Faites Maj + clic gauche sur un bloc connecté pour en copier une.",
+  "create_better_networking.frequency.inactive": "Ce panneau de jauge d’usine est inactif",
+  "create_better_networking.frequency.protected": "Vous n’avez pas la permission de modifier ce réseau",
+  "create_better_networking.frequency.same": "Ce bloc utilise déjà cette fréquence",
+  "create_better_networking.frequency.cleared": "Réseau du presse-papiers effacé"
+}

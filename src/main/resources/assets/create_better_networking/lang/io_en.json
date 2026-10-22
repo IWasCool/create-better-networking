@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ajusti",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ajusti",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ajusti",
+  "create_better_networking.configuration.showNetworkIdInHud": "Montrar la ret-identigilo en HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Montrar la ret-identigilo en la emfazo-ekrano di la kopi-tabelo kande la reto ne havas nomo",
+  "create_better_networking.frequency.copied": "Reto %s kopiita en la kopi-tabelo",
+  "create_better_networking.frequency.pasted": "Reto %s aplikita",
+  "create_better_networking.frequency.saved": "Reto: %s",
+  "create_better_networking.frequency.controls": "Shift e sinistra kliko por kopiar; sinistra kliko por gluar. Por nomizar reto, adjuntez en la kopi-tabelo enskribo kun nur #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Reto %s  •  %s bloki emfazita",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloki emfazita",
+  "create_better_networking.frequency.empty": "Nula frequeso konservita. Shift e sinistra kliko sur konektita bloko por kopiar un.",
+  "create_better_networking.frequency.inactive": "Ta panelo di fabrik-mezurilo esas neaktiva",
+  "create_better_networking.frequency.protected": "Vu ne havas permiso por chanjar ta reto",
+  "create_better_networking.frequency.same": "Ta bloko ja uzas ica frequeso",
+  "create_better_networking.frequency.cleared": "La reto di la kopi-tabelo efacita"
+}

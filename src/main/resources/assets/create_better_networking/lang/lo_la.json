@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – ການຕັ້ງຄ່າ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – ການຕັ້ງຄ່າ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – ການຕັ້ງຄ່າ",
+  "create_better_networking.configuration.showNetworkIdInHud": "ສະແດງ ID ເຄືອຂ່າຍໃນ HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "ສະແດງ ID ເຄືອຂ່າຍໃນໜ້າຈໍເນັ້ນຂອງຄລິບບອດ ເມື່ອເຄືອຂ່າຍບໍ່ມີຊື່",
+  "create_better_networking.frequency.copied": "ສຳເນົາເຄືອຂ່າຍ %s ໃສ່ຄລິບບອດແລ້ວ",
+  "create_better_networking.frequency.pasted": "ນຳໃຊ້ເຄືອຂ່າຍ %s ແລ້ວ",
+  "create_better_networking.frequency.saved": "ເຄືອຂ່າຍ: %s",
+  "create_better_networking.frequency.controls": "Shift + ຄລິກຊ້າຍເພື່ອສຳເນົາ; ຄລິກຊ້າຍເພື່ອວາງ. ເພື່ອຕັ້ງຊື່ເຄືອຂ່າຍ ໃຫ້ເພີ່ມລາຍການໃນຄລິບບອດທີ່ມີພຽງ #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "ເຄືອຂ່າຍ %s  •  ເນັ້ນ %s ບລັອກ",
+  "create_better_networking.frequency.highlight_status_hidden": "ເນັ້ນ %s ບລັອກ",
+  "create_better_networking.frequency.empty": "ບໍ່ມີຄວາມຖີ່ທີ່ບັນທຶກ. ໃຊ້ Shift + ຄລິກຊ້າຍທີ່ບລັອກທີ່ເຊື່ອມຕໍ່ເພື່ອສຳເນົາ.",
+  "create_better_networking.frequency.inactive": "ແຜງມາດວັດໂຮງງານນີ້ບໍ່ເຮັດວຽກ",
+  "create_better_networking.frequency.protected": "ທ່ານບໍ່ມີສິດປ່ຽນເຄືອຂ່າຍນີ້",
+  "create_better_networking.frequency.same": "ບລັອກນີ້ໃຊ້ຄວາມຖີ່ນີ້ຢູ່ແລ້ວ",
+  "create_better_networking.frequency.cleared": "ລຶບເຄືອຂ່າຍໃນຄລິບບອດແລ້ວ"
+}

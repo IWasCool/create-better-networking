@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configuraçión",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configuraçión",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configuraçión",
+  "create_better_networking.configuration.showNetworkIdInHud": "Moçtrâ el ID de la rê en el HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Moçtrâ el ID de la rê en er reçartao der portapapelê cuando la rê no tenga nombre",
+  "create_better_networking.frequency.copied": "Rê %s copiada ar portapapelê",
+  "create_better_networking.frequency.pasted": "Rê %s aplicada",
+  "create_better_networking.frequency.saved": "Rê: %s",
+  "create_better_networking.frequency.controls": "Mayúç + clî îquierdo pa copiâ; clî îquierdo pa pegâ. Pa nombrâ una rê, añade una entrada ar portapapelê que contenga çolo #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rê %s  •  %s bloquê reçartao",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloquê reçartao",
+  "create_better_networking.frequency.empty": "No ay ninguna frecuençia guardá. Uça Mayúç + clî îquierdo en un bloque conectao pa copiâ una.",
+  "create_better_networking.frequency.inactive": "Eçe panê der indicadô de fábrica eçtá inactivo",
+  "create_better_networking.frequency.protected": "No tienê permiço pa cambiâ eça rê",
+  "create_better_networking.frequency.same": "Eçe bloque ya uça eçta frecuençia",
+  "create_better_networking.frequency.cleared": "Rê der portapapelê borrá"
+}

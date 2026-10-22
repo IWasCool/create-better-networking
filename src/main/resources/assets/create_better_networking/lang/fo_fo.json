@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Stillingar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Stillingar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Stillingar",
+  "create_better_networking.configuration.showNetworkIdInHud": "Vís net-ID í HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Vís net-ID í merkingarvísingini hjá klemmiborðinum, tá netið einki navn hevur",
+  "create_better_networking.frequency.copied": "Net %s avritað á klemmiborðið",
+  "create_better_networking.frequency.pasted": "Net %s tikið í nýtslu",
+  "create_better_networking.frequency.saved": "Net: %s",
+  "create_better_networking.frequency.controls": "Shift-vinstraklikk fyri at avrita; vinstraklikk fyri at líma inn. Gev netinum navn við at leggja eina reglu á klemmiborðið við bert #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Net %s  •  %s blokkar merktir",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokkar merktir",
+  "create_better_networking.frequency.empty": "Eingin títtleiki goymdur. Shift-vinstraklikk á ein íbundnan blokk fyri at avrita ein.",
+  "create_better_networking.frequency.inactive": "Hetta verksmiðjumátaraborðið er óvirkið",
+  "create_better_networking.frequency.protected": "Tú hevur ikki loyvi at broyta hetta netið",
+  "create_better_networking.frequency.same": "Hesin blokkurin brúkar longu henda títtleikan",
+  "create_better_networking.frequency.cleared": "Netið á klemmiborðinum er strikað"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "הגדרות Create: Better Networking",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "הגדרות Create: Better Networking",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "הגדרות Create: Better Networking",
+  "create_better_networking.configuration.showNetworkIdInHud": "הצגת מזהה הרשת ב־HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "הצגת מזהה הרשת בתצוגת ההדגשה של לוח הכתיבה כאשר לרשת אין שם",
+  "create_better_networking.frequency.copied": "הרשת %s הועתקה ללוח הכתיבה",
+  "create_better_networking.frequency.pasted": "הרשת %s הוחלה",
+  "create_better_networking.frequency.saved": "רשת: %s",
+  "create_better_networking.frequency.controls": "Shift + לחיצה שמאלית להעתקה; לחיצה שמאלית להדבקה. למתן שם לרשת, יש להוסיף ללוח הכתיבה רשומה המכילה רק #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "רשת %s  •  %s בלוקים מודגשים",
+  "create_better_networking.frequency.highlight_status_hidden": "%s בלוקים מודגשים",
+  "create_better_networking.frequency.empty": "לא נשמר תדר. להעתקה יש ללחוץ Shift + לחיצה שמאלית על בלוק מחובר.",
+  "create_better_networking.frequency.inactive": "לוח מד המפעל הזה אינו פעיל",
+  "create_better_networking.frequency.protected": "אין לך הרשאה לשנות את הרשת הזאת",
+  "create_better_networking.frequency.same": "הבלוק הזה כבר משתמש בתדר הזה",
+  "create_better_networking.frequency.cleared": "הרשת בלוח הכתיבה נמחקה"
+}

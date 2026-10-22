@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Eischdellunga",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Eischdellunga",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Eischdellunga",
+  "create_better_networking.configuration.showNetworkIdInHud": "Neddzwerg-ID im HUD zeichn",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Die Neddzwerg-ID in der Markierungsansichd vom Klemmbredd zeichn, wenn des Neddzwerg kann Nama hadd",
+  "create_better_networking.frequency.copied": "Neddzwerg %s aufs Klemmbredd kopierd",
+  "create_better_networking.frequency.pasted": "Neddzwerg %s übernumma",
+  "create_better_networking.frequency.saved": "Neddzwerg: %s",
+  "create_better_networking.frequency.controls": "Umschald-Linksklick zum Kopiern; Linksklick zum Eifüchn. Zum Benenna vom Neddzwerg an Eindraach midd bloß #network: Link Series ins Klemmbredd nei machn.",
+  "create_better_networking.frequency.highlight_status": "Neddzwerg %s  •  %s Blögg markierd",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Blögg markierd",
+  "create_better_networking.frequency.empty": "Ka Frequenz gschbeicherd. Midd Umschald-Linksklick auf an verbundna Block ane kopiern.",
+  "create_better_networking.frequency.inactive": "Des Fabrigoazeichefeld is ned agdiv",
+  "create_better_networking.frequency.protected": "Du derfsd des Neddzwerg ned ändern",
+  "create_better_networking.frequency.same": "Der Block nuddzd die Frequenz scho",
+  "create_better_networking.frequency.cleared": "Neddzwerg am Klemmbredd glöschd"
+}

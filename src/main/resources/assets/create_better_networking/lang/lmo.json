@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Inpostazzion",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Inpostazzion",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Inpostazzion",
+  "create_better_networking.configuration.showNetworkIdInHud": "Mostra l’ID de la red in del HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Mostra l’ID de la red in de la vista d’evidenziazzion di apunt quand la red la gh’ha minga nom",
+  "create_better_networking.frequency.copied": "Red %s copiada in di apunt",
+  "create_better_networking.frequency.pasted": "Red %s aplicada",
+  "create_better_networking.frequency.saved": "Red: %s",
+  "create_better_networking.frequency.controls": "Maiusc + clic de manzina per copià; clic de manzina per tacà. Per dà on nom a ona red, gionta in di apunt ona vos che la contegna domà #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Red %s  •  %s bloch evidenziad",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloch evidenziad",
+  "create_better_networking.frequency.empty": "Nissona frequenza salvada. Dopra Maiusc + clic de manzina su on bloch colegad per copiann vunna.",
+  "create_better_networking.frequency.inactive": "Quell panel del misurador de fabrica l’è minga ativ",
+  "create_better_networking.frequency.protected": "Te gh’hee minga el permess de cambià quella red",
+  "create_better_networking.frequency.same": "Quell bloch el dopra già questa frequenza",
+  "create_better_networking.frequency.cleared": "Red di apunt scancelada"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Instellingen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Instellingen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Instellingen",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netwerk-ID in de HUD tonen",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Toon de netwerk-ID in de markeringsweergave van het klembord als het netwerk geen naam heeft",
+  "create_better_networking.frequency.copied": "Netwerk %s naar het klembord gekopieerd",
+  "create_better_networking.frequency.pasted": "Netwerk %s toegepast",
+  "create_better_networking.frequency.saved": "Netwerk: %s",
+  "create_better_networking.frequency.controls": "Shift-linksklik om te kopiëren; linksklik om te plakken. Geef een netwerk een naam door een klembordregel toe te voegen met alleen #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Netwerk %s  •  %s blokken gemarkeerd",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokken gemarkeerd",
+  "create_better_networking.frequency.empty": "Geen frequentie opgeslagen. Shift-linksklik op een verbonden blok om er een te kopiëren.",
+  "create_better_networking.frequency.inactive": "Dat fabrieksmeterpaneel is inactief",
+  "create_better_networking.frequency.protected": "Je hebt geen toestemming om dat netwerk te wijzigen",
+  "create_better_networking.frequency.same": "Dat blok gebruikt deze frequentie al",
+  "create_better_networking.frequency.cleared": "Klembordnetwerk gewist"
+}

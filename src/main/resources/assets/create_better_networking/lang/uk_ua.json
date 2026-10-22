@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Налаштування",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Налаштування",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Налаштування",
+  "create_better_networking.configuration.showNetworkIdInHud": "Показувати ID мережі в інтерфейсі",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Показувати ID мережі в інтерфейсі підсвічування планшета, якщо мережа не має назви",
+  "create_better_networking.frequency.copied": "Мережу %s скопійовано до планшета",
+  "create_better_networking.frequency.pasted": "Застосовано мережу %s",
+  "create_better_networking.frequency.saved": "Мережа: %s",
+  "create_better_networking.frequency.controls": "Shift + ЛКМ — копіювати; ЛКМ — вставити. Щоб назвати мережу, додайте до планшета запис, що містить лише #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Мережа %s  •  Підсвічено блоків: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Підсвічено блоків: %s",
+  "create_better_networking.frequency.empty": "Частоту не збережено. Натисніть Shift + ЛКМ на під’єднаному блоці, щоб скопіювати її.",
+  "create_better_networking.frequency.inactive": "Ця панель заводського індикатора неактивна",
+  "create_better_networking.frequency.protected": "Ви не маєте дозволу змінювати цю мережу",
+  "create_better_networking.frequency.same": "Цей блок уже використовує цю частоту",
+  "create_better_networking.frequency.cleared": "Мережу в планшеті очищено"
+}

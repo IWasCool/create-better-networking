@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+  "create_better_networking.configuration.showNetworkIdInHud": "HUD ನಲ್ಲಿ ಜಾಲದ ID ತೋರಿಸಿ",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "ಜಾಲಕ್ಕೆ ಹೆಸರು ಇಲ್ಲದಾಗ ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ನ ಹೈಲೈಟ್ HUD ನಲ್ಲಿ ಜಾಲದ ID ತೋರಿಸಿ",
+  "create_better_networking.frequency.copied": "%s ಜಾಲವನ್ನು ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ",
+  "create_better_networking.frequency.pasted": "%s ಜಾಲವನ್ನು ಅನ್ವಯಿಸಲಾಗಿದೆ",
+  "create_better_networking.frequency.saved": "ಜಾಲ: %s",
+  "create_better_networking.frequency.controls": "ನಕಲಿಸಲು Shift + ಎಡ ಕ್ಲಿಕ್; ಅಂಟಿಸಲು ಎಡ ಕ್ಲಿಕ್. ಜಾಲಕ್ಕೆ ಹೆಸರಿಡಲು ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ #network: Link Series ಮಾತ್ರ ಇರುವ ನಮೂದನ್ನು ಸೇರಿಸಿ.",
+  "create_better_networking.frequency.highlight_status": "ಜಾಲ %s  •  %s ಬ್ಲಾಕ್‌ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ",
+  "create_better_networking.frequency.highlight_status_hidden": "%s ಬ್ಲಾಕ್‌ಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ",
+  "create_better_networking.frequency.empty": "ಯಾವುದೇ ಆವರ್ತನ ಉಳಿಸಿಲ್ಲ. ನಕಲಿಸಲು ಸಂಪರ್ಕಿತ ಬ್ಲಾಕ್ ಮೇಲೆ Shift + ಎಡ ಕ್ಲಿಕ್ ಮಾಡಿ.",
+  "create_better_networking.frequency.inactive": "ಈ ಕಾರ್ಖಾನೆ ಮಾಪಕ ಫಲಕ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ",
+  "create_better_networking.frequency.protected": "ಈ ಜಾಲವನ್ನು ಬದಲಿಸಲು ನಿಮಗೆ ಅನುಮತಿ ಇಲ್ಲ",
+  "create_better_networking.frequency.same": "ಈ ಬ್ಲಾಕ್ ಈಗಾಗಲೇ ಈ ಆವರ್ತನವನ್ನು ಬಳಸುತ್ತಿದೆ",
+  "create_better_networking.frequency.cleared": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ನ ಜಾಲವನ್ನು ತೆರವುಗೊಳಿಸಲಾಗಿದೆ"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking 之設",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking 之設",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking 之設",
+  "create_better_networking.configuration.showNetworkIdInHud": "示網號於幕",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "網未名者，於牘之顯示幕示其號",
+  "create_better_networking.frequency.copied": "網 %s 已錄於牘",
+  "create_better_networking.frequency.pasted": "已用網 %s",
+  "create_better_networking.frequency.saved": "網：%s",
+  "create_better_networking.frequency.controls": "按 Shift 並左擊以錄，左擊以貼。欲名其網，於牘書一行，惟含 #network: Link Series。",
+  "create_better_networking.frequency.highlight_status": "網 %s  •  已顯 %s 塊",
+  "create_better_networking.frequency.highlight_status_hidden": "已顯 %s 塊",
+  "create_better_networking.frequency.empty": "未存頻。按 Shift 並左擊相連之塊以錄之。",
+  "create_better_networking.frequency.inactive": "此工場儀板未啟",
+  "create_better_networking.frequency.protected": "汝無權改此網",
+  "create_better_networking.frequency.same": "此塊已用是頻",
+  "create_better_networking.frequency.cleared": "牘中之網已清"
+}

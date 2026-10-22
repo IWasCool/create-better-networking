@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Tetapan",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Tetapan",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Tetapan",
+  "create_better_networking.configuration.showNetworkIdInHud": "Paparkan ID rangkaian dalam HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Paparkan ID rangkaian dalam paparan sorotan papan klip apabila rangkaian tiada nama",
+  "create_better_networking.frequency.copied": "Rangkaian %s disalin ke papan klip",
+  "create_better_networking.frequency.pasted": "Rangkaian %s digunakan",
+  "create_better_networking.frequency.saved": "Rangkaian: %s",
+  "create_better_networking.frequency.controls": "Shift + klik kiri untuk menyalin; klik kiri untuk menampal. Untuk menamakan rangkaian, tambah entri papan klip yang hanya mengandungi #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rangkaian %s  •  %s blok diserlahkan",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blok diserlahkan",
+  "create_better_networking.frequency.empty": "Tiada frekuensi disimpan. Gunakan Shift + klik kiri pada blok yang disambungkan untuk menyalinnya.",
+  "create_better_networking.frequency.inactive": "Panel tolok kilang itu tidak aktif",
+  "create_better_networking.frequency.protected": "Anda tiada kebenaran untuk mengubah rangkaian itu",
+  "create_better_networking.frequency.same": "Blok itu sudah menggunakan frekuensi ini",
+  "create_better_networking.frequency.cleared": "Rangkaian papan klip dipadamkan"
+}

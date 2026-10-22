@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Dewisyow",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Dewisyow",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Dewisyow",
+  "create_better_networking.configuration.showNetworkIdInHud": "Diskwedhes ID an rosweyth yn HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Diskwedhes ID an rosweyth yn gwel golow an astel pan na vo hanow dhe’n rosweyth",
+  "create_better_networking.frequency.copied": "Rosweyth %s kopys dhe’n astel",
+  "create_better_networking.frequency.pasted": "Rosweyth %s devnydhys",
+  "create_better_networking.frequency.saved": "Rosweyth: %s",
+  "create_better_networking.frequency.controls": "Shift + klyck kledh rag kopia; klyck kledh rag pega. Rag henwel rosweyth, keworrewgh enwor yn an astel gans #network: Link Series hepken.",
+  "create_better_networking.frequency.highlight_status": "Rosweyth %s  •  %s blok golowys",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blok golowys",
+  "create_better_networking.frequency.empty": "Nyns eus menowghder gwithys. Shift + klyck kledh war blok junys rag kopia onan.",
+  "create_better_networking.frequency.inactive": "An panel musurer an gweythji-na yw diweythres",
+  "create_better_networking.frequency.protected": "Ny’s teves gront dhe’th dhe janjya an rosweyth-na",
+  "create_better_networking.frequency.same": "An blok-na a dhevnydh an menowghder-ma seulabrys",
+  "create_better_networking.frequency.cleared": "Rosweyth an astel dileys"
+}

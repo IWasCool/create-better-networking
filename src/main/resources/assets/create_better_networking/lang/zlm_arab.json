@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – تتڤن",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – تتڤن",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – تتڤن",
+  "create_better_networking.configuration.showNetworkIdInHud": "ڤاڤرکن ID رڠکاين دالم HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "ڤاڤرکن ID رڠکاين دالم ڤاڤرن سوروتن ڤاڤن کليڤ اڤابيلا رڠکاين تياد نام",
+  "create_better_networking.frequency.copied": "رڠکاين %s دسالين ک ڤاڤن کليڤ",
+  "create_better_networking.frequency.pasted": "رڠکاين %s دݢوناکن",
+  "create_better_networking.frequency.saved": "رڠکاين: %s",
+  "create_better_networking.frequency.controls": "Shift + کليک کيري اونتوق مڽالين؛ کليک کيري اونتوق منمڤل. اونتوق مناماکن رڠکاين، تمبه انتري ڤاڤن کليڤ يڠ هاڽ مڠاندوڠي #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "رڠکاين %s  •  %s بلوک دسرلهکن",
+  "create_better_networking.frequency.highlight_status_hidden": "%s بلوک دسرلهکن",
+  "create_better_networking.frequency.empty": "تياد فريکوينسي دسيمڤن. ݢوناکن Shift + کليک کيري ڤد بلوک يڠ دسمبوڠکن اونتوق مڽالينڽ.",
+  "create_better_networking.frequency.inactive": "ڤانيل تولوک کيلڠ ايت تيدق اکتيف",
+  "create_better_networking.frequency.protected": "اندا تياد کبنرن اونتوق مڠوبه رڠکاين ايت",
+  "create_better_networking.frequency.same": "بلوک ايت سوده مڠݢوناکن فريکوينسي اين",
+  "create_better_networking.frequency.cleared": "رڠکاين ڤاڤن کليڤ دڤادمکن"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Instellningar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Instellningar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Instellningar",
+  "create_better_networking.configuration.showNetworkIdInHud": "Wis netwerks-ID i HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Wis netwerks-ID i klippbords markering då netwerket it ar noð namn",
+  "create_better_networking.frequency.copied": "Netwerk %s kopierað til klippbordet",
+  "create_better_networking.frequency.pasted": "Netwerk %s anwend",
+  "create_better_networking.frequency.saved": "Netwerk: %s",
+  "create_better_networking.frequency.controls": "Skift-winsterclick för at kopiera; winsterclick för at klistra in. För at gewå netwerket namn, legg til ien rad min bara #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Netwerk %s  •  %s blokk markerad",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokk markerad",
+  "create_better_networking.frequency.empty": "Ing frekwens sparað. Skift-winsterclick å ien anslutn blokk för at kopiera ien.",
+  "create_better_networking.frequency.inactive": "Eð fabriksmetar-panelet ir inaktivt",
+  "create_better_networking.frequency.protected": "Du ar it low at endra eð netwerket",
+  "create_better_networking.frequency.same": "Eð blokket anwender redi denna frekwens",
+  "create_better_networking.frequency.cleared": "Klippbords netwerk rytt"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Instèllinge",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Instèllinge",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Instèllinge",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netwirk-ID in de HUD tuine",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Tuin de netwirk-ID in de markeringswaergave van ’t klembord es ’t netwirk geine naam haet",
+  "create_better_networking.frequency.copied": "Netwirk %s nao ’t klembord gekopieerd",
+  "create_better_networking.frequency.pasted": "Netwirk %s toegepas",
+  "create_better_networking.frequency.saved": "Netwirk: %s",
+  "create_better_networking.frequency.controls": "Shift-linksklik veur te kopiëre; linksklik veur te plakke. Gaef ’n netwirk ’ne naam door ’n klembordregel mit allein #network: Link Series toe te veuge.",
+  "create_better_networking.frequency.highlight_status": "Netwirk %s  •  %s blök gemarkeerd",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blök gemarkeerd",
+  "create_better_networking.frequency.empty": "Gein frequentie opgeslage. Shift-linksklik op ’ne verbónje blok veur eine te kopiëre.",
+  "create_better_networking.frequency.inactive": "Dat febrieksmeterpaneel is neet actief",
+  "create_better_networking.frequency.protected": "Doe höbs gein toestemming veur dat netwirk te verangere",
+  "create_better_networking.frequency.same": "Dae blok gebruuk dees frequentie al",
+  "create_better_networking.frequency.cleared": "Klembordnetwirk gewis"
+}

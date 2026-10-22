@@ -1,0 +1,58 @@
+# Build outputs and local development state
+/.gradle/
+/build/
+/.local/
+/run/
+/run-data/
+/logs/
+/.mixin.out/
+/repo/
+/validation/
+**/src/generated/**/.cache/
+
+# Third-party development mods stay local; compile dependencies resolve from public repositories.
+/libs/
+*.class
+*.jfr
+*.hprof
+*.sparkprofile
+
+# Editor and operating-system files
+/.idea/
+/.vscode/
+/.run/
+/.apt_generated/
+/.classpath
+/.eclipse/
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+/.sts4-cache/
+*.iws
+*.iml
+*.ipr
+/out/
+/bin/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and deployment history
+/MODPACK_STATUS.md
+/.env
+/.env.*
+!/.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+
+# Production source and documentation only, matching Create: New World Core.
+# Earlier tests and optional automation are preserved in a separate local archive.
+/.github/
+/src/test/
+/src/gametest/
+/tools/
+/artwork/
+/modpack/

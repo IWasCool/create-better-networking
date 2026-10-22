@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Asetukset",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Asetukset",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Asetukset",
+  "create_better_networking.configuration.showNetworkIdInHud": "Näytä verkon tunnus HUD-näytössä",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Näytä verkon tunnus leikepöydän korostusnäytössä, kun verkolla ei ole nimeä",
+  "create_better_networking.frequency.copied": "Verkko %s kopioitiin leikepöydälle",
+  "create_better_networking.frequency.pasted": "Verkko %s otettiin käyttöön",
+  "create_better_networking.frequency.saved": "Verkko: %s",
+  "create_better_networking.frequency.controls": "Vaihto + vasen napsautus kopioi; vasen napsautus liittää. Nimeä verkko lisäämällä leikepöydälle merkintä, jossa on vain #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Verkko %s  •  %s palikkaa korostettu",
+  "create_better_networking.frequency.highlight_status_hidden": "%s palikkaa korostettu",
+  "create_better_networking.frequency.empty": "Taajuutta ei ole tallennettu. Kopioi taajuus yhdistetystä palikasta painamalla vaihtoa ja napsauttamalla vasemmalla.",
+  "create_better_networking.frequency.inactive": "Tämä tehtaan mittaripaneeli ei ole aktiivinen",
+  "create_better_networking.frequency.protected": "Sinulla ei ole oikeutta muuttaa tätä verkkoa",
+  "create_better_networking.frequency.same": "Tämä palikka käyttää jo tätä taajuutta",
+  "create_better_networking.frequency.cleared": "Leikepöydän verkko tyhjennettiin"
+}

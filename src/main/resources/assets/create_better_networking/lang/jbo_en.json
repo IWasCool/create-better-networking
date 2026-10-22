@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – loi te cuxna",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – loi te cuxna",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – loi te cuxna",
+  "create_better_networking.configuration.showNetworkIdInHud": ".i ko jarco le tcana sinxa vi le HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": ".i ko jarco le tcana sinxa vi le fukpi tanbo ca lo nu le tcana cu se cmene no da",
+  "create_better_networking.frequency.copied": ".i le tcana po la’o gy. %s gy. cu se fukpi le tanbo",
+  "create_better_networking.frequency.pasted": ".i le tcana po la’o gy. %s gy. cu se pilno",
+  "create_better_networking.frequency.saved": "tcana: %s",
+  "create_better_networking.frequency.controls": ".i ko batke le Shift e le zunle ja’e lo nu fukygau .i ko zunle batke ja’e lo nu setca .i ko ciska zoi gy. #network: Link Series gy. po’o le tanbo ja’e lo nu cmene le tcana",
+  "create_better_networking.frequency.highlight_status": ".i tcana %s  •  %s bliku cu gusni",
+  "create_better_networking.frequency.highlight_status_hidden": ".i %s bliku cu gusni",
+  "create_better_networking.frequency.empty": ".i no di’ali cu se vreji .i ko Shift zunle batke le jorne bliku ja’e lo nu fukygau",
+  "create_better_networking.frequency.inactive": ".i le finti jdima bo tanbo na ca gunka",
+  "create_better_networking.frequency.protected": ".i do na se curmi lo nu galfi le tcana",
+  "create_better_networking.frequency.same": ".i le bliku ca’o pilno le di’ali",
+  "create_better_networking.frequency.cleared": ".i le tcana be le tanbo cu se vimcu"
+}

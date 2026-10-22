@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Iistellige",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Iistellige",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Iistellige",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netzwärk-ID im HUD aazeige",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "D Netzwärk-ID i de Markierigsasicht vom Chlemmbrett aazeige, wänn s Netzwärk kän Name hät",
+  "create_better_networking.frequency.copied": "Netzwärk %s uf s Chlemmbrett kopiert",
+  "create_better_networking.frequency.pasted": "Netzwärk %s übernoh",
+  "create_better_networking.frequency.saved": "Netzwärk: %s",
+  "create_better_networking.frequency.controls": "Shift-Linksklick zum Kopiere; Linksklick zum Iifüege. Zum es Netzwärk benänne, en Iitrag uf em Chlemmbrett mit nume #network: Link Series dezuefüege.",
+  "create_better_networking.frequency.highlight_status": "Netzwärk %s  •  %s Blöck markiert",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Blöck markiert",
+  "create_better_networking.frequency.empty": "Käi Frequänz gspeicheret. Mit Shift-Linksklick uf en verbundene Block eini kopiere.",
+  "create_better_networking.frequency.inactive": "Das Fabrikaazeigefäld isch inaktiv",
+  "create_better_networking.frequency.protected": "Du häsch kä Berächtigung, das Netzwärk z ändere",
+  "create_better_networking.frequency.same": "Dä Block brucht die Frequänz scho",
+  "create_better_networking.frequency.cleared": "Chlemmbrett-Netzwärk glöscht"
+}

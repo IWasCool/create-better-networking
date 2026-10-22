@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ayarlar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ayarlar",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ayarlar",
+  "create_better_networking.configuration.showNetworkIdInHud": "Ağ kimliğini HUD’da göster",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Ağın adı yoksa ağ kimliğini panonun vurgulama göstergesinde göster",
+  "create_better_networking.frequency.copied": "%s ağı panoya kopyalandı",
+  "create_better_networking.frequency.pasted": "%s ağı uygulandı",
+  "create_better_networking.frequency.saved": "Ağ: %s",
+  "create_better_networking.frequency.controls": "Kopyalamak için Shift + sol tık; yapıştırmak için sol tık. Ağa ad vermek için panoya yalnızca #network: Link Series içeren bir kayıt ekleyin.",
+  "create_better_networking.frequency.highlight_status": "Ağ %s  •  %s blok vurgulandı",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blok vurgulandı",
+  "create_better_networking.frequency.empty": "Kayıtlı frekans yok. Kopyalamak için bağlı bir bloğa Shift + sol tıklayın.",
+  "create_better_networking.frequency.inactive": "Bu fabrika gösterge paneli etkin değil",
+  "create_better_networking.frequency.protected": "Bu ağı değiştirme izniniz yok",
+  "create_better_networking.frequency.same": "Bu blok zaten bu frekansı kullanıyor",
+  "create_better_networking.frequency.cleared": "Panodaki ağ temizlendi"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ezarpenak",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ezarpenak",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ezarpenak",
+  "create_better_networking.configuration.showNetworkIdInHud": "Erakutsi sarearen IDa HUD pantailan",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Erakutsi sarearen IDa arbelaren nabarmentze-pantailan, sareak izenik ez duenean",
+  "create_better_networking.frequency.copied": "%s sarea arbelera kopiatu da",
+  "create_better_networking.frequency.pasted": "%s sarea aplikatu da",
+  "create_better_networking.frequency.saved": "Sarea: %s",
+  "create_better_networking.frequency.controls": "Shift + ezkerreko klik kopiatzeko; ezkerreko klik itsasteko. Sareari izena emateko, gehitu arbelean #network: Link Series soilik duen sarrera bat.",
+  "create_better_networking.frequency.highlight_status": "%s sarea  •  %s bloke nabarmenduta",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloke nabarmenduta",
+  "create_better_networking.frequency.empty": "Ez dago gordetako maiztasunik. Kopiatzeko, egin Shift + ezkerreko klik konektatutako bloke batean.",
+  "create_better_networking.frequency.inactive": "Fabrikako neurgailuaren panel hori ez dago aktibo",
+  "create_better_networking.frequency.protected": "Ez duzu sare hori aldatzeko baimenik",
+  "create_better_networking.frequency.same": "Bloke horrek maiztasun hau erabiltzen du jada",
+  "create_better_networking.frequency.cleared": "Arbelaren sarea garbitu da"
+}

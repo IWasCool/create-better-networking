@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Heivehusat",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Heivehusat",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Heivehusat",
+  "create_better_networking.configuration.showNetworkIdInHud": "Čájet fierpmádaga ID HUD:as",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Čájet fierpmádaga ID čuohpusbeavddi merkehusas go fierpmádagas ii leat namma",
+  "create_better_networking.frequency.copied": "Fierpmádat %s máŋgejuvvon čuohpusbeavdái",
+  "create_better_networking.frequency.pasted": "Fierpmádat %s váldojuvvon atnui",
+  "create_better_networking.frequency.saved": "Fierpmádat: %s",
+  "create_better_networking.frequency.controls": "Shift + gurutboallu máŋgemii; gurutboallu liibmemii. Addit nammii fierpmádahkii, lasit čuohpusbeavdái teavstta mas lea dušše #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Fierpmádat %s  •  %s blohka merkejuvvon",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blohka merkejuvvon",
+  "create_better_networking.frequency.empty": "Ii leat vurkejuvvon frekveansa. Shift + gurutboallu čatnon blohka alde máŋgemii.",
+  "create_better_networking.frequency.inactive": "Dat fabriggamihtidanpanela ii leat aktiivvalaš",
+  "create_better_networking.frequency.protected": "Dus ii leat lohpi rievdadit dan fierpmádaga",
+  "create_better_networking.frequency.same": "Dat blohkka atná juo dán frekveanssa",
+  "create_better_networking.frequency.cleared": "Čuohpusbeavddi fierpmádat sihkkojuvvon"
+}

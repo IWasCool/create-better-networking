@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Beállítások",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Beállítások",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Beállítások",
+  "create_better_networking.configuration.showNetworkIdInHud": "Hálózatazonosító megjelenítése a HUD-on",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "A hálózatazonosító megjelenítése a vágólap kiemelési kijelzőjén, ha a hálózatnak nincs neve",
+  "create_better_networking.frequency.copied": "A(z) %s hálózat a vágólapra másolva",
+  "create_better_networking.frequency.pasted": "A(z) %s hálózat alkalmazva",
+  "create_better_networking.frequency.saved": "Hálózat: %s",
+  "create_better_networking.frequency.controls": "Shift + bal kattintás a másoláshoz; bal kattintás a beillesztéshez. A hálózat elnevezéséhez adj a vágólaphoz egy bejegyzést, amely csak ezt tartalmazza: #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Hálózat: %s  •  %s blokk kiemelve",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blokk kiemelve",
+  "create_better_networking.frequency.empty": "Nincs mentett frekvencia. Másoláshoz kattints egy csatlakoztatott blokkra a Shift és a bal egérgomb használatával.",
+  "create_better_networking.frequency.inactive": "Ez a gyári mérőpanel inaktív",
+  "create_better_networking.frequency.protected": "Nincs jogosultságod a hálózat módosításához",
+  "create_better_networking.frequency.same": "Ez a blokk már ezt a frekvenciát használja",
+  "create_better_networking.frequency.cleared": "A vágólap hálózata törölve"
+}

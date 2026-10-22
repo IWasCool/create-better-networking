@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Eistellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Eistellungen",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Eistellungen",
+  "create_better_networking.configuration.showNetworkIdInHud": "Netzwerk-ID im HUD zoagn",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "De Netzwerk-ID in da Markierungsansicht vom Klemmbrett zoagn, wenn s Netzwerk koan Nama hod",
+  "create_better_networking.frequency.copied": "Netzwerk %s aufs Klemmbrett kopiert",
+  "create_better_networking.frequency.pasted": "Netzwerk %s übernomma",
+  "create_better_networking.frequency.saved": "Netzwerk: %s",
+  "create_better_networking.frequency.controls": "Umschalt-Linksklick zum Kopiern; Linksklick zum Eifüagn. Zum Benenna vom Netzwerk an Klemmbretteintrag mit bloß #network: Link Series dazua doa.",
+  "create_better_networking.frequency.highlight_status": "Netzwerk %s  •  %s Blöck markiert",
+  "create_better_networking.frequency.highlight_status_hidden": "%s Blöck markiert",
+  "create_better_networking.frequency.empty": "Koa Frequenz gspeichert. Mit Umschalt-Linksklick auf an verbundna Block oane kopiern.",
+  "create_better_networking.frequency.inactive": "Des Fabrikoazeigefeld is ned aktiv",
+  "create_better_networking.frequency.protected": "Du derfst des Netzwerk ned ändern",
+  "create_better_networking.frequency.same": "Der Block nutzt de Frequenz scho",
+  "create_better_networking.frequency.cleared": "Netzwerk am Klemmbrett glöscht"
+}

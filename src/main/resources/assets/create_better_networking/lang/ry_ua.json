@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Настройкы",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Настройкы",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Настройкы",
+  "create_better_networking.configuration.showNetworkIdInHud": "Показовати ID сїтї в HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Показовати ID сїтї в підсвічованю записника, кедь сїть не має мена",
+  "create_better_networking.frequency.copied": "Сїть %s скопірована до записника",
+  "create_better_networking.frequency.pasted": "Сїть %s применена",
+  "create_better_networking.frequency.saved": "Сїть: %s",
+  "create_better_networking.frequency.controls": "Shift + лїва кнопка — копіровати; лїва кнопка — вставити. Про названя сїтї додайте до записника запис лем з #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Сїть %s  •  Підсвіченых блоків: %s",
+  "create_better_networking.frequency.highlight_status_hidden": "Підсвіченых блоків: %s",
+  "create_better_networking.frequency.empty": "Частота не збережена. Натиснїть Shift і лїву кнопку на злученім блоцї, жебы скопіровати.",
+  "create_better_networking.frequency.inactive": "Тот панел фабричного указателя неактивный",
+  "create_better_networking.frequency.protected": "Не маєте дозволу міняти тоту сїть",
+  "create_better_networking.frequency.same": "Тот блок уже хоснує тоту частоту",
+  "create_better_networking.frequency.cleared": "Сїть у записнику очищена"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Impostazions",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Impostazions",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Impostazions",
+  "create_better_networking.configuration.showNetworkIdInHud": "Mostre l’ID de rêt tal HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Mostre l’ID de rêt te viodude di evidenziazion dai aponts cuant che la rêt no à un non",
+  "create_better_networking.frequency.copied": "Rêt %s copiade tai aponts",
+  "create_better_networking.frequency.pasted": "Rêt %s aplicade",
+  "create_better_networking.frequency.saved": "Rêt: %s",
+  "create_better_networking.frequency.controls": "Maiusc + clic di çampe par copiâ; clic di çampe par tacâ. Par dâ un non a une rêt, zonte tai aponts une vôs che e contegni dome #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rêt %s  •  %s blocs evidenziâts",
+  "create_better_networking.frequency.highlight_status_hidden": "%s blocs evidenziâts",
+  "create_better_networking.frequency.empty": "Nissune frecuence salvade. Dopre Maiusc + clic di çampe suntun bloc colegât par copiâ une.",
+  "create_better_networking.frequency.inactive": "Chel panel dal misuradôr di fabriche nol è atîf",
+  "create_better_networking.frequency.protected": "No tu âs il permès di cambiâ chê rêt",
+  "create_better_networking.frequency.same": "Chel bloc al dopre za cheste frecuence",
+  "create_better_networking.frequency.cleared": "Rêt dai aponts scancelade"
+}

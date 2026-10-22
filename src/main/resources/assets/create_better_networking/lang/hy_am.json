@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Կարգավորումներ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Կարգավորումներ",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Կարգավորումներ",
+  "create_better_networking.configuration.showNetworkIdInHud": "Ցույց տալ ցանցի ID-ն HUD-ում",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Ցույց տալ ցանցի ID-ն սեղմատախտակի ընդգծման HUD-ում, երբ ցանցը անուն չունի",
+  "create_better_networking.frequency.copied": "%s ցանցը պատճենվել է սեղմատախտակին",
+  "create_better_networking.frequency.pasted": "%s ցանցը կիրառվել է",
+  "create_better_networking.frequency.saved": "Ցանց՝ %s",
+  "create_better_networking.frequency.controls": "Shift + ձախ սեղմում՝ պատճենելու, ձախ սեղմում՝ տեղադրելու համար։ Ցանցը անվանելու համար սեղմատախտակին ավելացրեք միայն #network: Link Series պարունակող գրառում։",
+  "create_better_networking.frequency.highlight_status": "Ցանց %s  •  Ընդգծվել է %s բլոկ",
+  "create_better_networking.frequency.highlight_status_hidden": "Ընդգծվել է %s բլոկ",
+  "create_better_networking.frequency.empty": "Պահված հաճախականություն չկա։ Պատճենելու համար միացված բլոկի վրա սեղմեք Shift + ձախ կոճակ։",
+  "create_better_networking.frequency.inactive": "Գործարանային չափիչի այս վահանակը ոչ ակտիվ է",
+  "create_better_networking.frequency.protected": "Այս ցանցը փոխելու թույլտվություն չունեք",
+  "create_better_networking.frequency.same": "Այս բլոկն արդեն օգտագործում է այս հաճախականությունը",
+  "create_better_networking.frequency.cleared": "Սեղմատախտակի ցանցը մաքրվել է"
+}

@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Ntọala",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Ntọala",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Ntọala",
+  "create_better_networking.configuration.showNetworkIdInHud": "Gosi ID netwọk na HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Gosi ID netwọk na ngosipụta ihe e mere ka ọ pụta ìhè mgbe netwọk enweghị aha",
+  "create_better_networking.frequency.copied": "E depụtaghachila netwọk %s na klipbọọdụ",
+  "create_better_networking.frequency.pasted": "E tinyela netwọk %s n’ọrụ",
+  "create_better_networking.frequency.saved": "Netwọk: %s",
+  "create_better_networking.frequency.controls": "Shift + pịa aka ekpe iji depụtaghachi; pịa aka ekpe iji mado. Iji kpọọ netwọk aha, tinye ihe odide nwere naanị #network: Link Series na klipbọọdụ.",
+  "create_better_networking.frequency.highlight_status": "Netwọk %s  •  Blọk %s pụtara ìhè",
+  "create_better_networking.frequency.highlight_status_hidden": "Blọk %s pụtara ìhè",
+  "create_better_networking.frequency.empty": "Enweghị ugboro echekwara. Jiri Shift + pịa aka ekpe na blọk ejikọtara iji depụtaghachi ya.",
+  "create_better_networking.frequency.inactive": "Ogwe ihe nlele ụlọ ọrụ a anaghị arụ ọrụ",
+  "create_better_networking.frequency.protected": "Ị nweghị ikike ịgbanwe netwọk a",
+  "create_better_networking.frequency.same": "Blọk a na-eji ugboro a eme ihe ugbua",
+  "create_better_networking.frequency.cleared": "E hichapụla netwọk klipbọọdụ"
+}

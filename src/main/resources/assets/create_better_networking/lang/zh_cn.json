@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking 配置",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking 配置",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking 配置",
+  "create_better_networking.configuration.showNetworkIdInHud": "在 HUD 中显示网络 ID",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "网络没有名称时，在剪贴板高亮提示中显示网络 ID",
+  "create_better_networking.frequency.copied": "已将网络 %s 复制到剪贴板",
+  "create_better_networking.frequency.pasted": "已应用网络 %s",
+  "create_better_networking.frequency.saved": "网络：%s",
+  "create_better_networking.frequency.controls": "Shift + 左键复制；左键粘贴。要为网络命名，请在剪贴板中添加一条仅包含 #network: Link Series 的记录。",
+  "create_better_networking.frequency.highlight_status": "网络 %s  •  已高亮 %s 个方块",
+  "create_better_networking.frequency.highlight_status_hidden": "已高亮 %s 个方块",
+  "create_better_networking.frequency.empty": "未保存频率。对已连接的方块按 Shift + 左键即可复制。",
+  "create_better_networking.frequency.inactive": "该工厂仪表面板未启用",
+  "create_better_networking.frequency.protected": "你没有修改该网络的权限",
+  "create_better_networking.frequency.same": "该方块已在使用此频率",
+  "create_better_networking.frequency.cleared": "已清除剪贴板中的网络"
+}

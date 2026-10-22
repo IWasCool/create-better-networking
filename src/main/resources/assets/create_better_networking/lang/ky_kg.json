@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking — Жөндөөлөр",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking — Жөндөөлөр",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking — Жөндөөлөр",
+  "create_better_networking.configuration.showNetworkIdInHud": "Тармак ID-син HUD-та көрсөтүү",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Тармактын аты жок болсо, анын ID-син алмашуу тактасынын белгилөө көрсөткүчүндө көрсөтүү",
+  "create_better_networking.frequency.copied": "%s тармагы алмашуу тактасына көчүрүлдү",
+  "create_better_networking.frequency.pasted": "%s тармагы колдонулду",
+  "create_better_networking.frequency.saved": "Тармак: %s",
+  "create_better_networking.frequency.controls": "Көчүрүү үчүн Shift + сол баскыч; коюу үчүн сол баскыч. Тармакка ат коюу үчүн тактага #network: Link Series гана камтылган жазуу кошуңуз.",
+  "create_better_networking.frequency.highlight_status": "Тармак %s  •  %s блок белгиленди",
+  "create_better_networking.frequency.highlight_status_hidden": "%s блок белгиленди",
+  "create_better_networking.frequency.empty": "Жыштык сакталган эмес. Көчүрүү үчүн туташкан блокто Shift менен сол баскычты басыңыз.",
+  "create_better_networking.frequency.inactive": "Бул завод өлчөгүчүнүн панели жигерсиз",
+  "create_better_networking.frequency.protected": "Бул тармакты өзгөртүүгө уруксатыңыз жок",
+  "create_better_networking.frequency.same": "Бул блок ушул жыштыкты колдонуп жатат",
+  "create_better_networking.frequency.cleared": "Алмашуу тактасындагы тармак тазаланды"
+}

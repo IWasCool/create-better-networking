@@ -1,0 +1,18 @@
+{
+  "create_better_networking.configuration.title": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.section.create_better_networking.common.toml": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.section.create_better_networking.common.toml.title": "Create: Better Networking – Configuración",
+  "create_better_networking.configuration.showNetworkIdInHud": "Amosar l’ID de la rede nel HUD",
+  "create_better_networking.configuration.showNetworkIdInHud.tooltip": "Amosar l’ID de la rede na vista de rescamplu del cartafueyu cuando la rede nun tenga nome",
+  "create_better_networking.frequency.copied": "Rede %s copiada al cartafueyu",
+  "create_better_networking.frequency.pasted": "Rede %s aplicada",
+  "create_better_networking.frequency.saved": "Rede: %s",
+  "create_better_networking.frequency.controls": "Mayús + clic izquierdu pa copiar; clic izquierdu pa pegar. Pa nomar una rede, amiesta una entrada al cartafueyu que contenga namás #network: Link Series.",
+  "create_better_networking.frequency.highlight_status": "Rede %s  •  %s bloques rescamplaos",
+  "create_better_networking.frequency.highlight_status_hidden": "%s bloques rescamplaos",
+  "create_better_networking.frequency.empty": "Nun hai nenguna frecuencia guardada. Usa Mayús + clic izquierdu nun bloque coneutáu pa copiar una.",
+  "create_better_networking.frequency.inactive": "Esi panel del indicador de fábrica ta inactivu",
+  "create_better_networking.frequency.protected": "Nun tienes permisu pa camudar esa rede",
+  "create_better_networking.frequency.same": "Esi bloque yá usa esta frecuencia",
+  "create_better_networking.frequency.cleared": "Rede del cartafueyu borrada"
+}
