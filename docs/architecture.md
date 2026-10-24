@@ -67,4 +67,4 @@ The Gradle build compiles production source, copies runtime resources, expands
 external and are not bundled.
 
 All 137 locale files and existing artwork remain under `src/main/resources`. Their bytes are preserved by
-`.gitattributes`. Tests and optional development automation are archived outside this production repository.
+`.gitattributes`.

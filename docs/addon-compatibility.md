@@ -60,17 +60,5 @@ priority over Create's standard block-item `Freq` data; a null result means unco
 any `BlockItem` using Create's standard `BLOCK_ENTITY_DATA` UUID named `Freq` can select a highlight network,
 regardless of its item superclass. Clipboard selection takes priority over either held item.
 
-## Compatibility evidence
-
-The pre-cleanup README recorded a matrix of Minecraft 1.21.1, NeoForge 21.1.255, Create 6.0.10, Create Stock Bridge
-0.2.0, Create Factory Logistics 1.6.1 with bundled Factory Abstractions, Applied Energistics 2 19.2.18, and GuideME
-21.1.19. Its optional tests covered Stock Bridge membership, owner preservation and unload behavior, plus Factory
-Logistics fluid gauge panels.
-
-Those tests and their optional `-PcompatTestModsDir` setup are archived with the original build. The cleanup's
-baseline run passed 161 tests and skipped the two optional addon tests because those addons were not installed.
-That run does not revalidate the historical addon matrix. A production build does not establish compatibility
-with every addon or replace testing a full modpack in game.
-
 Addons with custom registration or storage need an adapter. Unrelated systems such as item-pair redstone links
 are outside the UUID logistics integration.
