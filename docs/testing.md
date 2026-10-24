@@ -8,7 +8,7 @@ Use JDK 21 and the included Gradle wrapper:
 
 On Linux or macOS, use `bash gradlew build`. To force recompilation of the production artifact, run
 `.\gradlew.bat clean build --no-build-cache` (or `bash gradlew clean build --no-build-cache`). The build creates
-`build/libs/create_better_networking-0.0.2.jar` and its `-sources.jar` companion.
+only `build/libs/create_better_networking-0.0.2.jar`.
 
 ## Public dependencies
 
@@ -25,8 +25,9 @@ containing only Git-visible files. It must compile and package without copying l
 For a repository cleanup, compare archive entries and their uncompressed content with the preceding baseline.
 Verify production class files, mixin registrations, locale resources and expanded mod metadata. The installable
 JAR must not contain test classes, authoring inputs, dependencies, local paths, unexpanded metadata placeholders
-or development tooling. The sources JAR should contain the corresponding production Java and resources.
-Both JARs must contain `META-INF/LICENSE` with the project MIT license and
+or development tooling. `build/libs/` must contain only the installable mod JAR; source, test and development JARs
+must not be generated or attached to releases.
+The mod JAR must contain `META-INF/LICENSE` with the project MIT license and
 `META-INF/LICENSES/NeoForge-MDK-MIT.txt` with the retained template notice. The expanded mod metadata must declare
 `license="MIT"`.
 

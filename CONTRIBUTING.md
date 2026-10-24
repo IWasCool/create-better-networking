@@ -37,6 +37,10 @@ Commit production Java, shipped resources and metadata, required Gradle files, r
 notices and documentation. Tests, fixtures, diagnostics, installers, modpack overlays, artwork originals and
 optional automation stay outside Git, matching Create: New World Core.
 
+Build and distribute only the installable mod JAR. Release downloads must not include sources, test, development
+or dependency JARs. Keep release notes and the changelog focused on player-facing changes; license details belong
+in `LICENSE` and the license notices.
+
 Local worlds, dependencies, caches, logs and credentials remain ignored. Record public changes in
 [CHANGELOG.md](CHANGELOG.md); local deployment history belongs in ignored `MODPACK_STATUS.md`. Do not infer an
 installed or published release from a successful build. The project's MIT license applies; retain third-party notices.

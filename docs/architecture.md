@@ -63,8 +63,8 @@ snapshots are tied to the exact client level instance.
 ## Build and resources
 
 The Gradle build compiles production source, copies runtime resources, expands
-`src/main/templates/META-INF/neoforge.mods.toml`, and creates the mod and sources JARs. The sources JAR contains
-production code and resources only. Compile dependencies are external and are not bundled.
+`src/main/templates/META-INF/neoforge.mods.toml`, and creates only the installable mod JAR. Compile dependencies are
+external and are not bundled.
 
 All 137 locale files and existing artwork remain under `src/main/resources`. Their bytes are preserved by
 `.gitattributes`. Tests and optional development automation are archived outside this production repository.
