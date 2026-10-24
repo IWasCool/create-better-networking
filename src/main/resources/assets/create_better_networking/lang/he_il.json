@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "לוח מד המפעל הזה אינו פעיל",
   "create_better_networking.frequency.protected": "אין לך הרשאה לשנות את הרשת הזאת",
   "create_better_networking.frequency.same": "הבלוק הזה כבר משתמש בתדר הזה",
-  "create_better_networking.frequency.cleared": "הרשת בלוח הכתיבה נמחקה"
+  "create_better_networking.frequency.cleared": "הרשת בלוח הכתיבה נמחקה",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

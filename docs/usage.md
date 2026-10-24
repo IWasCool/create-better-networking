@@ -1,5 +1,27 @@
 # Clipboard controls
 
+## Client-only installation
+
+The client automatically checks whether the connected server supports Better Networking. On a Create server
+without it, hold a clipboard and Shift-left-click a supported block or the active gauge panel under the crosshair
+to select its network. Nearby members receive outlines and the HUD shows their count. Shift-left-click air to
+clear the selection. Left-clicking a supported block explains that applying a network requires the server mod.
+
+This selection exists only in your client session, is shared by your clipboards, and clears when you disconnect.
+It does not write clipboard item data, change block networks, or save shared names. A `#network:` clipboard entry
+still takes priority when choosing a network to display; it cannot create or apply a network on the server.
+Remove that entry to return to the copied local selection. Untuned gauges keep Create's normal placement rules.
+
+Client-only highlights scan synchronized block entities in already received chunks once every 20 ticks, and refresh
+immediately after selection. Counts cover the members your client knows about; they may lag behind server changes
+or omit addon blocks whose network data is not synchronized. No chunks are requested or loaded by the scan.
+Clipboard attacks are intercepted before digging packets are sent, protecting blocks in survival and creative.
+
+## With server support
+
+Install Better Networking on both sides to enable the full tools below. A server with the mod also accepts clients
+without it; their clipboard interactions retain Create's normal behavior.
+
 Hold a Create clipboard in the main hand or offhand. Shift-left-click a supported block to copy its logistics
 network, then left-click another supported block to apply it. Shift-left-click air to clear saved network data.
 Holding any clipboard prevents block mining in survival and creative, including blocks without network support.
@@ -36,7 +58,7 @@ items use Create's standard `BLOCK_ENTITY_DATA` UUID named `Freq`; item capabili
 storage. Members of the selected network receive outlines, and the HUD shows the network name or shortened UUID
 and the number of distinct highlighted blocks.
 
-Membership snapshots come from the server once every 20 player ticks and immediately after copy/paste operations.
+With server support, membership snapshots come from the server once every 20 player ticks and immediately after copy/paste operations.
 Discovery scans already loaded chunks within four chunks of the player and applies an interaction-distance check;
 it does not load distant chunks or enumerate the entire world. The client discards snapshots from other
 dimensions and stops drawing snapshots older than 60 ticks. Multiple panels on one gauge count as one block.

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Hindi aktibo ang panel ng panukat ng pabrika na iyon",
   "create_better_networking.frequency.protected": "Wala kang pahintulot na baguhin ang network na iyon",
   "create_better_networking.frequency.same": "Ginagamit na ng blokeng iyon ang frequency na ito",
-  "create_better_networking.frequency.cleared": "Nabura ang network sa clipboard"
+  "create_better_networking.frequency.cleared": "Nabura ang network sa clipboard",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

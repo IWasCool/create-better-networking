@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Daardie fabrieksmeterpaneel is onaktief",
   "create_better_networking.frequency.protected": "Jy het nie toestemming om daardie netwerk te verander nie",
   "create_better_networking.frequency.same": "Daardie blok gebruik reeds hierdie frekwensie",
-  "create_better_networking.frequency.cleared": "Knipbordnetwerk skoongemaak"
+  "create_better_networking.frequency.cleared": "Knipbordnetwerk skoongemaak",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

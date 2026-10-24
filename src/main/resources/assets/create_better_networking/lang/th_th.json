@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "แผงมาตรวัดโรงงานนี้ไม่ได้ใช้งาน",
   "create_better_networking.frequency.protected": "คุณไม่มีสิทธิ์เปลี่ยนเครือข่ายนี้",
   "create_better_networking.frequency.same": "บล็อกนี้ใช้ความถี่นี้อยู่แล้ว",
-  "create_better_networking.frequency.cleared": "ล้างเครือข่ายในคลิปบอร์ดแล้ว"
+  "create_better_networking.frequency.cleared": "ล้างเครือข่ายในคลิปบอร์ดแล้ว",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

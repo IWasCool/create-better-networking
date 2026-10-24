@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Tá an painéal tomhsaire monarchan sin neamhghníomhach",
   "create_better_networking.frequency.protected": "Níl cead agat an líonra sin a athrú",
   "create_better_networking.frequency.same": "Tá an bhloc sin ag úsáid na minicíochta seo cheana",
-  "create_better_networking.frequency.cleared": "Glanadh líonra an ghearrthaisce"
+  "create_better_networking.frequency.cleared": "Glanadh líonra an ghearrthaisce",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

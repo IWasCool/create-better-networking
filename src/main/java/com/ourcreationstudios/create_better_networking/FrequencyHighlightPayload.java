@@ -12,7 +12,7 @@ import net.minecraft.network.protocol.common.custom.CustomPacketPayload;
 import net.minecraft.resources.ResourceLocation;
 
 /**
- * A snapshot of nearby network members, determined from the server's block entities.
+ * A snapshot of nearby network members, collected on the server or locally in client-only mode.
  * links includes all supported logistics blocks, including addons. tickers is retained
  * in the wire format for compatibility with earlier snapshots.
  */

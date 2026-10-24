@@ -4,6 +4,11 @@ Better Networking targets UUID-based Create logistics networks. Automatic discov
 stock-checking blocks and addon subclasses of Create's `LogisticallyLinkedBehaviour`, including subclasses with
 custom behaviour types. The shared mixin implements `NetworkFrequencyHolder` on the base behaviour.
 
+In client-only mode, discovery can read only data the server already synchronizes. Addon frequency getters and
+capability providers must work on the client to participate in local selection and highlights. Local reads do not
+invoke server permission checks or setters. Actual clipboard changes still require both sides and retain all
+server permission checks.
+
 Moving a linked behaviour removes old live and global membership, assigns the new UUID, runs global links'
 initialization overrides, and keeps the new link alive. Calling the subclass's initialization method preserves
 addon-specific registration and ownership logic.

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "ქარხნის საზომის ეს პანელი არააქტიურია",
   "create_better_networking.frequency.protected": "ამ ქსელის შეცვლის უფლება არ გაქვთ",
   "create_better_networking.frequency.same": "ეს ბლოკი უკვე იყენებს ამ სიხშირეს",
-  "create_better_networking.frequency.cleared": "დაფის ქსელი გასუფთავებულია"
+  "create_better_networking.frequency.cleared": "დაფის ქსელი გასუფთავებულია",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

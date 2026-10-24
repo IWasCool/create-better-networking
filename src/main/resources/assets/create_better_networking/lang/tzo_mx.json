@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Mu ta x-a’tej li panel sventa fábricae",
   "create_better_networking.frequency.protected": "Mu xu’ xajel li rede",
   "create_better_networking.frequency.same": "Li kubo li’e ta sk’an li frecuencia li’e xa",
-  "create_better_networking.frequency.cleared": "La stup’ red ta vun"
+  "create_better_networking.frequency.cleared": "La stup’ red ta vun",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ky panel i matësit të fabrikës është joaktiv",
   "create_better_networking.frequency.protected": "Nuk ke leje ta ndryshosh këtë rrjet",
   "create_better_networking.frequency.same": "Ky bllok e përdor tashmë këtë frekuencë",
-  "create_better_networking.frequency.cleared": "Rrjeti në kujtesë u pastrua"
+  "create_better_networking.frequency.cleared": "Rrjeti në kujtesë u pastrua",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

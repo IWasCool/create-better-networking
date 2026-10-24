@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Был завод күрһәткесе панеле әүҙем түгел",
   "create_better_networking.frequency.protected": "Был селтәрҙе үҙгәртергә рөхсәтегеҙ юҡ",
   "create_better_networking.frequency.same": "Был блок ошо йышлыҡты ҡуллана инде",
-  "create_better_networking.frequency.cleared": "Алмашыу таҡтаһындағы селтәр таҙартылды"
+  "create_better_networking.frequency.cleared": "Алмашыу таҡтаһындағы селтәр таҙартылды",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

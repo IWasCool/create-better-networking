@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Eð fabriksmetar-panelet ir inaktivt",
   "create_better_networking.frequency.protected": "Du ar it low at endra eð netwerket",
   "create_better_networking.frequency.same": "Eð blokket anwender redi denna frekwens",
-  "create_better_networking.frequency.cleared": "Klippbords netwerk rytt"
+  "create_better_networking.frequency.cleared": "Klippbords netwerk rytt",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

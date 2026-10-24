@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Αυτό το πλαίσιο εργοστασιακού μετρητή είναι ανενεργό",
   "create_better_networking.frequency.protected": "Δεν έχετε άδεια να αλλάξετε αυτό το δίκτυο",
   "create_better_networking.frequency.same": "Αυτός ο κύβος χρησιμοποιεί ήδη αυτήν τη συχνότητα",
-  "create_better_networking.frequency.cleared": "Το δίκτυο του προχείρου διαγράφηκε"
+  "create_better_networking.frequency.cleared": "Το δίκτυο του προχείρου διαγράφηκε",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

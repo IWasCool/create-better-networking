@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ten panel wskaźnika fabrycznego jest nieaktywny",
   "create_better_networking.frequency.protected": "Nie masz uprawnień do zmiany tej sieci",
   "create_better_networking.frequency.same": "Ten blok już używa tej częstotliwości",
-  "create_better_networking.frequency.cleared": "Wyczyszczono sieć w schowku"
+  "create_better_networking.frequency.cleared": "Wyczyszczono sieć w schowku",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

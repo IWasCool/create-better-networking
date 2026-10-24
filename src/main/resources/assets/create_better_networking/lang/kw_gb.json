@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "An panel musurer an gweythji-na yw diweythres",
   "create_better_networking.frequency.protected": "Ny’s teves gront dhe’th dhe janjya an rosweyth-na",
   "create_better_networking.frequency.same": "An blok-na a dhevnydh an menowghder-ma seulabrys",
-  "create_better_networking.frequency.cleared": "Rosweyth an astel dileys"
+  "create_better_networking.frequency.cleared": "Rosweyth an astel dileys",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

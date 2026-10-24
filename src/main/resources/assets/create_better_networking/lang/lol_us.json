@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "DAT FACTORY GAUGE PANEL IZ SLEEPIN",
   "create_better_networking.frequency.protected": "U CANT CHANGE DAT NETWORK",
   "create_better_networking.frequency.same": "DAT BLOK ALREADY HAZ DIS FREKWENCY",
-  "create_better_networking.frequency.cleared": "CLIPBORD NETWORK WENT BYEBYE"
+  "create_better_networking.frequency.cleared": "CLIPBORD NETWORK WENT BYEBYE",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

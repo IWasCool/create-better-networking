@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Aquest panell de l’indicador de fàbrica és inactiu",
   "create_better_networking.frequency.protected": "No tens permís per canviar aquesta xarxa",
   "create_better_networking.frequency.same": "Aquest bloc ja utilitza aquesta freqüència",
-  "create_better_networking.frequency.cleared": "S’ha esborrat la xarxa del porta-retalls"
+  "create_better_networking.frequency.cleared": "S’ha esborrat la xarxa del porta-retalls",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

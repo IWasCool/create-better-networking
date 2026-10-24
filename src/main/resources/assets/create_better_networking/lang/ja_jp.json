@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "この工場ゲージのパネルは無効です",
   "create_better_networking.frequency.protected": "このネットワークを変更する権限がありません",
   "create_better_networking.frequency.same": "このブロックはすでにこの周波数を使用しています",
-  "create_better_networking.frequency.cleared": "クリップボードのネットワークを消去しました"
+  "create_better_networking.frequency.cleared": "クリップボードのネットワークを消去しました",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Panel pengukur pabrik itu tidak aktif",
   "create_better_networking.frequency.protected": "Anda tidak memiliki izin untuk mengubah jaringan itu",
   "create_better_networking.frequency.same": "Blok itu sudah menggunakan frekuensi ini",
-  "create_better_networking.frequency.cleared": "Jaringan papan klip dihapus"
+  "create_better_networking.frequency.cleared": "Jaringan papan klip dihapus",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

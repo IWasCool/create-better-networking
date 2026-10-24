@@ -2,7 +2,7 @@ package com.ourcreationstudios.create_better_networking.mixin;
 
 import java.util.UUID;
 
-import com.ourcreationstudios.create_better_networking.ClipboardFrequencyInteraction;
+import com.ourcreationstudios.create_better_networking.ClipboardFrequencyClientEvents;
 import com.simibubi.create.content.logistics.packagerLink.LogisticallyLinkedClientHandler;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
@@ -16,16 +16,16 @@ abstract class LogisticallyLinkedClientHandlerMixin {
     @Shadow private static UUID previouslyHeldFrequency;
 
     @Inject(method = "tick", at = @At("HEAD"), cancellable = true, remap = false)
-    private static void createbetternetworking$useServerHighlights(CallbackInfo ci) {
+    private static void createbetternetworking$useClipboardHighlights(CallbackInfo ci) {
         var player = Minecraft.getInstance().player;
         if (player == null)
             return;
-        UUID frequency = ClipboardFrequencyInteraction.getHeldNetworkFrequency(player);
+        UUID frequency = ClipboardFrequencyClientEvents.getHeldNetworkFrequency();
         if (frequency == null)
             return;
-        previouslyHeldFrequency = frequency;
-        // The game-bus client handler draws the server's current membership snapshot.
-        // Suppress cached outlines so an old network cannot add incorrect highlights.
+        previouslyHeldFrequency = null;
+        // The game-bus handler draws either a server snapshot or locally synchronized members.
+        // Disable Create's link cache and panel outlines so there is only one highlight source.
         ci.cancel();
     }
 }

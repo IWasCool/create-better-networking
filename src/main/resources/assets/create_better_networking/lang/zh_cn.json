@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "该工厂仪表面板未启用",
   "create_better_networking.frequency.protected": "你没有修改该网络的权限",
   "create_better_networking.frequency.same": "该方块已在使用此频率",
-  "create_better_networking.frequency.cleared": "已清除剪贴板中的网络"
+  "create_better_networking.frequency.cleared": "已清除剪贴板中的网络",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Tento panel továrenského ukazovateľa nie je aktívny",
   "create_better_networking.frequency.protected": "Nemáte oprávnenie meniť túto sieť",
   "create_better_networking.frequency.same": "Tento blok už používa túto frekvenciu",
-  "create_better_networking.frequency.cleared": "Sieť v schránke vymazaná"
+  "create_better_networking.frequency.cleared": "Sieť v schránke vymazaná",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

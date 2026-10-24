@@ -25,6 +25,8 @@ public final class FrequencyHighlightServerEvents {
     }
 
     public static void refresh(ServerPlayer player) {
+        if (!FrequencyHighlightNetworking.hasClientSupport(player))
+            return;
         UUID frequency = ClipboardFrequencyInteraction.getHeldNetworkFrequency(player);
         if (frequency == null)
             return;

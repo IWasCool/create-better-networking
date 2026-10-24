@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Dat fabriggamihtidanpanela ii leat aktiivvalaš",
   "create_better_networking.frequency.protected": "Dus ii leat lohpi rievdadit dan fierpmádaga",
   "create_better_networking.frequency.same": "Dat blohkka atná juo dán frekveanssa",
-  "create_better_networking.frequency.cleared": "Čuohpusbeavddi fierpmádat sihkkojuvvon"
+  "create_better_networking.frequency.cleared": "Čuohpusbeavddi fierpmádat sihkkojuvvon",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

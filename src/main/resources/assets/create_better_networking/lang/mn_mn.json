@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Энэ үйлдвэрийн хэмжүүрийн самбар идэвхгүй байна",
   "create_better_networking.frequency.protected": "Та энэ сүлжээг өөрчлөх эрхгүй",
   "create_better_networking.frequency.same": "Энэ блок энэ давтамжийг аль хэдийн ашиглаж байна",
-  "create_better_networking.frequency.cleared": "Түр санах ойн сүлжээг арилгалаа"
+  "create_better_networking.frequency.cleared": "Түр санах ойн сүлжээг арилгалаа",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

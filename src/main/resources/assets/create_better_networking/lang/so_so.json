@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Qaybtan cabbiraha warshaddu ma shaqaynayso",
   "create_better_networking.frequency.protected": "Fasax uma lihid inaad beddesho shabakaddan",
   "create_better_networking.frequency.same": "Balooggan ayaa hore u isticmaalaya soo noqnoqoshadan",
-  "create_better_networking.frequency.cleared": "Shabakaddii sabuuradda waa la tirtiray"
+  "create_better_networking.frequency.cleared": "Shabakaddii sabuuradda waa la tirtiray",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Тот панел фабричного указателя неактивный",
   "create_better_networking.frequency.protected": "Не маєте дозволу міняти тоту сїть",
   "create_better_networking.frequency.same": "Тот блок уже хоснує тоту частоту",
-  "create_better_networking.frequency.cleared": "Сїть у записнику очищена"
+  "create_better_networking.frequency.cleared": "Сїть у записнику очищена",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

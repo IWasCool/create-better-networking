@@ -26,6 +26,9 @@ For a repository cleanup, compare archive entries and their uncompressed content
 Verify production class files, mixin registrations, locale resources and expanded mod metadata. The installable
 JAR must not contain test classes, authoring inputs, dependencies, local paths, unexpanded metadata placeholders
 or development tooling. The sources JAR should contain the corresponding production Java and resources.
+Both JARs must contain `META-INF/LICENSE` with the project MIT license and
+`META-INF/LICENSES/NeoForge-MDK-MIT.txt` with the retained template notice. The expanded mod metadata must declare
+`license="MIT"`.
 
 Runtime resource bytes are preserved by `.gitattributes`. JAR timestamps and entry ordering are reproducible;
 compare entry contents when the preceding artifact used different ZIP timestamps. Document intentional metadata
@@ -34,6 +37,32 @@ changes separately from gameplay changes.
 The tracked build contains no custom tests, fixtures, diagnostic harness or GitHub Actions workflow. Gradle's
 standard test task has no test sources, so a successful production build is compilation and packaging evidence.
 It does not certify in-game behavior, client rendering or a published release.
+
+## Optional server support checks
+
+On 2026-10-24, a separate NeoForge/JUnit harness ran the current production sources with the archived regression
+tests and new optional-server cases: **168 passed, 0 skipped, 0 failed**. The harness and reports remain outside
+the production repository. The production Gradle build still has no custom test sources.
+
+These checks exercise the actual placement and frequency mixins, all 137 language files, addon discovery,
+server-provided highlights with negotiated channels, clients without channels, local selection and clearing
+without item/network writes, held-attack cancellation, disconnect cleanup, and scans limited to received chunks.
+They also check that a supporting server retains block-click handling and receives clipboard-reset requests.
+Client input, connections and levels are mocked; these checks do not establish live multiplayer or rendering behavior.
+
+For an in-game check, use a fresh test world and these installation combinations:
+
+| Installation | Expected behavior |
+| --- | --- |
+| Client only, Create on the server | Join successfully; Shift-left-click selects, Shift-left-click air clears, loaded members highlight; applying explains the server requirement; untuned gauges keep Create's placement gate |
+| Both sides | Join successfully; copy/apply, shared names, untuned gauges and server membership snapshots work |
+| Server only, Create on the client | Join successfully; the player's clipboard retains normal Create interactions |
+
+In client-only mode, verify main-hand and offhand clipboards, survival and creative attacks, multiple gauge panels,
+dimension changes, and disconnect/reconnect. Selection should survive a dimension change, clear on disconnect,
+and never change server-side clipboard data or block networks. Counts should reflect only synchronized loaded
+members. With both sides installed, confirm protected networks still reject changes and stale snapshots do not
+leave an old block count in the HUD.
 
 ## Historical checks
 

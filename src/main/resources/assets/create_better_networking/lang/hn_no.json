@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Det fabrikkmælarfeltet er uverksamt",
   "create_better_networking.frequency.protected": "Du hev ikkje løyve til å endra det nettverket",
   "create_better_networking.frequency.same": "Den blokki nyttar alt denne frekvensen",
-  "create_better_networking.frequency.cleared": "Nettverket på utklyppstavla er tømt"
+  "create_better_networking.frequency.cleared": "Nettverket på utklyppstavla er tømt",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

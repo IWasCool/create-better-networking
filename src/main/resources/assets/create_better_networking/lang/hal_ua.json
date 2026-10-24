@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ся панель фабричного показника неактивна",
   "create_better_networking.frequency.protected": "Ви не маєте дозволу міняти сю сїть",
   "create_better_networking.frequency.same": "Сей блок вже уживає сю частоту",
-  "create_better_networking.frequency.cleared": "Сїть у записнику вичищено"
+  "create_better_networking.frequency.cleared": "Сїть у записнику вичищено",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

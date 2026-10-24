@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Tämä tehtaan mittaripaneeli ei ole aktiivinen",
   "create_better_networking.frequency.protected": "Sinulla ei ole oikeutta muuttaa tätä verkkoa",
   "create_better_networking.frequency.same": "Tämä palikka käyttää jo tätä taajuutta",
-  "create_better_networking.frequency.cleared": "Leikepöydän verkko tyhjennettiin"
+  "create_better_networking.frequency.cleared": "Leikepöydän verkko tyhjennettiin",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

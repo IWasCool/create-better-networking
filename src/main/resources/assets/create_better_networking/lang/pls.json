@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Paneel fábrica tsjaꞌa",
   "create_better_networking.frequency.protected": "Sinchekjamanga red chruꞌa",
   "create_better_networking.frequency.same": "Kuubo tèꞌè chúnda frecuencia tèꞌè",
-  "create_better_networking.frequency.cleared": "Red ngaìn tabla rùxranthe"
+  "create_better_networking.frequency.cleared": "Red ngaìn tabla rùxranthe",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

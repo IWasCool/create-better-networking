@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ni tekitilōyān ītlachiyālis āmatl axtekiti",
   "create_better_networking.frequency.protected": "Axmitskāwilia inik tikpatlas ni mātlatl",
   "create_better_networking.frequency.same": "Ni xamixtli yokitekwia ni frecuencia",
-  "create_better_networking.frequency.cleared": "Omoiīxpoloh mātlatl īpan āmatlapalwilli"
+  "create_better_networking.frequency.cleared": "Omoiīxpoloh mātlatl īpan āmatlapalwilli",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

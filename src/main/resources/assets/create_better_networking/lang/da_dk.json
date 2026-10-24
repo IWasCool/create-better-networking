@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Det fabriksmålerpanel er inaktivt",
   "create_better_networking.frequency.protected": "Du har ikke tilladelse til at ændre det netværk",
   "create_better_networking.frequency.same": "Den blok bruger allerede denne frekvens",
-  "create_better_networking.frequency.cleared": "Udklipsholderens netværk ryddet"
+  "create_better_networking.frequency.cleared": "Udklipsholderens netværk ryddet",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

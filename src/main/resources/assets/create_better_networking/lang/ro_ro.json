@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Acel panou al indicatorului de fabrică este inactiv",
   "create_better_networking.frequency.protected": "Nu ai permisiunea de a modifica acea rețea",
   "create_better_networking.frequency.same": "Acel bloc folosește deja această frecvență",
-  "create_better_networking.frequency.cleared": "Rețeaua din clipboard a fost ștearsă"
+  "create_better_networking.frequency.cleared": "Rețeaua din clipboard a fost ștearsă",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

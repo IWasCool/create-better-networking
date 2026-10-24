@@ -14,7 +14,7 @@ import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.entity.BlockEntity;
 
-/** Shared discovery for clipboard interactions and server-authoritative highlighting. */
+/** Shared discovery for clipboard interactions and server or client highlight snapshots. */
 public final class NetworkFrequencySupport {
     private NetworkFrequencySupport() {}
 

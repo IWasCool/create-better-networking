@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Dioberiant eo panell muzulier ar greizenn-se",
   "create_better_networking.frequency.protected": "N’ho peus ket an aotre da gemmañ ar rouedad-se",
   "create_better_networking.frequency.same": "Implijout a ra ar bloc’h-se ar frekañs-mañ dija",
-  "create_better_networking.frequency.cleared": "Rouedad ar golver diverket"
+  "create_better_networking.frequency.cleared": "Rouedad ar golver diverket",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

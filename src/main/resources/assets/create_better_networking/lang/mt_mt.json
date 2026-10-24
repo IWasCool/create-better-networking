@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Dak il-pannell tal-kejl tal-fabbrika mhuwiex attiv",
   "create_better_networking.frequency.protected": "M’għandekx permess tibdel dak in-netwerk",
   "create_better_networking.frequency.same": "Dik il-blokka diġà tuża din il-frekwenza",
-  "create_better_networking.frequency.cleared": "In-netwerk tal-clipboard tħassar"
+  "create_better_networking.frequency.cleared": "In-netwerk tal-clipboard tħassar",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

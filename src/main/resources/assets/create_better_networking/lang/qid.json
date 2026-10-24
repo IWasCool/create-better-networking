@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Panel pengoekoer pabrik itoe tidak aktif",
   "create_better_networking.frequency.protected": "Anda tidak memiliki izin oentoek mengoebah djaringan itoe",
   "create_better_networking.frequency.same": "Blok itoe soedah menggoenakan frekwensi ini",
-  "create_better_networking.frequency.cleared": "Djaringan papan klip dihapoes"
+  "create_better_networking.frequency.cleared": "Djaringan papan klip dihapoes",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

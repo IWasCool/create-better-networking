@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "ແຜງມາດວັດໂຮງງານນີ້ບໍ່ເຮັດວຽກ",
   "create_better_networking.frequency.protected": "ທ່ານບໍ່ມີສິດປ່ຽນເຄືອຂ່າຍນີ້",
   "create_better_networking.frequency.same": "ບລັອກນີ້ໃຊ້ຄວາມຖີ່ນີ້ຢູ່ແລ້ວ",
-  "create_better_networking.frequency.cleared": "ລຶບເຄືອຂ່າຍໃນຄລິບບອດແລ້ວ"
+  "create_better_networking.frequency.cleared": "ລຶບເຄືອຂ່າຍໃນຄລິບບອດແລ້ວ",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

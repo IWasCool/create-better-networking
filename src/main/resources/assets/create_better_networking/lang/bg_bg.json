@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Този панел на фабричния индикатор е неактивен",
   "create_better_networking.frequency.protected": "Нямате разрешение да променяте тази мрежа",
   "create_better_networking.frequency.same": "Този блок вече използва тази честота",
-  "create_better_networking.frequency.cleared": "Мрежата в клипборда е изчистена"
+  "create_better_networking.frequency.cleared": "Мрежата в клипборда е изчистена",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

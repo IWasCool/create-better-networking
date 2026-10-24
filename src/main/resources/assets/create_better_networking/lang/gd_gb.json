@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Tha pannal tomhais an fhactaraidh sin neo-ghnìomhach",
   "create_better_networking.frequency.protected": "Chan eil cead agad an lìonra sin atharrachadh",
   "create_better_networking.frequency.same": "Tha am bloca sin a’ cleachdadh an tricead seo mu thràth",
-  "create_better_networking.frequency.cleared": "Chaidh lìonra na stòr-bhùird fhalamhachadh"
+  "create_better_networking.frequency.cleared": "Chaidh lìonra na stòr-bhùird fhalamhachadh",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

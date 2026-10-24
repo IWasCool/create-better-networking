@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ta panelo di fabrik-mezurilo esas neaktiva",
   "create_better_networking.frequency.protected": "Vu ne havas permiso por chanjar ta reto",
   "create_better_networking.frequency.same": "Ta bloko ja uzas ica frequeso",
-  "create_better_networking.frequency.cleared": "La reto di la kopi-tabelo efacita"
+  "create_better_networking.frequency.cleared": "La reto di la kopi-tabelo efacita",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

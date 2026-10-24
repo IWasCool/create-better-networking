@@ -62,6 +62,10 @@ sourceSets.main.resources.srcDir generateModMetadata
 neoForge.ideSyncTask generateModMetadata
 
 tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+tasks.withType(Jar).configureEach {
+    from('LICENSE') { into 'META-INF' }
+    from('LICENSES/NeoForge-MDK-MIT.txt') { into 'META-INF/LICENSES' }
+}
 tasks.withType(AbstractArchiveTask).configureEach {
     includeEmptyDirs = false
     preserveFileTimestamps = false

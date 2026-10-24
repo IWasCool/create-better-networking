@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ese panel do indicador de fábrica está inactivo",
   "create_better_networking.frequency.protected": "Non tes permiso para cambiar esa rede",
   "create_better_networking.frequency.same": "Ese bloque xa usa esta frecuencia",
-  "create_better_networking.frequency.cleared": "Rede do portapapeis borrada"
+  "create_better_networking.frequency.cleared": "Rede do portapapeis borrada",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -39,4 +39,4 @@ optional automation stay outside Git, matching Create: New World Core.
 
 Local worlds, dependencies, caches, logs and credentials remain ignored. Record public changes in
 [CHANGELOG.md](CHANGELOG.md); local deployment history belongs in ignored `MODPACK_STATUS.md`. Do not infer an
-installed or published release from a successful build. The existing All Rights Reserved license still applies.
+installed or published release from a successful build. The project's MIT license applies; retain third-party notices.

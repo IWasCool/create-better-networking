@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Esi panel del indicador de fábrica ta inactivu",
   "create_better_networking.frequency.protected": "Nun tienes permisu pa camudar esa rede",
   "create_better_networking.frequency.same": "Esi bloque yá usa esta frecuencia",
-  "create_better_networking.frequency.cleared": "Rede del cartafueyu borrada"
+  "create_better_networking.frequency.cleared": "Rede del cartafueyu borrada",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

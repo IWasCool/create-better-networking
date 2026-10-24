@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Fabrikako neurgailuaren panel hori ez dago aktibo",
   "create_better_networking.frequency.protected": "Ez duzu sare hori aldatzeko baimenik",
   "create_better_networking.frequency.same": "Bloke horrek maiztasun hau erabiltzen du jada",
-  "create_better_networking.frequency.cleared": "Arbelaren sarea garbitu da"
+  "create_better_networking.frequency.cleared": "Arbelaren sarea garbitu da",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

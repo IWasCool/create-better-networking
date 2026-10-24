@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Dat fabryksmeterpaniel is net aktyf",
   "create_better_networking.frequency.protected": "Do hast gjin tastimming om dat netwurk te feroarjen",
   "create_better_networking.frequency.same": "Dat blok brûkt dizze frekwinsje al",
-  "create_better_networking.frequency.cleared": "Klamboerdnetwurk wiske"
+  "create_better_networking.frequency.cleared": "Klamboerdnetwurk wiske",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

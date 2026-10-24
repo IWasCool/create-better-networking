@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Гэтая панэль завадскога індыкатара неактыўная",
   "create_better_networking.frequency.protected": "Вы не маеце дазволу змяняць гэтую сетку",
   "create_better_networking.frequency.same": "Гэты блок ужо выкарыстоўвае гэтую частату",
-  "create_better_networking.frequency.cleared": "Сетка ў планшэце ачышчана"
+  "create_better_networking.frequency.cleared": "Сетка ў планшэце ачышчана",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

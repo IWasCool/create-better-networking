@@ -41,6 +41,8 @@ public final class ClipboardFrequencyInteraction {
     }
 
     static void onBlockBreak(BlockEvent.BreakEvent event) {
+        if (event.getPlayer() instanceof ServerPlayer player && !FrequencyHighlightNetworking.hasClientSupport(player))
+            return;
         if (isHoldingClipboard(event.getPlayer()))
             event.setCanceled(true);
     }
@@ -91,11 +93,11 @@ public final class ClipboardFrequencyInteraction {
         return name.isEmpty() ? null : name;
     }
 
-    private static boolean isClipboard(ItemStack stack) {
+    static boolean isClipboard(ItemStack stack) {
         return stack.is(BuiltInRegistries.ITEM.get(ResourceLocation.parse("create:clipboard")));
     }
 
-    private static UUID frequencyForName(String name) {
+    static UUID frequencyForName(String name) {
         String normalized = name.trim().toLowerCase(Locale.ROOT);
         return UUID.nameUUIDFromBytes((CreateBetterNetworking.MODID + ":frequency:" + normalized)
                 .getBytes(StandardCharsets.UTF_8));
@@ -119,6 +121,8 @@ public final class ClipboardFrequencyInteraction {
 
     static void onLeftClickBlock(PlayerInteractEvent.LeftClickBlock event) {
         Player player = event.getEntity();
+        if (player instanceof ServerPlayer serverPlayer && !FrequencyHighlightNetworking.hasClientSupport(serverPlayer))
+            return;
         ItemStack clipboard = getClipboard(player);
         if (clipboard.isEmpty())
             return;
@@ -216,6 +220,9 @@ public final class ClipboardFrequencyInteraction {
     }
 
     public static void resetClipboardFromRequest(Player player) {
+        if (!(player instanceof ServerPlayer serverPlayer)
+                || !FrequencyHighlightNetworking.hasClientSupport(serverPlayer))
+            return;
         if (!player.isShiftKeyDown())
             return;
         ItemStack clipboard = getClipboard(player);
@@ -226,9 +233,7 @@ public final class ClipboardFrequencyInteraction {
         CompoundData.clearFrequency(clipboard);
         player.getInventory().setChanged();
         player.containerMenu.broadcastChanges();
-        if (player instanceof ServerPlayer serverPlayer)
-            sendFeedback(serverPlayer, "create_better_networking.frequency.cleared", "",
-                    ChatFormatting.GREEN.getColor());
+        sendFeedback(serverPlayer, "create_better_networking.frequency.cleared", "", ChatFormatting.GREEN.getColor());
     }
 
     private static PanelSlot clickedPanelSlot(Player player, net.minecraft.core.BlockPos pos,
@@ -239,7 +244,7 @@ public final class ClipboardFrequencyInteraction {
         return FactoryPanelBlock.getTargetedSlot(pos, state, blockHit.getLocation());
     }
 
-    private static ItemStack getClipboard(Player player) {
+    static ItemStack getClipboard(Player player) {
         ItemStack main = player.getMainHandItem();
         if (main.is(BuiltInRegistries.ITEM.get(ResourceLocation.parse("create:clipboard"))))
             return main;
@@ -257,7 +262,8 @@ public final class ClipboardFrequencyInteraction {
     }
 
     private static void sendFeedback(ServerPlayer player, String translationKey, String argument, int color) {
-        PacketDistributor.sendToPlayer(player, new ClipboardFeedbackPayload(translationKey, argument, color));
+        if (FrequencyHighlightNetworking.hasClientSupport(player))
+            PacketDistributor.sendToPlayer(player, new ClipboardFeedbackPayload(translationKey, argument, color));
     }
 
     private static final class CompoundData {

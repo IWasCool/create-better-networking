@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Dieses Fabrikanzeigenfeld ist inaktiv",
   "create_better_networking.frequency.protected": "Du hast keine Berechtigung, dieses Netzwerk zu ändern",
   "create_better_networking.frequency.same": "Dieser Block verwendet bereits diese Frequenz",
-  "create_better_networking.frequency.cleared": "Gespeichertes Netzwerk vom Klemmbrett entfernt"
+  "create_better_networking.frequency.cleared": "Gespeichertes Netzwerk vom Klemmbrett entfernt",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

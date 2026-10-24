@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "لوحة مقياس المصنع هذه غير نشطة",
   "create_better_networking.frequency.protected": "ليس لديك إذن لتغيير هذه الشبكة",
   "create_better_networking.frequency.same": "تستخدم هذه الكتلة هذا التردد بالفعل",
-  "create_better_networking.frequency.cleared": "مُسحت شبكة الحافظة"
+  "create_better_networking.frequency.cleared": "مُسحت شبكة الحافظة",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

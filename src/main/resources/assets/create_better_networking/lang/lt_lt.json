@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Šis gamyklos matuoklio skydelis neaktyvus",
   "create_better_networking.frequency.protected": "Neturite leidimo keisti šio tinklo",
   "create_better_networking.frequency.same": "Šis blokas jau naudoja šį dažnį",
-  "create_better_networking.frequency.cleared": "Iškarpinės tinklas išvalytas"
+  "create_better_networking.frequency.cleared": "Iškarpinės tinklas išvalytas",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Գործարանային չափիչի այս վահանակը ոչ ակտիվ է",
   "create_better_networking.frequency.protected": "Այս ցանցը փոխելու թույլտվություն չունեք",
   "create_better_networking.frequency.same": "Այս բլոկն արդեն օգտագործում է այս հաճախականությունը",
-  "create_better_networking.frequency.cleared": "Սեղմատախտակի ցանցը մաքրվել է"
+  "create_better_networking.frequency.cleared": "Սեղմատախտակի ցանցը մաքրվել է",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

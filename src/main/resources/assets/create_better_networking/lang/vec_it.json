@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Quel paneło del misurador de fàbrica el xe inativo",
   "create_better_networking.frequency.protected": "No te ghè el permiso de canbiar queła rete",
   "create_better_networking.frequency.same": "Quel bloco el dòpara za sta frecuensa",
-  "create_better_networking.frequency.cleared": "Rete dei apunti scancełà"
+  "create_better_networking.frequency.cleared": "Rete dei apunti scancełà",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

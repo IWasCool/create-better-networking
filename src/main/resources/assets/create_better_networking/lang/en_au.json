@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "That factory gauge panel is inactive",
   "create_better_networking.frequency.protected": "You do not have permission to change that network",
   "create_better_networking.frequency.same": "That block already uses this frequency",
-  "create_better_networking.frequency.cleared": "Clipboard network cleared"
+  "create_better_networking.frequency.cleared": "Clipboard network cleared",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

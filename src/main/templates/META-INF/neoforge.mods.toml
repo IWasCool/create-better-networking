@@ -11,7 +11,7 @@ modLoader="javafml" #mandatory
 loaderVersion="${loader_version_range}" #mandatory
 
 # The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
-# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+# The MIT identifier is expanded from gradle.properties; the license text is included in the JAR.
 license="${mod_license}"
 
 # A URL to refer people to when problems occur with this mod

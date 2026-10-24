@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ce panneau de jauge d’usine est inactif",
   "create_better_networking.frequency.protected": "Vous n’avez pas la permission de modifier ce réseau",
   "create_better_networking.frequency.same": "Ce bloc utilise déjà cette fréquence",
-  "create_better_networking.frequency.cleared": "Réseau du presse-papiers effacé"
+  "create_better_networking.frequency.cleared": "Réseau du presse-papiers effacé",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

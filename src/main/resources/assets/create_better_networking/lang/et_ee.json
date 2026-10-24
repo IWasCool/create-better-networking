@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "See tehase mõõdikupaneel pole aktiivne",
   "create_better_networking.frequency.protected": "Sul pole õigust seda võrku muuta",
   "create_better_networking.frequency.same": "See plokk kasutab juba seda sagedust",
-  "create_better_networking.frequency.cleared": "Lõikelaua võrk kustutati"
+  "create_better_networking.frequency.cleared": "Lõikelaua võrk kustutati",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

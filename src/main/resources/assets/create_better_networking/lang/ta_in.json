@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "இந்தத் தொழிற்சாலை அளவிப் பலகம் செயலற்றது",
   "create_better_networking.frequency.protected": "இந்தப் பிணையத்தை மாற்ற உங்களுக்கு அனுமதி இல்லை",
   "create_better_networking.frequency.same": "இந்தத் தொகுதி ஏற்கெனவே இந்த அதிர்வெண்ணைப் பயன்படுத்துகிறது",
-  "create_better_networking.frequency.cleared": "பிடிப்புப்பலகையின் பிணையம் அழிக்கப்பட்டது"
+  "create_better_networking.frequency.cleared": "பிடிப்புப்பலகையின் பிணையம் அழிக்கப்பட்டது",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

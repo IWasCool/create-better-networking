@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Bảng đồng hồ nhà máy này chưa hoạt động",
   "create_better_networking.frequency.protected": "Bạn không có quyền thay đổi mạng này",
   "create_better_networking.frequency.same": "Khối này đã sử dụng tần số này",
-  "create_better_networking.frequency.cleared": "Đã xóa mạng trên bảng ghi"
+  "create_better_networking.frequency.cleared": "Đã xóa mạng trên bảng ghi",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

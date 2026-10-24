@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Тој панел на фабричкиот показател е неактивен",
   "create_better_networking.frequency.protected": "Немаш дозвола за менување на таа мрежа",
   "create_better_networking.frequency.same": "Тој блок веќе ја користи оваа фреквенција",
-  "create_better_networking.frequency.cleared": "Мрежата во таблата е исчистена"
+  "create_better_networking.frequency.cleared": "Мрежата во таблата е исчистена",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

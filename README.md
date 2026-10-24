@@ -26,8 +26,15 @@ assigning a network; the clipboard targets the panel under the crosshair.
 
 ## Install
 
-Install the mod on **both client and server** with Minecraft **1.21.1**, NeoForge **21.1.255 or newer within the 1.21.1
-line**, and Create **6.0.x**. The development baseline is Create **6.0.10**. Install Create's required dependencies too.
+Install the mod on your **client** with Minecraft **1.21.1**, NeoForge **21.1.255 or newer within the 1.21.1 line**,
+and Create **6.0.x**. The development baseline is Create **6.0.10**. Install Create's required dependencies too.
+
+**Server installation is optional.** On a Create server without Better Networking, Shift-left-click selects a block's
+network locally, Shift-left-click air clears that selection, and the HUD and outlines show nearby members known to
+your client. Local selection is shared by your clipboards for that connection and clears when you disconnect;
+it does not change the clipboard item or the server's networks. Applying networks and placing untuned gauges require
+the mod on both sides. With both sides installed, the full controls above work automatically, including shared
+network names and server-provided membership snapshots. Clients without the mod can also join a server with it.
 
 The common config file is `config/create_better_networking-common.toml`. `showNetworkIdInHud` defaults to `true` and
 controls whether unnamed network IDs appear in the highlight HUD. Named networks still show their names.
@@ -57,8 +64,9 @@ capabilities in `com.ourcreationstudios.create_better_networking.api`.
 permissions and the historical compatibility matrix. UUID-based Create logistics networks are supported; unrelated
 frequency systems, such as item-pair redstone links, need their own integration.
 
-Translations cover all **137 language locales** shipped with Minecraft 1.21.1 and the mod's **16 translation keys**.
-These are initial machine-assisted translations; native-speaker review is welcome. Keep the literal
+Language files cover all **137 language locales** shipped with Minecraft 1.21.1 and the mod's **18 translation keys**.
+The original 16 keys have initial machine-assisted translations; the two client-only controls and server-support
+messages currently use English in every locale. Native-speaker review is welcome. Keep the literal
 `#network: Link Series` command example unchanged in translations.
 
 ## Repository layout
@@ -78,5 +86,6 @@ ignored. See [CONTRIBUTING.md](CONTRIBUTING.md) before changing code.
 
 ## License
 
-Project code and artwork retain the existing **All Rights Reserved** license. See [LICENSE](LICENSE) and
-[LICENSES/README.md](LICENSES/README.md) for the retained NeoForge template notice.
+Project code and artwork are licensed under the **MIT License**. See [LICENSE](LICENSE) and
+[LICENSES/README.md](LICENSES/README.md) for the retained NeoForge template notice and third-party boundaries.
+Both the mod and sources JARs include the project license and the NeoForge template notice.

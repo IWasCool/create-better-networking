@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Бұл зауыт өлшеуішінің панелі белсенді емес",
   "create_better_networking.frequency.protected": "Бұл желіні өзгертуге рұқсатыңыз жоқ",
   "create_better_networking.frequency.same": "Бұл блок осы жиілікті қолданып тұр",
-  "create_better_networking.frequency.cleared": "Алмасу тақтасындағы желі тазартылды"
+  "create_better_networking.frequency.cleared": "Алмасу тақтасындағы желі тазартылды",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

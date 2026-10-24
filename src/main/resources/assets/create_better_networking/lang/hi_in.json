@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "यह फ़ैक्टरी गेज पैनल निष्क्रिय है",
   "create_better_networking.frequency.protected": "आपको इस नेटवर्क को बदलने की अनुमति नहीं है",
   "create_better_networking.frequency.same": "यह ब्लॉक पहले से इस आवृत्ति का उपयोग करता है",
-  "create_better_networking.frequency.cleared": "क्लिपबोर्ड का नेटवर्क साफ़ किया गया"
+  "create_better_networking.frequency.cleared": "क्लिपबोर्ड का नेटवर्क साफ़ किया गया",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

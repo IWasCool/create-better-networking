@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ta tanwa carmava ná senda",
   "create_better_networking.frequency.protected": "Lá polilyë vista ta raimë",
   "create_better_networking.frequency.same": "Ta ronwa yúya sí rimbala sina",
-  "create_better_networking.frequency.cleared": "Raimë hyalimpano hainanwa"
+  "create_better_networking.frequency.cleared": "Raimë hyalimpano hainanwa",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

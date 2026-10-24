@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Pánẹ́ẹ̀lì ìwọ̀n ilé iṣẹ́ yìí kò ṣiṣẹ́",
   "create_better_networking.frequency.protected": "O kò ní àṣẹ láti yí nẹ́tíwọ́ọ̀kì yìí padà",
   "create_better_networking.frequency.same": "Bulọ́ọ̀kù yìí ti ń lo ìgbóhùnsáfẹ́fẹ́ yìí tẹ́lẹ̀",
-  "create_better_networking.frequency.cleared": "A ti pa nẹ́tíwọ́ọ̀kì pátákó ìkọ̀wé rẹ́"
+  "create_better_networking.frequency.cleared": "A ti pa nẹ́tíwọ́ọ̀kì pátákó ìkọ̀wé rẹ́",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

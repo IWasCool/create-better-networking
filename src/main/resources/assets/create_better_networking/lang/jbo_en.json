@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": ".i le finti jdima bo tanbo na ca gunka",
   "create_better_networking.frequency.protected": ".i do na se curmi lo nu galfi le tcana",
   "create_better_networking.frequency.same": ".i le bliku ca’o pilno le di’ali",
-  "create_better_networking.frequency.cleared": ".i le tcana be le tanbo cu se vimcu"
+  "create_better_networking.frequency.cleared": ".i le tcana be le tanbo cu se vimcu",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

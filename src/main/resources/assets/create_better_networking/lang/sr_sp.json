@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Та плоча фабричког показивача није активна",
   "create_better_networking.frequency.protected": "Немаш дозволу за промену те мреже",
   "create_better_networking.frequency.same": "Тај блок већ користи ову фреквенцију",
-  "create_better_networking.frequency.cleared": "Мрежа оставе је обрисана"
+  "create_better_networking.frequency.cleared": "Мрежа оставе је обрисана",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

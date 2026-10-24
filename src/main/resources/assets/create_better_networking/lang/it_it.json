@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Quel pannello dell’indicatore di fabbrica è inattivo",
   "create_better_networking.frequency.protected": "Non hai il permesso di modificare quella rete",
   "create_better_networking.frequency.same": "Quel blocco usa già questa frequenza",
-  "create_better_networking.frequency.cleared": "Rete degli appunti cancellata"
+  "create_better_networking.frequency.cleared": "Rete degli appunti cancellata",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

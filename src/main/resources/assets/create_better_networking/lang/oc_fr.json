@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Aqueste panèl del mesurador d’usina es inactiu",
   "create_better_networking.frequency.protected": "Avètz pas la permission de modificar aqueste ret",
   "create_better_networking.frequency.same": "Aqueste blòt utiliza ja aquesta frequéncia",
-  "create_better_networking.frequency.cleared": "Ret del quichapapièrs escafat"
+  "create_better_networking.frequency.cleared": "Ret del quichapapièrs escafat",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

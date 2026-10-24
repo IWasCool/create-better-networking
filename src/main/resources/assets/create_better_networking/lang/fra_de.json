@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Des Fabrigoazeichefeld is ned agdiv",
   "create_better_networking.frequency.protected": "Du derfsd des Neddzwerg ned ändern",
   "create_better_networking.frequency.same": "Der Block nuddzd die Frequenz scho",
-  "create_better_networking.frequency.cleared": "Neddzwerg am Klemmbredd glöschd"
+  "create_better_networking.frequency.cleared": "Neddzwerg am Klemmbredd glöschd",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

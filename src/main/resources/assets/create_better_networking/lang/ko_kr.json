@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "이 공장 계기판은 비활성 상태입니다",
   "create_better_networking.frequency.protected": "이 네트워크를 변경할 권한이 없습니다",
   "create_better_networking.frequency.same": "이 블록은 이미 이 주파수를 사용하고 있습니다",
-  "create_better_networking.frequency.cleared": "클립보드의 네트워크를 지웠습니다"
+  "create_better_networking.frequency.cleared": "클립보드의 네트워크를 지웠습니다",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

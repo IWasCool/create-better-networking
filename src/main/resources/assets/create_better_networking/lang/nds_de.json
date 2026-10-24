@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Dat Fabrik-Anwiesfeld is nich aktiv",
   "create_better_networking.frequency.protected": "Du hest keen Verlööf, dat Nettwark to ännern",
   "create_better_networking.frequency.same": "De Block bruukt disse Frequenz al",
-  "create_better_networking.frequency.cleared": "Nettwark op’t Klemmboord löscht"
+  "create_better_networking.frequency.cleared": "Nettwark op’t Klemmboord löscht",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

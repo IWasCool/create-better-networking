@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Esse painel do indicador de fábrica está inativo",
   "create_better_networking.frequency.protected": "Você não tem permissão para alterar essa rede",
   "create_better_networking.frequency.same": "Esse bloco já usa esta frequência",
-  "create_better_networking.frequency.cleared": "Rede da prancheta apagada"
+  "create_better_networking.frequency.cleared": "Rede da prancheta apagada",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

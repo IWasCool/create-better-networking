@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Бу собуот кэрдиитин панела үлэлээбэт",
   "create_better_networking.frequency.protected": "Бу ситими уларытар көҥүлүҥ суох",
   "create_better_networking.frequency.same": "Бу блок бу частотаны туттар эбит",
-  "create_better_networking.frequency.cleared": "Буфер ситимэ сотулунна"
+  "create_better_networking.frequency.cleared": "Буфер ситимэ сотулунна",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

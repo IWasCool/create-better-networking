@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Chel panel dal misuradôr di fabriche nol è atîf",
   "create_better_networking.frequency.protected": "No tu âs il permès di cambiâ chê rêt",
   "create_better_networking.frequency.same": "Chel bloc al dopre za cheste frecuence",
-  "create_better_networking.frequency.cleared": "Rêt dai aponts scancelade"
+  "create_better_networking.frequency.cleared": "Rêt dai aponts scancelade",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ця панель заводського індикатора неактивна",
   "create_better_networking.frequency.protected": "Ви не маєте дозволу змінювати цю мережу",
   "create_better_networking.frequency.same": "Цей блок уже використовує цю частоту",
-  "create_better_networking.frequency.cleared": "Мережу в планшеті очищено"
+  "create_better_networking.frequency.cleared": "Мережу в планшеті очищено",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

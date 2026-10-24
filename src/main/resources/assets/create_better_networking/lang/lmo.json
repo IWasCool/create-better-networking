@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Quell panel del misurador de fabrica l’è minga ativ",
   "create_better_networking.frequency.protected": "Te gh’hee minga el permess de cambià quella red",
   "create_better_networking.frequency.same": "Quell bloch el dopra già questa frequenza",
-  "create_better_networking.frequency.cleared": "Red di apunt scancelada"
+  "create_better_networking.frequency.cleared": "Red di apunt scancelada",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Das Fabriganzeeschefeld is ni agdiv",
   "create_better_networking.frequency.protected": "Du darfsd das Neddzwerg ni ändern",
   "create_better_networking.frequency.same": "Der Blog nuddzd die Fregwenz schon",
-  "create_better_networking.frequency.cleared": "Neddzwerg uffm Glemmbrädd gelöscht"
+  "create_better_networking.frequency.cleared": "Neddzwerg uffm Glemmbrädd gelöscht",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

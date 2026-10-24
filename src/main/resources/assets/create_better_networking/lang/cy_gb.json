@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Mae’r panel mesurydd ffatri hwnnw’n anweithredol",
   "create_better_networking.frequency.protected": "Nid oes gennych ganiatâd i newid y rhwydwaith hwnnw",
   "create_better_networking.frequency.same": "Mae’r bloc hwnnw eisoes yn defnyddio’r amledd hwn",
-  "create_better_networking.frequency.cleared": "Cliriwyd rhwydwaith y clipfwrdd"
+  "create_better_networking.frequency.cleared": "Cliriwyd rhwydwaith y clipfwrdd",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

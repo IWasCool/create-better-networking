@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Bu zavod göstəricisinin paneli fəal deyil",
   "create_better_networking.frequency.protected": "Bu şəbəkəni dəyişmək icazəniz yoxdur",
   "create_better_networking.frequency.same": "Bu blok artıq bu tezlikdən istifadə edir",
-  "create_better_networking.frequency.cleared": "Buferdəki şəbəkə təmizləndi"
+  "create_better_networking.frequency.cleared": "Buferdəki şəbəkə təmizləndi",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

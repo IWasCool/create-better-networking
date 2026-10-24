@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Dat febrieksmeterpaneel is neet actief",
   "create_better_networking.frequency.protected": "Doe höbs gein toestemming veur dat netwirk te verangere",
   "create_better_networking.frequency.same": "Dae blok gebruuk dees frequentie al",
-  "create_better_networking.frequency.cleared": "Klembordnetwirk gewis"
+  "create_better_networking.frequency.cleared": "Klembordnetwirk gewis",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

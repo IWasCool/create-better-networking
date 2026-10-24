@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Hetaja panel zavadskoha indykatara nieaktyŭnaja",
   "create_better_networking.frequency.protected": "Vy nie majecie dazvołu zmianiać hetuju sietku",
   "create_better_networking.frequency.same": "Hety błok užo vykarystoŭvaje hetuju častatu",
-  "create_better_networking.frequency.cleared": "Sietka ŭ płanšecie ačyščana"
+  "create_better_networking.frequency.cleared": "Sietka ŭ płanšecie ačyščana",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

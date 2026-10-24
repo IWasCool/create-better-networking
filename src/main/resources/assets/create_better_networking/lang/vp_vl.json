@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Sono fabrik-meter panel har nai hatara",
   "create_better_networking.frequency.protected": "Du har nai deki per kawari sono neta",
   "create_better_networking.frequency.same": "Sono baksu tsuka allerede denna frekvens",
-  "create_better_networking.frequency.cleared": "Neta na bordu keshitena"
+  "create_better_networking.frequency.cleared": "Neta na bordu keshitena",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }

@@ -14,5 +14,7 @@
   "create_better_networking.frequency.inactive": "Ez a gyári mérőpanel inaktív",
   "create_better_networking.frequency.protected": "Nincs jogosultságod a hálózat módosításához",
   "create_better_networking.frequency.same": "Ez a blokk már ezt a frekvenciát használja",
-  "create_better_networking.frequency.cleared": "A vágólap hálózata törölve"
+  "create_better_networking.frequency.cleared": "A vágólap hálózata törölve",
+  "create_better_networking.frequency.client_controls": "Client only: Shift-left-click to select; Shift-left-click air to clear. Selection lasts until disconnect.",
+  "create_better_networking.frequency.server_required": "Applying networks requires Better Networking on the server."
 }
