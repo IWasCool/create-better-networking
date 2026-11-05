@@ -1,5 +1,6 @@
 package com.ourcreationstudios.create_better_networking;
 
+import net.neoforged.bus.api.EventPriority;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.Mod;
@@ -11,7 +12,8 @@ public class CreateBetterNetworking {
     public static final String MODID = "create_better_networking";
 
     public CreateBetterNetworking(IEventBus modEventBus, ModContainer modContainer) {
-        NeoForge.EVENT_BUS.addListener(ClipboardFrequencyInteraction::onLeftClickBlock);
+        // Let claim protection deny the click before any clipboard or network data changes.
+        NeoForge.EVENT_BUS.addListener(EventPriority.LOWEST, false, ClipboardFrequencyInteraction::onLeftClickBlock);
         NeoForge.EVENT_BUS.addListener(ClipboardFrequencyInteraction::onBlockBreak);
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }

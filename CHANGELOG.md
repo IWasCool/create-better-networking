@@ -3,6 +3,8 @@
 ## 1.0.0
 
 - Stable release for Minecraft 1.21.1 and Create 6.0.x.
+- Run clipboard interactions after claim protection and ignore denied clicks.
+- Check both networks' permissions before saving a network name or clipboard selection.
 - Remove unused bundled artwork and its invalid logo metadata.
 
 ## 0.0.2

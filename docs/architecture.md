@@ -49,6 +49,13 @@ handlers enqueue work on the game thread. All three payloads are optional, and b
 channels before enabling tools or sending payloads. Server code owns network changes; the client renders the
 resulting snapshots and feedback. Server interaction handlers leave players without the client mod alone.
 
+Clipboard block clicks run at `LOWEST` priority without receiving canceled events. Open Parties and Claims
+checks the same event at `HIGHEST`; FTB Chunks checks it through Architectury at `HIGH`. A denied claim click
+therefore prevents both copying and pasting. The handler also rejects canceled events when called directly.
+Create's permissions for both the existing and requested networks, plus addon holder permissions, are checked
+before updating network membership, saved names or clipboard data. Claims protect the clicked block; use Create's
+network lock to restrict access through other, unclaimed network members. Local client highlights are read-only.
+
 Without negotiated server support, clipboard attacks are canceled at the client input event before digging packets
 can be sent. Shift-left-click stores a UUID in client session memory, without changing item components. A local
 scan of received chunks supplies highlight snapshots every 20 ticks and after selection. It reads synchronized

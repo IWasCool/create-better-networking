@@ -120,6 +120,8 @@ public final class ClipboardFrequencyInteraction {
     }
 
     static void onLeftClickBlock(PlayerInteractEvent.LeftClickBlock event) {
+        if (event.isCanceled())
+            return;
         Player player = event.getEntity();
         if (player instanceof ServerPlayer serverPlayer && !FrequencyHighlightNetworking.hasClientSupport(serverPlayer))
             return;
@@ -179,12 +181,6 @@ public final class ClipboardFrequencyInteraction {
         String requestedName = getManualFrequencyName(clipboard);
         UUID copiedFrequency = requestedName == null ? CompoundData.getFrequency(clipboard)
                 : frequencyForName(requestedName);
-        if (requestedName != null) {
-            CompoundData.setFrequency(clipboard, copiedFrequency, requestedName);
-            FrequencyNamesData.setName((ServerPlayer) player, copiedFrequency, requestedName);
-            player.getInventory().setChanged();
-            player.containerMenu.broadcastChanges();
-        }
         if (copiedFrequency == null) {
             show(player, "create_better_networking.frequency.empty", ChatFormatting.RED);
             return;
@@ -193,6 +189,13 @@ public final class ClipboardFrequencyInteraction {
                 || clickedFrequency != null && !mayInteract(clickedFrequency, player)) {
             show(player, "create_better_networking.frequency.protected", ChatFormatting.RED);
             return;
+        }
+
+        if (requestedName != null) {
+            CompoundData.setFrequency(clipboard, copiedFrequency, requestedName);
+            FrequencyNamesData.setName((ServerPlayer) player, copiedFrequency, requestedName);
+            player.getInventory().setChanged();
+            player.containerMenu.broadcastChanges();
         }
 
         if (copiedFrequency.equals(clickedFrequency)) {
