@@ -7,7 +7,7 @@ Use JDK 21 and the included Gradle wrapper:
 ```
 
 On Linux/macOS, use `./gradlew clean build --no-build-cache`.
-The output is `build/libs/create_better_networking-1.0.0.jar`.
+The output is `build/libs/create_better_networking-neoforge-1.21.1-1.0.0.jar`.
 
 Dependencies resolve from public repositories. The pinned Create release and reference checksum are in
 [the dependency manifest](../gradle/mod-dependencies.json). Local modpacks and `libs/` are not build inputs.
