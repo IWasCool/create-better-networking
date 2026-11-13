@@ -56,3 +56,16 @@ __pycache__/
 /tools/
 /artwork/
 /modpack/
+
+# Production-source repository: keep local development material untracked.
+/src/clientSmoke/
+/src/testFixtures/
+/docs/
+/scripts/
+/exports/
+/screenshots/
+/AGENTS.md
+/CHANGELOG.md
+/CONTRIBUTING.md
+/MODPACK_STATUS.example.md
+/run-*/
